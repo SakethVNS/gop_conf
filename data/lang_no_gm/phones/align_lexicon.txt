@@ -1,0 +1,2439 @@
+!SIL !SIL SIL_S
+10 10 DH_B AH_I S_E
+10 10 T_B EH_I N_E
+12 12 B_B AA_I R_I AA_E
+12 12 B_B AA_I R_I AH_I HH_E
+12 12 T_B W_I EH_I L_I W_E
+1AA 1AA AA_S
+1D 1D D_S
+1Dh 1Dh D_B HH_E
+1II 1II IY_S
+1N 1N N_B N_E
+1OO 1OO AO_S
+1T 1T T_S
+1Th 1Th T_B HH_E
+1UU 1UU UW_S
+1aa 1aa AH_S
+1ae 1ae AE_S
+1aw 1aw AW_S
+1ay 1ay AY_S
+1b 1b B_S
+1bh 1bh B_B HH_E
+1c 1c CH_S
+1ch 1ch CH_B HH_E
+1d 1d DH_S
+1dh 1dh DH_B HH_E
+1ee 1ee EY_S
+1ex 1ex EH_S
+1f 1f F_S
+1g 1g G_S
+1gh 1gh G_B HH_E
+1hh 1hh HH_S
+1ii 1ii IH_S
+1j 1j JH_S
+1jh 1jh JH_B HH_E
+1k 1k K_S
+1kh 1kh K_B HH_E
+1l 1l L_S
+1m 1m M_S
+1n 1n N_S
+1oo 1oo OW_S
+1oy 1oy OY_S
+1p 1p P_S
+1ph 1ph P_B HH_E
+1r 1r R_S
+1s 1s S_S
+1sh 1sh SH_S
+1t 1t TH_S
+1th 1th TH_S
+1uu 1uu UH_S
+1w 1w W_S
+1y 1y Y_S
+1z 1z Z_S
+1zh 1zh Z_B HH_E
+2 2 DH_B OW_E
+2 2 DH_B UH_I IY_E
+2 2 T_B UW_E
+300 300 TH_B R_I IY_I HH_I AH_I N_I D_I R_I EH_I D_E
+33 33 TH_B AH_I R_I T_I IY_I TH_I R_I IY_E
+33 33 TH_B EY_I TH_I IY_I S_E
+50 50 F_B IH_I F_I T_I IY_E
+50 50 P_B AH_I CH_I AA_I S_E
+<eps> <eps> SIL
+SIL SIL SIL_S
+a a AH_S
+a a EY_S
+able able EY_B B_I AH_I L_E
+abound abound AH_B B_I AW_I N_I D_E
+abounded abounded AH_B B_I AW_I N_I D_I EH_I D_E
+about about AH_B B_I AW_I T_E
+above above AH_B B_I AW_E
+absence absence AE_B B_I S_I EH_I N_I S_E
+accident accident AE_B K_I S_I IH_I D_I EH_I N_I T_E
+accidents accidents AE_B K_I S_I IH_I D_I EH_I N_I T_I S_E
+according according AH_B K_I AO_I R_I D_I IH_I NG_E
+across across AH_B K_I R_I AO_I S_E
+act act AE_B K_I T_E
+actively actively AE_B K_I T_I IH_I V_I L_I IY_E
+actively actively AE_B K_I T_I IH_I W_I L_I IY_E
+actually actually AE_B K_I CH_I UH_I L_I IY_E
+admitted admitted AE_B D_I M_I IH_I T_I EH_I D_E
+advice advice AH_B D_I V_I AY_I S_E
+advice advice AH_B D_I W_I AY_I S_E
+advised advised AH_B D_I V_I AY_I Z_I D_E
+advised advised AH_B D_I W_I AY_I Z_I D_E
+afford afford AH_B F_I OW_I R_I D_E
+afraid afraid AH_B F_I R_I EY_I D_E
+africa africa AE_B F_I R_I IH_I K_I AA_E
+after after AA_B F_I T_I AH_I R_E
+afternoon afternoon AA_B F_I T_I AH_I N_I UW_I N_E
+afternoon afternoon AA_B F_I T_I AH_I R_I N_I UW_I N_E
+again again AH_B G_I EY_I N_E
+agent agent EY_B JH_I AH_I N_I T_E
+agent's agent's EY_B JH_I AH_I N_I T_I S_E
+agree agree AH_B G_I R_I IY_E
+agreed agreed AH_B G_I R_I IY_I D_E
+aid aid EY_B D_E
+aims aims EY_B M_I S_E
+airs airs EY_B R_I S_E
+aks aks AA_B K_I S_E
+aksed aksed AA_B K_I S_I D_E
+alabama alabama AE_B L_I AH_I B_I AE_I M_I AA_E
+alas alas AH_B L_I AA_I S_E
+all all AO_B L_E
+allah allah AH_B L_I L_I AA_I HH_E
+almost almost AO_B L_I M_I OW_I S_I T_E
+alone alone AH_B L_I OW_I N_E
+along along AH_B L_I AO_I NG_E
+already already AO_B L_I R_I EH_I D_I IY_E
+also also AO_B L_I S_I OW_E
+although although AO_B L_I DH_I OW_E
+always always AO_B L_I W_I EH_I Z_E
+am am AE_B M_E
+amaze amaze AH_B M_I EY_I Z_E
+amazed amazed AH_B M_I EY_I Z_I D_E
+america america AH_B M_I EH_I R_I IH_I K_I AA_E
+an an AE_B N_E
+and and AE_B N_I D_E
+anger anger AE_B NG_I G_I AH_I R_E
+angrier angrier AE_B NG_I R_I IY_I AH_I R_E
+angry angry AE_B NG_I R_I IY_E
+animal animal AE_B N_I IH_I M_I AH_I L_E
+animals animals AE_B N_I IH_I M_I AH_I L_I S_E
+animals animals AE_B N_I IH_I M_I AH_I L_I Z_E
+anna anna AE_B N_I AA_E
+annie annie AE_B N_I IY_E
+annoyed annoyed AH_B N_I OY_I D_E
+annoying annoying AH_B N_I OY_I IH_I NG_E
+another another AH_B N_I AH_I DH_I AH_I R_E
+answer answer AA_B N_I S_I AH_I R_E
+answered answered AA_B N_I S_I AH_I R_I D_E
+any any EH_B N_I IY_E
+anymore anymore EH_B N_I IY_I M_I OW_I R_E
+anything anything EH_B N_I IY_I TH_I IH_I NG_E
+anyway anyway EH_B N_I IY_I W_I EY_E
+apple apple AE_B P_I AH_I L_E
+applied applied AH_B P_I L_I AY_I D_E
+apply apply AH_B P_I L_I AY_E
+appoint appoint AH_B P_I OY_I N_I T_E
+appointed appointed AH_B P_I OY_I N_I T_I EH_I D_E
+approach approach AH_B P_I R_I OW_I CH_E
+approached approached AH_B P_I R_I OW_I CH_I D_E
+approve approve AH_B P_I R_I UW_I V_E
+approve approve AH_B P_I R_I UW_I W_E
+april april EY_B P_I R_I IH_I L_E
+are are AA_B R_E
+aren't aren't AA_B R_I AH_I N_I T_E
+arjun arjun AA_B R_I JH_I UH_I N_E
+arjun arjun AH_B R_I JH_I UH_I N_E
+around around AH_B R_I AW_I N_I D_E
+arrested arrested AH_B R_I EH_I S_I T_I EH_I D_E
+arrived arrived AH_B R_I AY_I V_I D_E
+arrived arrived AH_B R_I AY_I W_I D_E
+as as AE_B Z_E
+asha asha AA_B SH_I AA_E
+asha's asha's AA_B SH_I AA_I Z_E
+ashamed ashamed AH_B SH_I EY_I M_I D_E
+asia asia EY_B SH_I IH_I AA_E
+ask ask AA_B S_I K_E
+asked asked AA_B S_I K_I D_E
+asleep asleep AH_B S_I L_I IY_I P_E
+assistant assistant AH_B S_I IH_I S_I T_I EH_I N_I T_E
+assume assume AH_B Z_I Y_I UH_I M_E
+at at AE_B T_E
+ate ate EY_B T_E
+attached attached AH_B T_I AE_I CH_I D_E
+attacking attacking AH_B T_I AE_I K_I IH_I NG_E
+attentively attentively AH_B T_I EH_I N_I T_I IH_I V_I L_I IY_E
+attentively attentively AH_B T_I EH_I N_I T_I IH_I W_I L_I IY_E
+attitude attitude AE_B T_I IH_I T_I Y_I UH_I D_E
+available available AH_B V_I EY_I L_I EH_I B_I AH_I L_E
+available available AH_B W_I EY_I L_I EH_I B_I AH_I L_E
+awakened awakened AH_B W_I EY_I K_I AH_I N_I D_E
+aware aware AH_B W_I EY_I R_E
+away away AH_B W_I EY_E
+axe axe AE_B K_I S_E
+babul babul B_B AH_I B_I UW_I L_E
+back back B_B AE_I K_E
+backward backward B_B AE_I K_I W_I AH_I R_I D_E
+backwards backwards B_B AE_I K_I W_I AH_I R_I D_I S_E
+backyard backyard B_B AE_I K_I Y_I AA_I R_I D_E
+badly badly B_B AE_I D_I L_I IY_E
+bag bag B_B AE_I G_E
+bait bait B_B EY_I T_E
+balance balance B_B AE_I L_I EH_I N_I S_E
+bananas bananas B_B AH_I N_I AA_I N_I AA_I Z_E
+bandage bandage B_B AE_I N_I D_I EY_I JH_E
+bandaged bandaged B_B AE_I N_I D_I EY_I JH_I D_E
+bank bank B_B AE_I N_I K_E
+banks banks B_B AE_I N_I K_I S_E
+banquet banquet B_B AE_I N_I K_I W_I EY_I T_E
+bar bar B_B AA_I R_E
+bargaining bargaining B_B AA_I R_I G_I EY_I N_I IH_I NG_E
+basket basket B_B AA_I S_I K_I EH_I T_E
+baskets baskets B_B AA_I S_I K_I EH_I T_I S_E
+basking basking B_B AA_I S_I K_I IH_I NG_E
+bath bath B_B AA_I TH_E
+batuk batuk B_B AH_I T_I UH_I K_E
+be be B_B IY_E
+beach beach B_B IY_I CH_E
+bear bear B_B EY_I R_E
+bears bears B_B EY_I R_I Z_E
+beat beat B_B IY_I T_E
+beaten beaten B_B IY_I T_I AH_I N_E
+beating beating B_B IY_I T_I IH_I NG_E
+beautiful beautiful B_B Y_I UW_I T_I IH_I F_I UH_I L_E
+became became B_B IH_I K_I EY_I M_E
+because because B_B IH_I K_I AO_I Z_E
+become become B_B IH_I K_I AH_I M_E
+becomes becomes B_B IH_I K_I AH_I M_I S_E
+becoming becoming B_B IH_I K_I AH_I M_I IH_I NG_E
+been been B_B IY_I N_E
+beer beer B_B IY_I AH_I R_E
+beers beers B_B IY_I AH_I R_I S_E
+beers beers B_B IY_I Y_I AH_I R_I S_E
+before before B_B IH_I F_I OW_I R_E
+beg beg B_B EH_I G_E
+began began B_B IH_I G_I AE_I N_E
+begging begging B_B EH_I G_I IH_I NG_E
+begin begin B_B IH_I G_I IH_I N_E
+beginning beginning B_B IH_I G_I IH_I N_I IH_I NG_E
+behavior behavior B_B IH_I HH_I EY_I V_I IY_I AH_I R_E
+behavior behavior B_B IH_I HH_I EY_I W_I IY_I AH_I R_E
+behind behind B_B IH_I HH_I AY_I N_I D_E
+being being B_B IY_I NG_E
+believe believe B_B IH_I L_I IY_I V_E
+believe believe B_B IH_I L_I IY_I W_E
+believed believed B_B IH_I L_I IY_I V_I D_E
+believed believed B_B IH_I L_I IY_I W_I D_E
+bell bell B_B EH_I L_E
+belonged belonged B_B IH_I L_I OW_I NG_I D_E
+belongs belongs B_B IH_I L_I AO_I NG_I Z_E
+bend bend B_B EH_I N_I D_E
+beneath beneath B_B IH_I N_I IY_I TH_E
+benevolent benevolent B_B EH_I N_I EH_I V_I OW_I L_I EH_I N_I T_E
+benevolent benevolent B_B EH_I N_I EH_I W_I OW_I L_I EH_I N_I T_E
+bent bent B_B EH_I N_I T_E
+best best B_B EH_I S_I T_E
+bet bet B_B EH_I T_E
+betray betray B_B IH_I T_I R_I EY_E
+better better B_B EH_I T_I AH_I R_E
+bicycle bicycle B_B AY_I S_I IH_I K_I AH_I L_E
+big big B_B IH_I G_E
+bigger bigger B_B IH_I G_I AH_I R_E
+bill bill B_B IH_I L_E
+bird bird B_B AH_I R_I D_E
+birds birds B_B AH_I R_I D_I S_E
+birds birds B_B AH_I R_I D_I Z_E
+biscuits biscuits B_B IH_I S_I K_I IH_I T_I S_E
+bit bit B_B IH_I T_E
+bite bite B_B AY_I T_E
+bitter bitter B_B IH_I T_I AH_I R_E
+black black B_B L_I AE_I K_E
+blood blood B_B L_I AH_I D_E
+blue blue B_B L_I UW_E
+boasting boasting B_B OW_I S_I T_I IH_I NG_E
+boat boat B_B OW_I T_E
+boats boats B_B OW_I T_I S_E
+bodies bodies B_B AO_I D_I IY_I Z_E
+body body B_B AO_I D_I IY_E
+boiling boiling B_B OY_I L_I IH_I NG_E
+book book B_B UH_I K_E
+boosting boosting B_B UW_I S_I T_I IH_I NG_E
+boring boring B_B OW_I R_I IH_I NG_E
+both both B_B OW_I TH_E
+bothered bothered B_B AO_I DH_I AH_I R_I D_E
+bought bought B_B AO_I T_E
+bowl bowl B_B AW_I L_E
+boy boy B_B OY_E
+boy's boy's B_B OY_I Z_E
+boys boys B_B OY_I Z_E
+bragging bragging B_B R_I AE_I G_I IH_I NG_E
+bread bread B_B R_I EH_I D_E
+break break B_B R_I EY_I K_E
+brilliant brilliant B_B R_I IH_I L_I IH_I AH_I N_I T_E
+brilliant brilliant B_B R_I IH_I L_I Y_I AH_I N_I T_E
+bring bring B_B R_I IH_I NG_E
+broke broke B_B R_I OW_I K_E
+brought brought B_B R_I AO_I T_E
+bubble bubble B_B AH_I B_I AH_I L_E
+bucket bucket B_B AH_I K_I EH_I T_E
+budge budge B_B AH_I JH_E
+built built B_B IH_I L_I T_E
+bundle bundle B_B AH_I N_I D_I AH_I L_E
+burma burma B_B AH_I R_I M_I AA_E
+burn burn B_B AH_I R_I N_E
+burning burning B_B AH_I R_I N_I IH_I NG_E
+bush bush B_B UH_I SH_E
+busy busy B_B IH_I Z_I IY_E
+but but B_B AH_I T_E
+butterflies butterflies B_B AH_I T_I AH_I R_I F_I L_I AY_I Z_E
+butterfly butterfly B_B AH_I T_I AH_I R_I F_I L_I AY_E
+butterfly's butterfly's B_B AH_I T_I AH_I R_I F_I L_I AY_I Z_E
+buy buy B_B AA_I Y_E
+buy buy B_B AY_E
+by by B_B AA_I Y_E
+by by B_B AY_E
+cage cage K_B EY_I JH_E
+cages cages K_B EY_I JH_I IH_I S_E
+call call K_B AO_I L_E
+called called K_B AO_I L_I D_E
+calm calm K_B AA_I M_E
+came came K_B EY_I M_E
+camp camp K_B AE_I M_I P_E
+can can K_B AE_I N_E
+can't can't K_B AA_I N_I T_E
+candidates candidates K_B AE_I N_I D_I IH_I D_I EY_I T_I S_E
+cane cane K_B EY_I N_E
+cannot cannot K_B AE_I N_I N_I AO_I T_E
+cap cap K_B AE_I P_E
+car car K_B AA_I R_E
+care care K_B EY_I AH_I R_E
+care care K_B EY_I R_E
+careful careful K_B EY_I R_I F_I UH_I L_E
+carefully carefully K_B EY_I R_I F_I UH_I L_I IY_E
+caring caring K_B EY_I R_I IH_I NG_E
+carried carried K_B AE_I R_I IY_I D_E
+carry carry K_B AE_I R_I IY_E
+carrying carrying K_B AE_I R_I IY_I NG_E
+carver carver K_B AA_I R_I V_I AH_I R_E
+carver carver K_B AA_I R_I W_I AH_I R_E
+carver's carver's K_B AA_I R_I V_I AH_I R_I S_E
+carver's carver's K_B AA_I R_I W_I AH_I R_I S_E
+cat cat K_B AE_I T_E
+catch catch K_B AE_I CH_E
+catching catching K_B AE_I CH_I IH_I NG_E
+cats cats K_B AE_I T_I S_E
+caught caught K_B AO_I T_E
+causing causing K_B AO_I Z_I IH_I NG_E
+cave cave K_B EY_I V_E
+cave cave K_B EY_I W_E
+ceiling ceiling S_B IY_I L_I IH_I NG_E
+cell cell S_B EH_I L_E
+cessed cessed S_B EH_I S_I D_E
+chair chair CH_B EY_I R_E
+chance chance CH_B AA_I N_I S_E
+change change CH_B EY_I N_I JH_E
+changed changed CH_B EY_I N_I JH_I D_E
+chasing chasing CH_B EY_I S_I IH_I NG_E
+chasing chasing CH_B EY_I Z_I IH_I NG_E
+check check CH_B EH_I K_E
+checked checked CH_B EH_I K_I D_E
+cheese cheese CH_B IY_I Z_E
+chief chief CH_B IY_I F_E
+child child CH_B AY_I L_I D_E
+children children CH_B IH_I L_I D_I R_I EH_I N_E
+chill chill CH_B IH_I L_E
+choice choice CH_B OY_I S_E
+choose choose CH_B UW_I Z_E
+choosen choosen CH_B UW_I Z_I EH_I N_E
+chopped chopped CH_B AO_I P_I D_E
+chosen chosen CH_B OW_I Z_I AH_I N_E
+church church CH_B AH_I R_I CH_E
+circle circle S_B AH_I R_I K_I AH_I L_E
+circles circles S_B IH_I R_I K_I AH_I L_I S_E
+circumstance circumstance S_B AH_I R_I K_I AH_I M_I S_I T_I AH_I N_I S_E
+city city S_B IH_I T_I IY_E
+claim claim K_B L_I EY_I M_E
+clean clean K_B L_I IY_I N_E
+cleaning cleaning K_B L_I IY_I N_I IH_I NG_E
+clever clever K_B L_I EH_I V_I AH_I R_E
+clever clever K_B L_I EH_I W_I AH_I R_E
+cleverly cleverly K_B L_I EH_I V_I AH_I R_I L_I IY_E
+cleverly cleverly K_B L_I EH_I W_I AH_I R_I L_I IY_E
+cliff cliff K_B L_I IY_I F_E
+climb climb K_B L_I AY_I M_I B_E
+climbed climbed K_B L_I AY_I M_I B_I D_E
+clip clip K_B L_I IH_I P_E
+clock clock K_B L_I AO_I K_E
+close close K_B L_I OW_I Z_E
+cloth cloth K_B L_I AO_I TH_E
+clothe clothe K_B L_I OW_I DH_E
+clothes clothes K_B L_I AO_I TH_I Z_E
+clothes clothes K_B L_I OW_I DH_I Z_E
+cloud cloud K_B L_I AW_I D_E
+coat coat K_B OW_I T_E
+coaxed coaxed K_B OW_I K_I S_I D_E
+coconut coconut K_B OW_I K_I OW_I N_I AH_I T_E
+coins coins K_B AO_I IH_I N_I S_E
+cold cold K_B OW_I L_I D_E
+colder colder K_B OW_I L_I D_I AH_I R_E
+coldest coldest K_B OW_I L_I D_I EH_I S_I T_E
+collapsed collapsed K_B OW_I L_I AE_I P_I S_I D_E
+colour colour K_B AH_I L_I AH_I R_E
+colours colours K_B AH_I L_I AH_I R_I S_E
+combine combine K_B AH_I M_I B_I AY_I N_E
+combined combined K_B AH_I M_I B_I AY_I N_I D_E
+come come K_B AH_I M_E
+comes comes K_B AH_I M_I S_E
+coming coming K_B AH_I M_I IY_I NG_E
+commenced commenced K_B AH_I M_I EH_I N_I S_I D_E
+comment comment K_B AH_I M_I EH_I N_I T_E
+comments comments K_B AH_I M_I EH_I N_I T_I S_E
+commit commit K_B AH_I M_I IH_I T_E
+complained complained K_B AH_I M_I P_I L_I EY_I N_I D_E
+complaining complaining K_B AH_I M_I P_I L_I EY_I N_I IH_I NG_E
+complaint complaint K_B AH_I M_I P_I L_I EY_I N_I T_E
+complete complete K_B AH_I M_I P_I L_I IY_I T_E
+completed completed K_B AH_I M_I P_I L_I IY_I T_I EH_I D_E
+concentrate concentrate K_B AO_I N_I S_I AH_I N_I T_I R_I EY_I T_E
+concentrated concentrated K_B AO_I N_I S_I AH_I N_I T_I R_I EY_I T_I EH_I D_E
+concentration concentration K_B AO_I N_I S_I AH_I N_I T_I R_I EY_I SH_I AH_I N_E
+confirm confirm K_B AH_I N_I F_I AH_I R_I M_E
+confirmed confirmed K_B AH_I N_I F_I AH_I R_I M_I D_E
+considered considered K_B AH_I N_I S_I IH_I D_I AH_I R_I D_E
+consoled consoled K_B AH_I N_I S_I OW_I L_I D_E
+constant constant K_B AO_I N_I S_I T_I AH_I N_I T_E
+consult consult K_B AH_I N_I S_I AH_I L_I T_E
+contest contest K_B AO_I N_I T_I EH_I S_I T_E
+continue continue K_B AH_I N_I T_I IH_I N_I Y_I UW_E
+continued continued K_B AH_I N_I T_I IH_I N_I Y_I UW_I D_E
+continuous continuous K_B AH_I N_I T_I IH_I N_I UH_I AH_I S_E
+control control K_B AH_I N_I T_I R_I OW_I L_E
+controlling controlling K_B AH_I N_I T_I R_I OW_I L_I IH_I NG_E
+convenience convenience K_B AH_I N_I V_I IH_I N_I IH_I Y_I AH_I N_I S_E
+convenience convenience K_B AH_I N_I W_I IH_I N_I IH_I Y_I AH_I N_I S_E
+cook cook K_B UH_I K_E
+cool cool K_B UW_I L_E
+coolest coolest K_B UW_I L_I EH_I S_I T_E
+cordially cordially K_B AO_I R_I D_I IH_I AH_I L_I IY_E
+corner corner K_B AO_I R_I N_I AH_I R_E
+correct correct K_B AH_I R_I EH_I K_I T_E
+correctly correctly K_B AH_I R_I EH_I K_I T_I L_I IY_E
+cost cost K_B AO_I S_I T_E
+costly costly K_B AO_I S_I T_I L_I IY_E
+could could K_B UH_I D_E
+couldn't couldn't K_B UH_I D_I AH_I N_I T_E
+count count K_B AW_I N_I T_E
+counted counted K_B AW_I N_I T_I EH_I D_E
+covered covered K_B AH_I V_I AH_I R_I D_E
+covered covered K_B AH_I W_I AH_I R_I D_E
+cow cow K_B AW_E
+cows cows K_B AW_I Z_E
+created created K_B R_I IY_I EY_I T_I EH_I D_E
+creature creature K_B R_I IY_I CH_I AH_I R_E
+creature's creature's K_B R_I IY_I CH_I AH_I R_I S_E
+creatures creatures K_B R_I IY_I CH_I AH_I R_I S_E
+cried cried K_B R_I AY_I D_E
+crop crop K_B R_I AO_I P_E
+crops crops K_B R_I AO_I P_I S_E
+crossing crossing K_B R_I AO_I S_I IH_I NG_E
+crunch crunch K_B R_I AH_I N_I CH_E
+cry cry K_B R_I AY_E
+crying crying K_B R_I AY_I NG_E
+culprit culprit K_B AH_I L_I P_I R_I IH_I T_E
+cut cut K_B AH_I T_E
+cute cute K_B Y_I UW_I T_E
+cutter cutter K_B AH_I T_I AH_I R_E
+cycle cycle S_B AY_I K_I AH_I L_E
+cycling cycling S_B AY_I K_I L_I IH_I NG_E
+daawid daawid D_B AA_I W_I IH_I D_E
+dad dad D_B AE_I D_E
+daily daily D_B EY_I L_I IY_E
+dainty dainty D_B EY_I N_I T_I IY_E
+dance dance D_B AA_I N_I S_E
+danced danced D_B AA_I N_I S_I D_E
+danger danger D_B EY_I N_I JH_I AH_I R_E
+dangerous dangerous D_B EY_I N_I JH_I AH_I R_I AH_I S_E
+danny danny D_B AE_I N_I IY_E
+danny's danny's D_B AE_I N_I IY_I Z_E
+dark dark D_B AA_I R_I K_E
+darkness darkness D_B AA_I R_I K_I N_I EH_I S_E
+dates dates D_B EY_I T_I S_E
+daughter daughter D_B AO_I T_I AH_I R_E
+david david D_B EY_I V_I IH_I D_E
+david david D_B EY_I W_I IH_I D_E
+david's david's D_B EY_I V_I IH_I D_I S_E
+david's david's D_B EY_I V_I IH_I D_I Z_E
+david's david's D_B EY_I W_I IH_I D_I S_E
+david's david's D_B EY_I W_I IH_I D_I Z_E
+day day D_B EY_E
+days days D_B EY_I Z_E
+dead dead D_B EH_I D_E
+dear dear D_B IH_I AH_I R_E
+death death D_B EY_I TH_E
+decide decide D_B IH_I S_I AY_I D_E
+decided decided D_B IH_I S_I AY_I D_I EH_I D_E
+decision decision D_B IH_I S_I IH_I JH_I AH_I N_E
+decision decision D_B IH_I S_I IH_I ZH_I AH_I N_E
+declared declared D_B IH_I K_I L_I EY_I R_I D_E
+dee dee D_B IY_E
+deep deep D_B IY_I P_E
+deeper deeper D_B IY_I P_I AH_I R_E
+deepesh deepesh DH_B IH_I P_I EY_I SH_E
+deepest deepest D_B IY_I P_I EH_I S_I T_E
+defective defective D_B IH_I F_I EH_I K_I T_I IH_I V_E
+defective defective D_B IH_I F_I EH_I K_I T_I IH_I W_E
+defense defense D_B IH_I F_I EH_I N_I S_E
+delight delight D_B IH_I L_I AY_I T_E
+delighted delighted D_B IH_I L_I AY_I T_I EH_I D_E
+demanded demanded D_B IH_I M_I AA_I N_I D_I EH_I D_E
+den den D_B EH_I N_E
+denny denny D_B EH_I N_I IY_E
+denzil denzil D_B EH_I N_I Z_I IH_I L_E
+deserve deserve D_B IH_I Z_I AH_I R_I V_E
+deserve deserve D_B IH_I Z_I AH_I R_I W_E
+deserves deserves D_B IH_I Z_I AH_I R_I V_I Z_E
+deserves deserves D_B IH_I Z_I AH_I R_I W_I Z_E
+desire desire D_B IH_I Z_I AY_I R_E
+despite despite D_B IH_I S_I P_I AY_I T_E
+dezil dezil D_B EH_I Z_I IH_I L_E
+diany diany D_B AY_I N_I IY_E
+did did D_B IH_I D_E
+didn't didn't D_B IH_I D_I AH_I N_I T_E
+die die D_B AY_E
+died died D_B AY_I D_E
+difference difference D_B IH_I F_I R_I AH_I N_I S_E
+different different D_B IH_I F_I R_I AH_I N_I T_E
+differently differently D_B IH_I F_I R_I AH_I N_I T_I L_I IY_E
+difficult difficult D_B IH_I F_I IY_I K_I AH_I L_I T_E
+difficulties difficulties D_B IH_I F_I IY_I K_I AH_I L_I T_I IY_I Z_E
+dim dim D_B IH_I M_E
+dimwit dimwit D_B IH_I M_I W_I IH_I T_E
+dinesh dinesh DH_B IH_I N_I EY_I SH_E
+dinesh's dinesh's DH_B IH_I N_I EY_I SH_I EH_I S_E
+dinesh's dinesh's DH_B IH_I N_I EY_I SH_I S_E
+dinner dinner D_B IH_I N_I AH_I R_E
+dirty dirty D_B AH_I R_I T_I IY_E
+disappear disappear D_B IH_I S_I AH_I P_I IH_I AH_I R_E
+disappeared disappeared D_B IH_I S_I AH_I P_I IH_I AH_I R_I D_E
+disappearing disappearing D_B IH_I S_I AH_I P_I IH_I AH_I R_I IH_I NG_E
+discover discover D_B IH_I S_I K_I AH_I V_I AH_I R_E
+discover discover D_B IH_I S_I K_I AH_I W_I AH_I R_E
+discovery discovery D_B IH_I S_I K_I AH_I V_I AH_I R_I IY_E
+discovery discovery D_B IH_I S_I K_I AH_I W_I AH_I R_I IY_E
+dish dish D_B IH_I SH_E
+dismay dismay D_B IH_I S_I M_I EY_E
+distance distance D_B IH_I S_I T_I EH_I N_I S_E
+disturb disturb D_B IH_I S_I T_I AH_I R_I B_E
+dived dived D_B AY_I V_I D_E
+dived dived D_B AY_I W_I D_E
+divide divide D_B IH_I V_I AY_I D_E
+divide divide D_B IH_I W_I AY_I D_E
+divided divided D_B IH_I V_I AY_I D_I EH_I D_E
+divided divided D_B IH_I W_I AY_I D_I EH_I D_E
+do do D_B UW_E
+doctor doctor D_B AO_I K_I T_I AH_I R_E
+does does D_B AH_I Z_E
+dog dog D_B AO_I G_E
+dogs dogs D_B AO_I G_I Z_E
+doing doing D_B UH_I IH_I NG_E
+dollars dollars D_B AO_I L_I AH_I R_I S_E
+don't don't D_B OW_I N_I T_E
+done done D_B AH_I N_E
+donkey donkey D_B AO_I N_I K_I IY_E
+donkey's donkey's D_B AO_I N_I K_I IY_I Z_E
+donkeys donkeys D_B AO_I N_I K_I IY_I Z_E
+doubtful doubtful D_B AW_I T_I F_I UH_I L_E
+down down D_B AW_I N_E
+downstream downstream D_B AW_I N_I S_I T_I R_I IY_I M_E
+dozed dozed D_B OW_I Z_I D_E
+dragged dragged D_B R_I AE_I G_I D_E
+drained drained D_B R_I EY_I N_I D_E
+drank drank D_B R_I AE_I N_I K_E
+draw draw D_B R_I AO_E
+drawee drawee D_B R_I AW_I IY_E
+drawing drawing D_B R_I AW_I IH_I NG_E
+drew drew D_B R_I UW_E
+drink drink D_B R_I IH_I NG_I K_E
+drinking drinking D_B R_I IH_I NG_I K_I IH_I NG_E
+dropped dropped D_B R_I AO_I P_I D_E
+drowning drowning D_B R_I AW_I N_I IH_I NG_E
+drying drying D_B R_I AA_I IH_I NG_E
+drying drying D_B R_I AY_I NG_E
+duck duck D_B AH_I K_E
+due due D_B Y_I UW_E
+dunked dunked D_B AH_I N_I K_I D_E
+dusk dusk D_B AH_I S_I K_E
+dying dying D_B AY_I NG_E
+each each IY_B CH_E
+eagle eagle IY_B G_I AH_I L_E
+ear ear IH_B AH_I R_E
+earlier earlier AH_B R_I L_I IY_I AH_I R_E
+early early AH_B R_I L_I IY_E
+earn earn AH_B R_I N_E
+easily easily IY_B Z_I IY_I L_I IY_E
+eat eat IY_B T_E
+eaten eaten IY_B T_I EH_I N_E
+eating eating IY_B T_I IH_I NG_E
+eats eats IY_B T_I S_E
+effective effective IH_B F_I EY_I K_I T_I IH_I V_E
+effective effective IH_B F_I EY_I K_I T_I IH_I W_E
+egg egg EH_B G_E
+eggs eggs EH_B G_I Z_E
+either either AY_B DH_I AH_I R_E
+either either IY_B DH_I AH_I R_E
+elephant elephant EH_B L_I IH_I F_I EH_I N_I T_E
+else else EH_B L_I S_E
+elsewhere elsewhere EH_B L_I S_I W_I EY_I R_E
+embarrassed embarrassed EH_B M_I B_I AE_I R_I EH_I S_I D_E
+emptied emptied EH_B M_I P_I T_I IY_I D_E
+empty empty EH_B M_I P_I T_I IY_E
+encounter encounter EH_B N_I K_I AW_I N_I T_I AH_I R_E
+end end EH_B N_I D_E
+enemies enemies EH_B N_I EH_I M_I IY_I Z_E
+enjoy enjoy EH_B N_I JH_I AO_I Y_E
+enough enough IH_B N_I AH_I F_E
+enraged enraged EH_B N_I R_I EY_I G_I D_E
+enter enter EH_B N_I T_I AH_I R_E
+entered entered EH_B N_I T_I AH_I R_I D_E
+enthusiastically enthusiastically EH_B N_I TH_I UH_I Z_I IH_I AE_I S_I T_I IH_I K_I AH_I L_I IY_E
+entire entire EH_B N_I T_I AY_I R_E
+envious envious EH_B N_I V_I IY_I AH_I S_E
+envious envious EH_B N_I W_I IY_I AH_I S_E
+envy envy EH_B N_I V_I IH_E
+envy envy EH_B N_I W_I IH_E
+equal equal IY_B K_I W_I AH_I L_E
+escape escape EH_B S_I K_I EY_I P_E
+etc etc EH_B K_I S_I EH_I K_I T_I R_I AA_E
+europe europe Y_B OW_I R_I AH_I P_E
+europe europe Y_B UH_I R_I OW_I P_E
+even even IY_B V_I EH_I N_E
+even even IY_B W_I EH_I N_E
+evening evening IY_B V_I N_I IH_I NG_E
+evening evening IY_B W_I N_I IH_I NG_E
+ever ever EH_B V_I AH_I R_E
+ever ever EH_B W_I AH_I R_E
+ever-present ever-present EH_B V_I AH_I R_I P_I R_I EH_I Z_I EH_I N_I T_E
+ever-present ever-present EH_B W_I AH_I R_I P_I R_I EH_I Z_I EH_I N_I T_E
+every every EH_B V_I R_I IY_E
+every every EH_B W_I R_I IY_E
+everybody everybody EH_B V_I R_I IY_I B_I AH_I D_I IY_E
+everybody everybody EH_B W_I R_I IY_I B_I AH_I D_I IY_E
+everyday everyday EH_B V_I R_I IY_I D_I EY_E
+everyday everyday EH_B W_I R_I IY_I D_I EY_E
+everyone everyone EH_B V_I R_I IY_I W_I AH_I N_E
+everyone everyone EH_B W_I R_I IY_I W_I AH_I N_E
+everything everything EH_B V_I R_I IY_I TH_I IH_I NG_E
+everything everything EH_B W_I R_I IY_I TH_I IH_I NG_E
+everywhere everywhere EH_B V_I R_I IY_I W_I EY_I R_E
+everywhere everywhere EH_B W_I R_I IY_I W_I EY_I R_E
+ex ex EH_B K_I S_E
+exactly exactly EH_B G_I Z_I AE_I K_I T_I L_I IY_E
+examined examined EH_B G_I Z_I AE_I M_I IH_I N_I D_E
+excellent excellent EH_B K_I S_I IH_I L_I EH_I N_I T_E
+excited excited EH_B K_I S_I AY_I T_I EH_I D_E
+exclaimed exclaimed EH_B K_I S_I K_I L_I EY_I M_I D_E
+exercise exercise EH_B K_I S_I AH_I R_I S_I AY_I Z_E
+exercising exercising EH_B K_I S_I AH_I R_I S_I AY_I Z_I IH_I NG_E
+exhausting exhausting EH_B G_I Z_I AO_I S_I T_I IH_I NG_E
+expect expect EH_B K_I S_I P_I EH_I K_I T_E
+expensive expensive EH_B K_I S_I P_I EH_I N_I S_I IH_I V_E
+expensive expensive EH_B K_I S_I P_I EH_I N_I S_I IH_I W_E
+experience experience EH_B K_I S_I P_I IY_I R_I IH_I EH_I N_I S_E
+experiences experiences EH_B K_I S_I P_I IY_I R_I IH_I EH_I N_I S_I EH_I S_E
+experiments experiments EH_B K_I S_I P_I IY_I R_I IH_I M_I EH_I N_I T_I S_E
+explain explain EH_B K_I S_I P_I L_I EY_I N_E
+explained explained EH_B K_I S_I P_I L_I EY_I N_I D_E
+explanation explanation EH_B K_I S_I P_I L_I AH_I N_I EY_I SH_I AH_I N_E
+express express EH_B K_I S_I P_I R_I EH_I S_E
+extend extend EH_B K_I S_I T_I EH_I N_I D_E
+extended extended EH_B K_I S_I T_I EH_I N_I D_I EH_I D_E
+eye eye AA_B IY_E
+eye eye AA_B Y_E
+eyes eyes AA_B IY_I Z_E
+eyes eyes AA_B Y_I Z_E
+eyesight eyesight AA_B Y_I S_I AY_I T_E
+face face F_B EY_I S_E
+faces faces F_B EY_I S_I EH_I S_E
+facing facing F_B EY_I S_I IH_I NG_E
+fact fact F_B AE_I K_I T_E
+fail fail F_B EY_I L_E
+fair fair F_B EY_I R_E
+fall fall F_B AO_I L_E
+fallen fallen F_B AO_I L_I EH_I N_E
+family family F_B AE_I M_I IH_I L_I IY_E
+family family F_B AE_I M_I L_I IY_E
+fanciest fanciest F_B AE_I N_I S_I IY_I EH_I S_I T_E
+far far F_B AA_I R_E
+farm farm F_B AA_I R_I M_E
+farmer farmer F_B AA_I R_I M_I AH_I R_E
+farmer's farmer's F_B AA_I R_I M_I AH_I R_I S_E
+farmers farmers F_B AA_I R_I M_I AH_I R_I S_E
+farms farms F_B AA_I R_I M_I S_E
+fast fast F_B AA_I S_I T_E
+faster faster F_B AA_I S_I T_I AH_I R_E
+fat fat F_B AE_I T_E
+father father F_B AA_I DH_I AH_I R_E
+fathers fathers F_B AA_I DH_I AH_I R_I S_E
+fatty fatty F_B AE_I T_I IY_E
+favor favor F_B EY_I V_I AH_I R_E
+favor favor F_B EY_I W_I AH_I R_E
+fed fed F_B EH_I D_E
+fee fee F_B IY_E
+feed feed F_B IY_I D_E
+feel feel F_B IY_I L_E
+feels feels F_B IY_I L_I S_E
+feet feet F_B IY_I T_E
+fell fell F_B EH_I L_E
+felt felt F_B EH_I L_I T_E
+fence fence F_B EH_I N_I S_E
+ferocious ferocious F_B EY_I R_I OW_I SH_I AH_I S_E
+ferocious ferocious F_B EY_I R_I OW_I SH_I Y_I AH_I S_E
+ferried ferried F_B EH_I R_I IY_I D_E
+fetch fetch F_B EH_I CH_E
+few few F_B Y_I UW_E
+field field F_B IY_I L_I D_E
+fields fields F_B IY_I L_I D_I S_E
+fight fight F_B AY_I T_E
+fill fill F_B IH_I L_E
+filled filled F_B IH_I L_I D_E
+finally finally F_B AY_I N_I AH_I L_I IY_E
+find find F_B AY_I N_I D_E
+fine fine F_B AY_I N_E
+finger finger F_B IH_I NG_I G_I AH_I R_E
+fingers fingers F_B IH_I NG_I G_I AH_I R_I S_E
+finish finish F_B IH_I N_I IH_I SH_E
+fired fired F_B AY_I R_I D_E
+firm firm F_B AH_I R_I M_E
+first first F_B AH_I R_I S_I T_E
+fish fish F_B IH_I SH_E
+flapping flapping F_B L_I AE_I P_I IH_I NG_E
+flat flat F_B L_I AE_I T_E
+fled fled F_B L_I EH_I D_E
+flew flew F_B L_I UW_E
+flogged flogged F_B L_I AO_I G_I D_E
+flow flow F_B L_I OW_E
+flows flows F_B L_I OW_I Z_E
+fog fog F_B AO_I G_E
+follow follow F_B AO_I L_I OW_E
+folly folly F_B AO_I L_I IY_E
+food food F_B UW_I D_E
+fool fool F_B UW_I L_E
+foolish foolish F_B UW_I L_I IH_I SH_E
+foolishness foolishness F_B UW_I L_I IH_I SH_I N_I EH_I S_E
+foot foot F_B UH_I T_E
+footing footing F_B UH_I T_I IH_I NG_E
+foots foots F_B UH_I T_I S_E
+for for F_B AO_I R_E
+forehead forehead F_B OW_I R_I HH_I EH_I D_E
+forest forest F_B AO_I R_I EH_I S_I T_E
+forget forget F_B AH_I R_I G_I EH_I T_E
+forget forget F_B AO_I R_I G_I EH_I T_E
+form form F_B AO_I R_I M_E
+found found F_B AW_I N_I D_E
+fox fox F_B AO_I K_I S_E
+fox's fox's F_B AO_I K_I S_I EH_I S_E
+frantically frantically F_B R_I AE_I N_I T_I IH_I K_I AH_I L_I IY_E
+fred fred F_B R_I EH_I D_E
+freddie freddie F_B R_I EH_I D_I IY_E
+free free F_B R_I IY_E
+freed freed F_B R_I IY_I D_E
+fresh fresh F_B R_I EH_I SH_E
+frey frey F_B R_I EY_E
+friend friend F_B R_I EH_I N_I D_E
+friends friends F_B R_I EH_I N_I D_I S_E
+frog frog F_B R_I AO_I G_E
+frogs frogs F_B R_I AO_I G_I Z_E
+from from F_B R_I AO_I M_E
+front front F_B R_I AH_I N_I T_E
+fruit fruit F_B R_I UW_I T_E
+frustrate frustrate F_B R_I AH_I S_I T_I R_I EY_I T_E
+frustrated frustrated F_B R_I AH_I S_I T_I R_I EY_I T_I EH_I D_E
+full full F_B UH_I L_E
+fuller fuller F_B UH_I L_I AH_I R_E
+fully fully F_B UH_I L_I IY_E
+fun fun F_B AH_I N_E
+funny funny F_B AH_I N_I IY_E
+gained gained G_B EY_I N_I D_E
+games games G_B EY_I M_I S_E
+garden garden G_B AA_I R_I D_I AH_I N_E
+gardens gardens G_B AA_I R_I D_I AH_I N_I S_E
+garry garry G_B AE_I R_I IY_E
+gasped gasped G_B AE_I S_I P_I D_E
+gathered gathered G_B AE_I DH_I AH_I R_I D_E
+gave gave G_B EY_I V_E
+gave gave G_B EY_I W_E
+gay gay G_B EY_E
+generous generous JH_B EH_I N_I R_I AH_I S_E
+george george JH_B AO_I R_I JH_E
+germs germs JH_B AH_I R_I M_I S_E
+get get G_B EH_I T_E
+gets gets G_B EY_I T_I S_E
+getting getting G_B EH_I T_I IH_I NG_E
+ghost ghost G_B HH_I OW_I S_I T_E
+ghost ghost G_B OW_I S_I T_E
+gift gift G_B IH_I F_I T_E
+gigantic gigantic JH_B AY_I G_I AE_I N_I T_I IH_I K_E
+girl girl G_B AH_I R_I L_E
+give give G_B IH_I V_E
+give give G_B IH_I W_E
+given given G_B IH_I V_I EH_I N_E
+given given G_B IH_I W_I EH_I N_E
+giving giving G_B IH_I V_I IH_I NG_E
+giving giving G_B IH_I W_I IH_I NG_E
+gladly gladly G_B L_I AE_I D_I L_I IY_E
+glass glass G_B L_I AA_I S_E
+global global G_B L_I OW_I B_I AH_I L_E
+go go G_B OW_E
+goal goal G_B OW_I L_E
+goat goat G_B OW_I T_E
+goats goats G_B OW_I T_I S_E
+gobbled gobbled G_B AO_I B_I AH_I L_I D_E
+goes goes G_B OW_I Z_E
+going going G_B OW_I IH_I NG_E
+gold gold G_B OW_I L_I D_E
+golden golden G_B OW_I L_I D_I EH_I N_E
+gone gone G_B AO_I N_E
+good good G_B UH_I D_E
+goods goods G_B UW_I D_I S_E
+goods goods G_B UW_I D_I Z_E
+goose goose G_B UW_I S_E
+got got G_B AO_I T_E
+gradually gradually G_B R_I AE_I JH_I UH_I L_I IY_E
+grass grass G_B R_I AA_I S_E
+grassed grassed G_B R_I AA_I S_I D_E
+graveyard graveyard G_B R_I EY_I V_I Y_I AA_I R_I D_E
+graveyard graveyard G_B R_I EY_I W_I Y_I AA_I R_I D_E
+grazed grazed G_B R_I EY_I Z_I D_E
+great great G_B R_I EY_I T_E
+greatness greatness G_B R_I EY_I T_I N_I EH_I S_E
+greed greed G_B R_I IY_I D_E
+greedy greedy G_B R_I IY_I D_I IY_E
+greener greener G_B R_I IY_I N_I AH_I R_E
+greens greens G_B R_I IY_I N_I S_E
+greens greens G_B R_I IY_I N_I Z_E
+greeted greeted G_B R_I IY_I T_I EH_I D_E
+grey grey G_B R_I EY_E
+grief grief G_B R_I IY_I F_E
+groped groped G_B R_I OW_I P_I D_E
+ground ground G_B R_I AW_I N_I D_E
+group group G_B R_I UH_I P_E
+grouped grouped G_B R_I UH_I P_I D_E
+grove grove G_B R_I OW_I V_E
+grove grove G_B R_I OW_I W_E
+grow grow G_B R_I OW_E
+growing growing G_B R_I OW_I IH_I NG_E
+grown grown G_B R_I OW_I N_E
+guard guard G_B AA_I R_I D_E
+guarding guarding G_B AA_I R_I D_I IH_I NG_E
+guilt guilt G_B IH_I L_I T_E
+gun gun G_B AH_I N_E
+guts guts G_B AH_I T_I S_E
+ha ha HH_B AA_E
+habit habit HH_B AE_I B_I IH_I T_E
+had had HH_B AE_I D_E
+hair hair HH_B EY_I R_E
+hairs hairs HH_B EY_I R_I S_E
+hairs hairs HH_B EY_I R_I Z_E
+half half HH_B AA_I F_E
+hammer hammer HH_B AE_I M_I AH_I R_E
+hammered hammered HH_B AE_I M_I AH_I R_I D_E
+hand hand HH_B AE_I N_I D_E
+handkerchief handkerchief HH_B AE_I N_I K_I AH_I R_I CH_I IY_I F_E
+handle handle HH_B AE_I N_I D_I AH_I L_E
+hands hands HH_B AE_I N_I D_I S_E
+hang hang HH_B AE_I NG_E
+happened happened HH_B AE_I P_I EH_I N_I D_E
+happy happy HH_B AE_I P_I IY_E
+hard hard HH_B AA_I R_I D_E
+harder harder HH_B AA_I R_I D_I AH_I R_E
+hare hare HH_B EY_I R_E
+hares hares HH_B EY_I R_I S_E
+hari hari HH_B AH_I R_I IY_E
+harm harm HH_B AA_I R_I M_E
+harry harry HH_B AE_I R_I IY_E
+has has HH_B AE_I Z_E
+hat hat HH_B AE_I T_E
+hate hate HH_B EY_I T_E
+have have HH_B AE_I V_E
+have have HH_B AE_I W_E
+haven't haven't HH_B AE_I V_I AH_I N_I T_E
+haven't haven't HH_B AE_I W_I AH_I N_I T_E
+having having HH_B AE_I V_I IH_I NG_E
+having having HH_B AE_I W_I IH_I NG_E
+hawk hawk HH_B AO_I K_E
+he he HH_B IY_E
+head head HH_B EH_I D_E
+head-stones head-stones HH_B EH_I D_I S_I T_I OW_I N_I S_E
+headstones headstones HH_B EH_I D_I S_I T_I OW_I N_I S_E
+hear hear HH_B IH_I AH_I R_E
+hearing hearing HH_B IH_I AH_I R_I IH_I NG_E
+heartily heartily HH_B AA_I R_I T_I IH_I L_I IY_E
+heavier heavier HH_B EH_I V_I IY_I AH_I R_E
+heavier heavier HH_B EH_I W_I IY_I AH_I R_E
+heavy heavy HH_B EH_I V_I IY_E
+heavy heavy HH_B EH_I W_I IY_E
+held held HH_B EH_I L_I D_E
+hell hell HH_B EH_I L_E
+hello hello HH_B EY_I L_I OW_E
+help help HH_B EH_I L_I P_E
+helped helped HH_B EH_I L_I P_I D_E
+hence hence HH_B EH_I N_I S_E
+henry henry HH_B EH_I N_I R_I IY_E
+hens hens HH_B EH_I N_I S_E
+hens hens HH_B EH_I N_I Z_E
+her her HH_B AH_I R_E
+here here HH_B IY_I AH_I R_E
+hey hey HH_B EY_E
+hibernate hibernate HH_B AY_I B_I AH_I R_I N_I EY_I T_E
+hibernating hibernating HH_B AY_I B_I AH_I R_I N_I EY_I T_I IH_I NG_E
+hid hid HH_B IH_I D_E
+hide hide HH_B AY_I D_E
+hiding hiding HH_B AY_I D_I IH_I NG_E
+high high HH_B AY_E
+hill hill HH_B IH_I L_E
+him him HH_B IH_I M_E
+himself himself HH_B IH_I M_I S_I EH_I L_I F_E
+his his HH_B IH_I Z_E
+hiss hiss HH_B IH_I S_E
+hit hit HH_B IH_I T_E
+hodjaa hodjaa HH_B OW_I D_I JH_I AA_E
+hodjaa hodjaa HH_B UH_I D_I JH_I AA_E
+hold hold HH_B OW_I L_I D_E
+holding holding HH_B OW_I L_I D_I IH_I NG_E
+hole hole HH_B OW_I L_E
+holes holes HH_B OW_I L_I S_E
+hollow hollow HH_B AO_I L_I OW_E
+home home HH_B OW_I M_E
+homework homework HH_B OW_I M_I W_I AH_I R_I K_E
+honor honor AO_B N_I AH_I R_E
+hook hook HH_B UW_I K_E
+horror horror HH_B AO_I R_I AH_I R_E
+horse horse HH_B AO_I R_I S_E
+host host HH_B OW_I S_I T_E
+hot hot HH_B AO_I T_E
+hotel hotel HH_B OW_I T_I EH_I L_E
+hotter hotter HH_B AO_I T_I AH_I R_E
+hours hours AA_B W_I AH_I R_I S_E
+house house HH_B AW_I S_E
+how how HH_B AW_E
+however however HH_B AW_I EH_I V_I AH_I R_E
+however however HH_B AW_I EH_I W_I AH_I R_E
+huge huge HH_B Y_I UW_I JH_E
+hujja hujja HH_B UH_I JH_I JH_I AA_E
+humiliate humiliate HH_B Y_I UW_I M_I IH_I L_I IY_I EY_I T_E
+hun hun HH_B AH_I N_E
+hundred hundred HH_B AH_I N_I D_I R_I EH_I D_E
+hungry hungry HH_B AH_I NG_I R_I IY_E
+hunt hunt HH_B AH_I N_I T_E
+hunter hunter HH_B AH_I N_I T_I AH_I R_E
+hunters hunters HH_B AH_I N_I T_I AH_I R_I S_E
+hurry hurry HH_B AH_I R_I IY_E
+hurt hurt HH_B AH_I R_I T_E
+husband husband HH_B AH_I Z_I B_I AH_I N_I D_E
+hut hut HH_B AH_I T_E
+i i AY_S
+i'll i'll AY_B L_E
+i'll i'll AY_B W_I IH_I L_E
+i'm i'm AY_B AE_I M_E
+idea idea AY_B D_I IY_I Y_I AA_E
+ideas ideas AY_B D_I IY_I Y_I AA_I Z_E
+if if IH_B F_E
+ignored ignored IH_B G_I N_I OW_I R_I D_E
+ill ill IH_B L_E
+immediately immediately IH_B M_I IY_I D_I IY_I EY_I T_I L_I IY_E
+immediately immediately IH_B M_I IY_I JH_I EY_I T_I L_I IY_E
+important important IH_B M_I P_I AO_I R_I T_I AH_I N_I T_E
+impotent impotent IH_B M_I P_I OW_I T_I EH_I N_I T_E
+improve improve IH_B M_I P_I R_I UW_I V_E
+improve improve IH_B M_I P_I R_I UW_I W_E
+improves improves IH_B M_I P_I R_I UW_I V_I Z_E
+improves improves IH_B M_I P_I R_I UW_I W_I Z_E
+in in IH_B N_E
+inch inch IH_B N_I CH_E
+including including IH_B N_I K_I L_I UW_I D_I IH_I NG_E
+indeed indeed IH_B N_I D_I IY_I D_E
+india india IH_B N_I D_I IY_I AA_E
+india india IH_B N_I D_I Y_I AA_E
+injection injection IH_B N_I JH_I EH_I K_I SH_I AH_I N_E
+injections injections IH_B N_I JH_I EH_I K_I SH_I AH_I N_I S_E
+injured injured IH_B N_I JH_I AH_I R_I D_E
+injury injury IH_B N_I JH_I AH_I R_I IY_E
+innocent innocent IH_B N_I AH_I S_I EH_I N_I T_E
+innocent innocent IH_B N_I OW_I S_I EH_I N_I T_E
+innocently innocently IH_B N_I AH_I S_I EH_I N_I T_I L_I IY_E
+innocently innocently IH_B N_I OW_I S_I EH_I N_I T_I L_I IY_E
+inside inside IH_B N_I S_I AY_I D_E
+insides insides IH_B N_I S_I AY_I D_I S_E
+instead instead IH_B N_I S_I T_I EH_I D_E
+insurance insurance IH_B N_I SH_I Y_I AO_I R_I AH_I N_I S_E
+intelligent intelligent IH_B N_I T_I EH_I L_I IH_I JH_I EH_I N_I T_E
+interiors interiors IH_B N_I T_I IY_I R_I IH_I AH_I R_I S_E
+into into IH_B N_I T_I UW_E
+invited invited IH_B N_I V_I AY_I T_I EH_I D_E
+invited invited IH_B N_I W_I AY_I T_I EH_I D_E
+is is IH_B Z_E
+it it IH_B T_E
+it's it's IH_B T_I S_E
+item item AY_B T_I EH_I M_E
+items items AY_B T_I EH_I M_I S_E
+its its IH_B T_I S_E
+itself itself IH_B T_I S_I EH_I L_I F_E
+james james JH_B EY_I M_I S_E
+janes janes JH_B EY_I N_I S_E
+jealous jealous JH_B EH_I L_I AH_I S_E
+jenny jenny JH_B EH_I N_I IY_E
+jerry jerry JH_B EH_I R_I IY_E
+jimmy jimmy JH_B IH_I M_I IY_E
+job job JH_B AO_I B_E
+jobs jobs JH_B AO_I B_I Z_E
+john john JH_B AO_I N_E
+joking joking JH_B OW_I K_I IH_I NG_E
+journey journey JH_B AH_I R_I N_I IY_E
+judge judge JH_B AH_I JH_E
+jumbo jumbo JH_B AH_I M_I B_I OW_E
+jump jump JH_B AH_I M_I P_E
+jumped jumped JH_B AH_I M_I P_I D_E
+jungle jungle JH_B AH_I NG_I G_I AH_I L_E
+just just JH_B AH_I S_I T_E
+justice justice JH_B AH_I S_I T_I IH_I S_E
+karan karan K_B AH_I R_I AH_I N_E
+keep keep K_B IY_I P_E
+keeping keeping K_B IY_I P_I IH_I NG_E
+keeps keeps K_B IY_I P_I S_E
+kept kept K_B EH_I P_I T_E
+kicked kicked K_B IH_I K_I D_E
+kill kill K_B IH_I L_E
+killed killed K_B IH_I L_I D_E
+kind kind K_B AY_I N_I D_E
+kindly kindly K_B AY_I N_I D_I L_I IY_E
+king king K_B IH_I NG_E
+kingship kingship K_B IH_I NG_I SH_I IH_I P_E
+kitchen kitchen K_B IH_I CH_I EH_I N_E
+knew knew N_B Y_I UW_E
+knife knife N_B AY_I F_E
+knocks knocks N_B AO_I K_I S_E
+know know N_B OW_E
+lab lab L_B AE_I B_E
+laid laid L_B EY_I D_E
+landing landing L_B AE_I N_I D_I IH_I NG_E
+large large L_B AA_I R_I JH_E
+larger larger L_B AA_I R_I JH_I AH_I R_E
+last last L_B AA_I S_I T_E
+late late L_B EY_I T_E
+later later L_B EY_I T_I AH_I R_E
+laugh laugh L_B AA_I F_E
+laughed laughed L_B AA_I F_I D_E
+laughing laughing L_B AA_I F_I IH_I NG_E
+launch launch L_B AO_I N_I CH_E
+law law L_B AO_E
+lay lay L_B EY_E
+lazy lazy L_B EY_I Z_I IY_E
+leaf leaf L_B IY_I F_E
+learn learn L_B AH_I R_I N_E
+learned learned L_B AH_I R_I N_I D_E
+learnt learnt L_B AH_I R_I N_I T_E
+least least L_B IY_I S_I T_E
+leave leave L_B IY_I V_E
+leave leave L_B IY_I W_E
+leaves leaves L_B IY_I V_I Z_E
+leaves leaves L_B IY_I W_I Z_E
+leaving leaving L_B IY_I V_I IH_I NG_E
+leaving leaving L_B IY_I W_I IH_I NG_E
+left left L_B EH_I F_I T_E
+legs legs L_B EH_I G_I Z_E
+less less L_B EH_I S_E
+lesson lesson L_B EH_I S_I AH_I N_E
+let let L_B EH_I T_E
+let's let's L_B EH_I T_I S_E
+lets lets L_B EH_I T_I S_E
+leuk leuk L_B EY_I UH_I K_E
+lie lie L_B AY_E
+life life L_B AY_I F_E
+lift lift L_B IH_I F_I T_E
+light light L_B AY_I T_E
+lighter lighter L_B AY_I T_I AH_I R_E
+lights lights L_B AY_I T_I S_E
+like like L_B AY_I K_E
+likes likes L_B AY_I K_I S_E
+likewise likewise L_B AY_I K_I W_I AY_I Z_E
+limbs limbs L_B IH_I M_I B_I Z_E
+lion lion L_B AA_I Y_I AH_I N_E
+lions lions L_B AA_I Y_I AH_I N_I S_E
+lions lions L_B AA_I Y_I AH_I N_I Z_E
+listen listen L_B IH_I S_I AH_I N_E
+listen listen L_B IH_I S_I EH_I N_E
+listening listening L_B IH_I S_I AH_I N_I IH_I NG_E
+listening listening L_B IH_I S_I N_I IH_I NG_E
+little little L_B IH_I T_I IH_I L_E
+little little L_B IH_I T_I L_E
+live live L_B IH_I V_E
+live live L_B IH_I W_E
+lived lived L_B IH_I V_I D_E
+lived lived L_B IH_I W_I D_E
+living living L_B IH_I V_I IH_I NG_E
+living living L_B IH_I W_I IH_I NG_E
+lizard lizard L_B IH_I Z_I AH_I R_I D_E
+load load L_B OW_I D_E
+loaded loaded L_B OW_I D_I EH_I D_E
+lonely lonely L_B OW_I N_I L_I IY_E
+long long L_B AO_I NG_E
+look look L_B UH_I K_E
+looked looked L_B UH_I K_I D_E
+looking looking L_B UH_I K_I IH_I NG_E
+loose loose L_B UW_I Z_E
+lose lose L_B UW_I Z_E
+loss loss L_B AO_I S_E
+lost lost L_B AO_I S_I T_E
+lot lot L_B AO_I T_E
+lots lots L_B AO_I T_I S_E
+loud loud L_B AW_I D_E
+loudly loudly L_B AW_I D_I L_I IY_E
+love love L_B AH_I V_E
+love love L_B AH_I W_E
+lovely lovely L_B AH_I V_I L_I IY_E
+lovely lovely L_B AH_I W_I L_I IY_E
+low low L_B OW_E
+luckily luckily L_B AH_I K_I IH_I L_I IY_E
+lucky lucky L_B AH_I K_I IY_E
+lucy lucy L_B UW_I S_I IY_E
+lunch lunch L_B AH_I N_I CH_E
+lying lying L_B AY_I IH_I NG_E
+lying lying L_B AY_I NG_E
+made made M_B EY_I D_E
+magician magician M_B AE_I JH_I IH_I SH_I IY_I AH_I N_E
+magnifying magnifying M_B AE_I G_I N_I IH_I F_I AA_I Y_I IH_I NG_E
+magnifying magnifying M_B AE_I G_I N_I IH_I F_I AY_I NG_E
+main main M_B EY_I N_E
+make make M_B EY_I K_E
+making making M_B EY_I K_I IH_I NG_E
+man man M_B AE_I N_E
+man's man's M_B AE_I N_I S_E
+manage manage M_B AE_I N_I EH_I JH_E
+managed managed M_B AE_I N_I EH_I JH_I D_E
+manager manager M_B AE_I N_I EY_I JH_I AH_I R_E
+mango mango M_B AE_I NG_I G_I OW_E
+mangoes mangoes M_B AE_I NG_I G_I OW_I Z_E
+many many M_B EH_I N_I IY_E
+market market M_B AA_I R_I K_I EH_I T_E
+marketplace marketplace M_B AA_I R_I K_I EH_I T_I P_I L_I EY_I S_E
+master master M_B AA_I S_I T_I AH_I R_E
+master's master's M_B AA_I S_I T_I AH_I R_I S_E
+mate mate M_B EY_I T_E
+mater mater M_B EY_I T_I AH_I R_E
+matter matter M_B AE_I T_I AH_I R_E
+may may M_B EY_E
+me me M_B IY_E
+mean mean M_B IY_I N_E
+meat meat M_B IY_I T_E
+meet meet M_B IY_I T_E
+meeting meeting M_B IY_I T_I IH_I NG_E
+melt melt M_B EH_I L_I T_E
+member member M_B EH_I M_I B_I AH_I R_E
+members members M_B EH_I M_I B_I AH_I R_I S_E
+members members M_B EH_I M_I B_I AH_I R_I Z_E
+men men M_B EH_I N_E
+merchant merchant M_B AH_I R_I CH_I EH_I N_I T_E
+merciless merciless M_B AH_I R_I S_I IH_I L_I EH_I S_E
+merrily merrily M_B EH_I R_I IH_I L_I IY_E
+met met M_B EH_I T_E
+middle middle M_B IH_I D_I AH_I L_E
+might might M_B AH_I IH_I T_E
+might might M_B AY_I T_E
+mighty mighty M_B AY_I T_I IY_E
+miles miles M_B AY_I L_I S_E
+milk milk M_B IH_I L_I K_E
+mills mills M_B IH_I L_I S_E
+mills mills M_B IH_I L_I Z_E
+mind mind M_B AY_I N_I D_E
+minister minister M_B IH_I N_I IH_I S_I T_I AH_I R_E
+ministers ministers M_B IH_I N_I IH_I S_I T_I AH_I R_I S_E
+minute minute M_B AY_I N_I Y_I UW_I TH_E
+minute minute M_B IH_I N_I IH_I T_E
+minutes minutes M_B IH_I N_I IH_I T_I S_E
+miss miss M_B IH_I S_E
+missed missed M_B IH_I S_I D_E
+missus missus M_B IH_I S_I AH_I S_E
+missus missus M_B IH_I S_I AH_I Z_E
+mistakes mistakes M_B IH_I S_I T_I EY_I K_I S_E
+mister mister M_B IH_I S_I T_I AH_I R_E
+mom mom M_B AO_I M_E
+moment moment M_B OW_I M_I EH_I N_I T_E
+money money M_B AH_I N_I IY_E
+monkey monkey M_B AH_I N_I K_I IY_E
+monster monster M_B AO_I N_I S_I T_I AH_I R_E
+moon moon M_B UW_I N_E
+more more M_B OW_I R_E
+moreover moreover M_B OW_I R_I OW_I V_I AH_I R_E
+moreover moreover M_B OW_I R_I OW_I W_I AH_I R_E
+morning morning M_B AO_I R_I N_I IH_I NG_E
+mosquito mosquito M_B AH_I S_I K_I IY_I T_I OW_E
+most most M_B OW_I S_I T_E
+mother mother M_B AH_I DH_I AH_I R_E
+motion motion M_B OW_I SH_I AH_I N_E
+move move M_B UW_I V_E
+move move M_B UW_I W_E
+movement movement M_B UW_I V_I M_I EH_I N_I T_E
+movement movement M_B UW_I W_I M_I EH_I N_I T_E
+movie movie M_B UW_I V_I IY_E
+movie movie M_B UW_I W_I IY_E
+mr mr M_B IH_I S_I T_I AH_I R_E
+mrs mrs M_B IH_I S_I EH_I S_E
+mrs mrs M_B IH_I S_I IH_I Z_E
+much much M_B AH_I CH_E
+mud mud M_B AH_I D_E
+muddy muddy M_B AH_I D_I IY_E
+must must M_B AH_I S_I T_E
+my my M_B AY_E
+myself myself M_B AY_I S_I EH_I L_I F_E
+nail nail N_B EY_I L_E
+nails nails N_B EY_I L_I S_E
+name name N_B EY_I M_E
+named named N_B EY_I M_I D_E
+names names N_B EY_I M_I S_E
+nap nap N_B AE_I P_E
+narrated narrated N_B AE_I R_I EY_I T_I EH_I D_E
+naseer naseer N_B AH_I S_I IY_I R_E
+naseer's naseer's N_B AH_I S_I IY_I R_I S_E
+nashiruddin nashiruddin N_B AH_I SH_I IH_I R_I UH_I DH_I DH_I IH_I N_E
+nasruddin nasruddin N_B AH_I S_I R_I UH_I DH_I IY_I N_E
+naughty naughty N_B AO_I T_I IY_E
+near near N_B IH_I AH_I R_E
+nearest nearest N_B IH_I AH_I R_I EH_I S_I T_E
+necessary necessary N_B EH_I S_I EH_I S_I AH_I R_I IY_E
+neck neck N_B EH_I K_E
+nee nee N_B IY_E
+need need N_B IY_I D_E
+needed needed N_B IY_I D_I EH_I D_E
+needs needs N_B IY_I D_I S_E
+neighbor neighbor N_B EY_I B_I AH_I R_E
+neighbor's neighbor's N_B EY_I B_I AH_I R_I Z_E
+neighbors neighbors N_B EY_I B_I AH_I R_I Z_E
+neighbour neighbour N_B EY_I B_I AH_I R_E
+neighbour's neighbour's N_B EY_I B_I AH_I R_I Z_E
+neighbours neighbours N_B EY_I B_I AH_I R_I Z_E
+neither neither N_B AY_I DH_I AH_I R_E
+neither neither N_B IY_I DH_I AH_I R_E
+nest nest N_B EH_I S_I T_E
+net net N_B EH_I T_E
+nets nets N_B EH_I T_I S_E
+never never N_B EH_I V_I AH_I R_E
+never never N_B EH_I W_I AH_I R_E
+new new N_B Y_I UW_E
+next next N_B EH_I K_I S_I T_E
+nice nice N_B AY_I S_E
+night night N_B AY_I T_E
+nine nine N_B AY_I N_E
+ninety ninety N_B AY_I N_I T_I IY_E
+no no N_B OW_E
+nobody nobody N_B OW_I B_I AH_I D_I IY_E
+noise noise N_B OY_I Z_E
+noises noises N_B OY_I Z_I EH_I S_E
+none none N_B AH_I N_E
+nor nor N_B AO_I R_E
+not not N_B AO_I T_E
+notebook notebook N_B OW_I T_I B_I UH_I K_E
+nothing nothing N_B AH_I TH_I IH_I NG_E
+notice notice N_B OW_I T_I IH_I S_E
+noticed noticed N_B OW_I T_I IH_I S_I D_E
+now now N_B AA_I UH_E
+now now N_B AW_E
+number number N_B AH_I M_I B_I AH_I R_E
+nurse nurse N_B AH_I R_I S_E
+nuts nuts N_B AH_I T_I S_E
+o'clock o'clock OW_B K_I L_I AO_I K_E
+obesity obesity OW_B B_I EY_I S_I IH_I T_I IY_E
+ocean ocean OW_B SH_I AH_I N_E
+october october AO_B K_I T_I OW_I B_I AH_I R_E
+of of AO_B F_E
+off off AO_B F_E
+offense offense AO_B F_I EH_I N_I S_E
+offered offered AO_B F_I AH_I R_I D_E
+oh oh OW_B HH_E
+old old OW_B L_I D_E
+on on AO_B N_E
+once once W_B AH_I N_I S_E
+one one W_B AH_I N_E
+only only OW_B N_I L_I IY_E
+onto onto AO_B N_I T_I UW_E
+open open OW_B P_I AH_I N_E
+option option AO_B P_I SH_I AH_I N_E
+or or AO_B R_E
+order order AO_B R_I D_I AH_I R_E
+ordered ordered AO_B R_I D_I AH_I R_I D_E
+organized organized AO_B R_I G_I AH_I N_I AY_I Z_I D_E
+other other AH_B DH_I AH_I R_E
+others others AH_B DH_I AH_I R_I S_E
+others others AH_B DH_I AH_I R_I Z_E
+others' others' AH_B DH_I AH_I R_I S_E
+others' others' AH_B DH_I AH_I R_I Z_E
+our our AA_B R_E
+ourself ourself AA_B R_I S_I EH_I L_I F_E
+ourselves ourselves AA_B R_I S_I EH_I L_I V_I Z_E
+ourselves ourselves AA_B R_I S_I EH_I L_I W_I Z_E
+out out AW_B T_E
+outside outside AW_B T_I S_I AY_I D_E
+over over OW_B V_I AH_I R_E
+over over OW_B W_I AH_I R_E
+overlapped overlapped OW_B V_I AH_I R_I L_I AE_I P_I D_E
+overlapped overlapped OW_B W_I AH_I R_I L_I AE_I P_I D_E
+own own OW_B N_E
+owner owner OW_B N_I AH_I R_E
+pack pack P_B AE_I K_E
+packs packs P_B AE_I K_I S_E
+paid paid P_B EY_I D_E
+pain pain P_B EY_I N_E
+paint paint P_B EY_I N_I T_E
+painted painted P_B EY_I N_I T_I EH_I D_E
+paise paise P_B EY_I S_I EY_E
+pan pan P_B AE_I N_E
+panther panther P_B AE_I N_I TH_I AH_I R_E
+paper paper P_B EY_I P_I AH_I R_E
+pardon pardon P_B AA_I R_I D_I AH_I N_E
+parent parent P_B AE_I R_I EH_I N_I T_E
+parents parents P_B AE_I R_I EH_I N_I T_I S_E
+park park P_B AA_I R_I K_E
+part part P_B AA_I R_I T_E
+parts parts P_B AA_I R_I T_I S_E
+party party P_B AA_I R_I T_I IY_E
+pass pass P_B AA_I S_E
+passed passed P_B AA_I S_I D_E
+passing passing P_B AA_I S_I IH_I NG_E
+past past P_B AA_I S_I T_E
+pat pat P_B AE_I T_E
+path path P_B AA_I TH_E
+patrick patrick P_B AE_I T_I R_I IH_I K_E
+patterns patterns P_B AE_I T_I AH_I R_I N_I S_E
+pause pause P_B AO_I Z_E
+paused paused P_B AO_I Z_I D_E
+pausing pausing P_B AO_I Z_I IH_I NG_E
+paws paws P_B AW_I Z_E
+pay pay P_B EY_E
+payment payment P_B EY_I M_I EH_I N_I T_E
+pays pays P_B EY_I Z_E
+peace peace P_B IY_I S_E
+peel peel P_B IY_I L_E
+peep peep P_B IY_I P_E
+peeped peeped P_B IY_I P_I D_E
+pen pen P_B EH_I N_E
+penalty penalty P_B EH_I N_I AH_I L_I T_I IY_E
+pens pens P_B EH_I N_I S_E
+people people P_B IY_I P_I AH_I L_E
+people's people's P_B IY_I P_I AH_I L_I S_E
+people's people's P_B IY_I P_I AH_I L_I Z_E
+per per P_B AH_I R_E
+perform perform P_B AH_I R_I F_I AO_I R_I M_E
+person person P_B AH_I R_I S_I AH_I N_E
+person's person's P_B AH_I R_I S_I AH_I N_I S_E
+persuasive persuasive P_B AH_I R_I S_I UH_I EY_I S_I IH_I V_E
+persuasive persuasive P_B AH_I R_I S_I UH_I EY_I S_I IH_I W_E
+pest pest P_B EH_I S_I T_E
+pesticides pesticides P_B EH_I S_I T_I IY_I S_I AY_I D_I S_E
+pests pests P_B EH_I S_I T_I S_E
+pet pet P_B EH_I T_E
+peter peter P_B IY_I T_I AH_I R_E
+peter's peter's P_B IY_I T_I AH_I R_I S_E
+pets pets P_B EH_I T_I S_E
+pick pick P_B IH_I K_E
+picked picked P_B IH_I K_I D_E
+picking picking P_B IH_I K_I IH_I NG_E
+picnic picnic P_B IH_I K_I N_I IH_I K_E
+pictures pictures P_B IH_I CH_I AH_I R_I S_E
+pictures pictures P_B IH_I K_I CH_I AH_I R_I S_E
+piece piece P_B IY_I S_E
+pieces pieces P_B IY_I S_I EH_I S_E
+pipe pipe P_B AY_I P_E
+pit pit P_B IH_I T_E
+place place P_B L_I EY_I S_E
+placed placed P_B L_I EY_I S_I D_E
+plan plan P_B L_I AE_I N_E
+plane plane P_B L_I EY_I N_E
+plant plant P_B L_I AA_I N_I T_E
+planted planted P_B L_I AA_I N_I T_I EH_I D_E
+plants plants P_B L_I AA_I N_I T_I S_E
+plate plate P_B L_I EY_I T_E
+play play P_B L_I EY_E
+played played P_B L_I EY_I D_E
+playing playing P_B L_I EY_I IH_I NG_E
+please please P_B L_I IY_I Z_E
+ploy ploy P_B L_I OY_E
+plucked plucked P_B L_I AH_I K_I D_E
+point point P_B OY_I N_I T_E
+pointed pointed P_B OY_I N_I T_I EH_I D_E
+pointing pointing P_B OY_I N_I T_I IH_I NG_E
+polar polar P_B OW_I L_I AA_I R_E
+pond pond P_B AO_I N_I D_E
+pool pool P_B UW_I L_E
+poor poor P_B UW_I AH_I R_E
+pose pose P_B OW_I Z_E
+position position P_B OW_I Z_I IH_I SH_I AH_I N_E
+possession possession P_B AH_I Z_I EH_I SH_I AH_I N_E
+possessions possessions P_B AH_I Z_I EH_I SH_I AH_I N_I S_E
+possessions possessions P_B AH_I Z_I EH_I SH_I AH_I N_I Z_E
+possible possible P_B AO_I S_I IH_I B_I AH_I L_E
+post post P_B OW_I S_I T_E
+pot pot P_B AO_I T_E
+potato potato P_B OW_I T_I AE_I T_I OW_E
+potatoes potatoes P_B OW_I T_I AE_I T_I OW_I Z_E
+pots pots P_B AO_I T_I S_E
+poured poured P_B OW_I R_I D_E
+practice practice P_B R_I AE_I K_I T_I IH_I S_E
+pradeep pradeep P_B R_I AH_I DH_I IY_I P_E
+praised praised P_B R_I EY_I Z_I D_E
+prank prank P_B R_I AE_I N_I K_E
+pranks pranks P_B R_I AE_I N_I K_I S_E
+prateek prateek P_B R_I AH_I TH_I IY_I K_E
+precious precious P_B R_I EH_I SH_I AH_I S_E
+present present P_B R_I EH_I Z_I EH_I N_I T_E
+present present P_B R_I IH_I Z_I EH_I N_I T_E
+presented presented P_B R_I EH_I Z_I EH_I N_I T_I EH_I D_E
+pretending pretending P_B R_I IH_I T_I EH_I N_I D_I IH_I NG_E
+pretentious pretentious P_B R_I IH_I T_I EH_I N_I SH_I AH_I S_E
+pretty pretty P_B R_I IH_I T_I IY_E
+price price P_B R_I AY_I S_E
+prime prime P_B R_I AY_I M_E
+problem problem P_B R_I AO_I B_I L_I AH_I M_E
+problems problems P_B R_I AO_I B_I L_I AH_I M_I S_E
+produce produce P_B R_I OW_I D_I Y_I UW_I S_E
+products products P_B R_I AO_I D_I AH_I K_I T_I S_E
+pronounced pronounced P_B R_I OW_I N_I AW_I N_I S_I D_E
+property property P_B R_I AO_I P_I AH_I R_I T_I IY_E
+proposed proposed P_B R_I AH_I P_I OW_I Z_I D_E
+prove prove P_B R_I UW_I V_E
+prove prove P_B R_I UW_I W_E
+proves proves P_B R_I UW_I V_I Z_E
+proves proves P_B R_I UW_I W_I Z_E
+public public P_B AH_I B_I L_I IH_I K_E
+puddle puddle P_B AH_I D_I AH_I L_E
+pull pull P_B UH_I L_E
+pulled pulled P_B UH_I L_I D_E
+pumpkin pumpkin P_B AH_I M_I K_I IH_I N_E
+pumpkins pumpkins P_B AH_I M_I K_I IH_I N_I S_E
+punish punish P_B AH_I N_I IH_I SH_E
+purchase purchase P_B AH_I R_I CH_I EY_I S_E
+purchased purchased P_B AH_I R_I CH_I EY_I S_I D_E
+push push P_B UH_I SH_E
+put put P_B UH_I TH_E
+put put P_B UH_I T_E
+quality quality K_B W_I AA_I L_I IH_I T_I IY_E
+quench quench K_B W_I EH_I N_I CH_E
+quenched quenched K_B W_I EH_I N_I CH_I D_E
+question question K_B W_I EH_I S_I CH_I AH_I N_E
+questions questions K_B W_I EH_I S_I CH_I AH_I N_I S_E
+queue queue K_B Y_I UW_E
+quickly quickly K_B W_I IH_I K_I L_I IY_E
+quite quite K_B W_I AY_I T_E
+race race R_B EY_I S_E
+rain rain R_B EY_I N_E
+ram ram R_B AA_I M_E
+ram ram R_B AE_I M_E
+ram's ram's R_B AA_I M_I S_E
+ramesh ramesh R_B AH_I M_I EY_I SH_E
+ran ran R_B AE_I N_E
+rank rank R_B AE_I N_I K_E
+rat rat R_B AE_I T_E
+rats rats R_B AE_I T_I S_E
+ray ray R_B EY_E
+reach reach R_B IY_I CH_E
+reached reached R_B IY_I CH_I D_E
+reaction reaction R_B IY_I AE_I K_I SH_I AH_I N_E
+realize realize R_B IY_I AH_I L_I AY_I Z_E
+realized realized R_B IY_I AH_I L_I AY_I Z_I D_E
+really really R_B IY_I AH_I L_I IY_E
+reason reason R_B IY_I Z_I AH_I N_E
+receipt receipt R_B IH_I S_I IH_I T_E
+receive receive R_B IH_I S_I IY_I V_E
+receive receive R_B IH_I S_I IY_I W_E
+received received R_B IH_I S_I IY_I V_I D_E
+received received R_B IH_I S_I IY_I W_I D_E
+recipe recipe R_B EH_I S_I IH_I P_I IY_E
+recovered recovered R_B IH_I K_I AH_I V_I AH_I R_I D_E
+recovered recovered R_B IH_I K_I AH_I W_I AH_I R_I D_E
+reduce reduce R_B IH_I D_I Y_I UW_I S_E
+reduced reduced R_B IH_I D_I Y_I UW_I S_I D_E
+reducing reducing R_B IH_I D_I Y_I UW_I S_I IH_I NG_E
+reflection reflection R_B IH_I F_I L_I EY_I K_I SH_I AH_I N_E
+refrigerator refrigerator R_B EH_I F_I R_I IH_I JH_I AH_I R_I EY_I T_I AH_I R_E
+refused refused R_B IH_I F_I Y_I UW_I S_I D_E
+regularly regularly R_B EH_I G_I Y_I UH_I L_I AH_I R_E
+relatives relatives R_B IH_I L_I EY_I T_I IH_I V_I Z_E
+relatives relatives R_B IH_I L_I EY_I T_I IH_I W_I Z_E
+release release R_B IH_I L_I IY_I Z_E
+released released R_B IH_I L_I IY_I Z_I D_E
+relieve relieve R_B IH_I L_I IY_I V_E
+relieve relieve R_B IH_I L_I IY_I W_E
+relieved relieved R_B IH_I L_I IY_I V_I D_E
+relieved relieved R_B IH_I L_I IY_I W_I D_E
+remain remain R_B IH_I M_I EY_I N_E
+remains remains R_B IH_I M_I EY_I N_I S_E
+remains remains R_B IH_I M_I EY_I N_I Z_E
+remember remember R_B IH_I M_I EH_I M_I B_I AH_I R_E
+remove remove R_B IH_I M_I UW_I V_E
+remove remove R_B IH_I M_I UW_I W_E
+removed removed R_B IH_I M_I UW_I V_I D_E
+removed removed R_B IH_I M_I UW_I W_I D_E
+removing removing R_B IH_I M_I UW_I V_I IH_I NG_E
+removing removing R_B IH_I M_I UW_I W_I IH_I NG_E
+repainting repainting R_B IH_I P_I EY_I N_I T_I IH_I NG_E
+replaced replaced R_B IH_I P_I L_I EY_I S_I D_E
+replacement replacement R_B IH_I P_I L_I EY_I S_I M_I EH_I N_I T_E
+replay replay R_B IH_I P_I L_I EY_E
+replayed replayed R_B IH_I P_I L_I EY_I D_E
+replied replied R_B IH_I P_I L_I AY_I D_E
+reply reply R_B IH_I P_I L_I AY_E
+rescue rescue R_B EH_I S_I K_I Y_I UW_E
+research research R_B IH_I S_I AH_I R_I CH_E
+resource resource R_B IH_I S_I OW_I R_I S_E
+resources resources R_B IH_I S_I OW_I R_I S_I EH_I S_E
+respect respect R_B IH_I S_I P_I EY_I K_I T_E
+respective respective R_B IH_I S_I P_I EY_I K_I T_I IH_I V_E
+respective respective R_B IH_I S_I P_I EY_I K_I T_I IH_I W_E
+respond respond R_B IH_I S_I P_I AO_I N_I D_E
+response response R_B IH_I S_I P_I AO_I N_I S_E
+restaurant restaurant R_B EH_I S_I T_I AO_I R_I AE_I N_I T_E
+restaurant restaurant R_B EH_I S_I T_I R_I AO_I N_E
+restoring restoring R_B IH_I S_I T_I OW_I R_I IH_I NG_E
+result result R_B IH_I Z_I AH_I L_I T_E
+retired retired R_B IH_I T_I AY_I R_I D_E
+return return R_B IH_I T_I AH_I R_I N_E
+returned returned R_B IH_I T_I AH_I R_I N_I D_E
+returning returning R_B IH_I T_I AH_I R_I N_I IH_I NG_E
+returns returns R_B IH_I T_I AH_I R_I N_I S_E
+rewarded rewarded R_B IH_I W_I AO_I R_I D_I EH_I D_E
+rice rice R_B AY_I S_E
+rich rich R_B IH_I CH_E
+ricky ricky R_B IH_I K_I IY_E
+ricky's ricky's R_B IH_I K_I IY_I Z_E
+riding riding R_B AY_I D_I IH_I NG_E
+right right R_B AY_I T_E
+rising rising R_B AY_I Z_I IH_I NG_E
+rita rita R_B IY_I T_I AA_E
+river river R_B IH_I V_I AH_I R_E
+river river R_B IH_I W_I AH_I R_E
+riverside riverside R_B IH_I V_I AH_I R_I S_I AY_I D_E
+riverside riverside R_B IH_I W_I AH_I R_I S_I AY_I D_E
+road road R_B OW_I D_E
+roaming roaming R_B OW_I M_I IH_I NG_E
+rode rode R_B OW_I D_E
+room room R_B UW_I M_E
+root root R_B UW_I T_E
+roots roots R_B UW_I T_I S_E
+rope rope R_B OW_I P_E
+route route R_B UW_I T_E
+row row R_B OW_E
+rubbing rubbing R_B AH_I B_I IH_I NG_E
+ruin ruin R_B UW_I IH_I N_E
+ruled ruled R_B UW_I L_I D_E
+run run R_B AH_I N_E
+running running R_B AH_I N_I IH_I NG_E
+rupees rupees R_B UH_I P_I IY_I Z_E
+rushing rushing R_B AH_I SH_I IH_I NG_E
+sad sad S_B AE_I D_E
+said said S_B EH_I D_E
+saint saint S_B EY_I N_I T_E
+salt salt S_B AO_I L_I T_E
+same same S_B EY_I M_E
+sand sand S_B AE_I N_I D_E
+sat sat S_B AE_I T_E
+satisfaction satisfaction S_B AE_I T_I IH_I S_I F_I AE_I K_I SH_I AH_I N_E
+satisfy satisfy S_B AE_I T_I IH_I S_I F_I AY_E
+save save S_B EY_I V_E
+save save S_B EY_I W_E
+saved saved S_B EY_I V_I D_E
+saved saved S_B EY_I W_I D_E
+saving saving S_B EY_I V_I IH_I NG_E
+saving saving S_B EY_I W_I IH_I NG_E
+saw saw S_B AO_E
+say say S_B EY_E
+saying saying S_B EY_I IH_I NG_E
+scales scales S_B K_I EY_I L_I S_E
+scales scales S_B K_I EY_I L_I Z_E
+scan scan S_B K_I AE_I N_E
+scar scar S_B K_I AA_I R_E
+scarcely scarcely S_B K_I AA_I R_I S_I L_I IY_E
+scare scare S_B K_I AE_I R_E
+scared scared S_B K_I AE_I R_I D_E
+scatter scatter S_B K_I AE_I T_I AH_I R_E
+scattered scattered S_B K_I AE_I T_I AH_I R_I D_E
+school school S_B K_I UW_I L_E
+science science S_B AA_I Y_I AH_I N_I S_E
+scientist scientist S_B AY_I N_I T_I IH_I S_I T_E
+scornfully scornfully S_B K_I AO_I R_I N_I F_I UH_I L_I IY_E
+scratching scratching S_B K_I R_I AE_I CH_I IH_I NG_E
+screamed screamed S_B K_I R_I IY_I M_I D_E
+screaming screaming S_B K_I R_I IY_I M_I IH_I NG_E
+sea sea S_B IY_E
+seals seals S_B IY_I L_I S_E
+search search S_B AH_I R_I CH_E
+searching searching S_B AH_I R_I CH_I IH_I NG_E
+second second S_B EH_I K_I EH_I N_I D_E
+see see S_B IY_E
+seed seed S_B IY_I D_E
+seeing seeing S_B IY_I IH_I NG_E
+seem seem S_B IY_I M_E
+seemed seemed S_B IY_I M_I D_E
+seen seen S_B IY_I N_E
+self self S_B EH_I L_I F_E
+sell sell S_B EH_I L_E
+selves selves S_B EH_I L_I V_I Z_E
+selves selves S_B EH_I L_I W_I Z_E
+send send S_B EH_I N_I D_E
+sense sense S_B EH_I N_I S_E
+sentence sentence S_B EH_I N_I T_I EH_I N_I S_E
+separate separate S_B EH_I P_I R_I EY_I T_E
+separated separated S_B EH_I P_I AH_I R_I EY_I T_I EH_I D_E
+seriously seriously S_B IY_I R_I IY_I AH_I S_I L_I IY_E
+servant servant S_B AH_I R_I V_I AH_I N_I T_E
+servant servant S_B AH_I R_I W_I AH_I N_I T_E
+servants servants S_B AH_I R_I V_I AH_I N_I T_I S_E
+servants servants S_B AH_I R_I W_I AH_I N_I T_I S_E
+served served S_B AH_I R_I V_I D_E
+served served S_B AH_I R_I W_I D_E
+set set S_B EH_I T_E
+settlement settlement S_B EH_I T_I AH_I L_I M_I EH_I N_I T_E
+shade shade SH_B EY_I D_E
+sharp sharp SH_B AA_I R_I P_E
+sharpshooter sharpshooter SH_B AA_I R_I P_I SH_I UW_I T_I AH_I R_E
+she she SH_B IY_E
+sheep sheep SH_B IY_I P_E
+sheepishly sheepishly SH_B IY_I P_I IH_I SH_I L_I IY_E
+shepherd shepherd SH_B EY_I P_I AH_I R_I D_E
+shine shine SH_B AY_I N_E
+ship ship SH_B IH_I P_E
+ships ships SH_B IH_I P_I S_E
+shocked shocked SH_B AO_I K_I D_E
+shoe shoe SH_B UW_E
+shoot shoot SH_B UW_I T_E
+shooting shooting SH_B UW_I T_I IH_I NG_E
+shop shop SH_B AO_I P_E
+shopkeeper shopkeeper SH_B AO_I P_I K_I IY_I P_I AH_I R_E
+shore shore SH_B OW_I R_E
+short short SH_B AO_I R_I T_E
+shorting shorting SH_B AO_I R_I T_I IH_I NG_E
+shot shot SH_B AO_I T_E
+should should SH_B UH_I D_E
+shout shout SH_B AW_I T_E
+shouted shouted SH_B AW_I T_I EH_I D_E
+shouting shouting SH_B AW_I T_I IH_I NG_E
+show show SH_B OW_E
+showed showed SH_B OW_I D_E
+showing showing SH_B OW_I IH_I NG_E
+showroom showroom SH_B OW_I R_I UW_I M_E
+shy shy SH_B AY_E
+side side S_B AY_I D_E
+sigh sigh S_B AY_E
+sight sight S_B AY_I T_E
+sign sign S_B AY_I N_E
+silence silence S_B AY_I L_I EY_I N_I S_E
+silliness silliness S_B IH_I L_I IY_I N_I EH_I S_E
+silly silly S_B IH_I L_I IY_E
+simple simple S_B IH_I M_I P_I AH_I L_E
+since since S_B IH_I N_I S_E
+single single S_B IH_I NG_I G_I AH_I L_E
+sir sir S_B AH_I R_E
+sister sister S_B IH_I S_I T_I AH_I R_E
+sisters sisters S_B IH_I S_I T_I AH_I R_I S_E
+sit sit S_B IH_I T_E
+site site S_B AY_I T_E
+sitting sitting S_B IH_I T_I IH_I NG_E
+situation situation S_B IH_I CH_I Y_I UH_I EY_I SH_I AH_I N_E
+skid skid S_B K_I IH_I D_E
+skidded skidded S_B K_I IH_I D_I EH_I D_E
+skirt skirt S_B K_I AH_I R_I T_E
+sky sky S_B K_I AY_E
+slap slap S_B L_I AE_I P_E
+slapped slapped S_B L_I AE_I P_I D_E
+sleep sleep S_B L_I IY_I P_E
+sleeping sleeping S_B L_I IY_I P_I IH_I NG_E
+sleeve sleeve S_B L_I IY_I V_E
+sleeve sleeve S_B L_I IY_I W_E
+slept slept S_B L_I EH_I P_I T_E
+slipped slipped S_B L_I IH_I P_I D_E
+slowly slowly S_B L_I OW_I L_I IY_E
+small small S_B M_I AO_I L_E
+smaller smaller S_B M_I AO_I L_I AH_I R_E
+smart smart S_B M_I AA_I R_I T_E
+smartness smartness S_B M_I AA_I R_I T_I N_I EH_I S_E
+smashed smashed S_B M_I AE_I SH_I D_E
+smell smell S_B M_I EH_I L_E
+smiled smiled S_B M_I AY_I L_I D_E
+smoke smoke S_B M_I OW_I K_E
+snatched snatched S_B N_I AE_I CH_I D_E
+sniff sniff S_B N_I IH_I F_E
+sniffed sniffed S_B N_I IH_I F_I D_E
+so so S_B OW_E
+soft soft S_B OW_I F_I T_E
+soil soil S_B OY_I L_E
+sold sold S_B OW_I L_I D_E
+solution solution S_B OW_I L_I Y_I UH_I SH_I AH_I N_E
+some some S_B AH_I M_E
+somehow somehow S_B AH_I M_I HH_I AW_E
+someone someone S_B AH_I M_I W_I AH_I N_E
+something something S_B AH_I M_I TH_I IH_I NG_E
+somethings somethings S_B AH_I M_I TH_I IH_I NG_I Z_E
+son son S_B AH_I N_E
+soon soon S_B UW_I N_E
+sort sort S_B AO_I R_I T_E
+sorting sorting S_B AO_I R_I T_I IH_I NG_E
+soup soup S_B UW_I P_E
+source source S_B OW_I R_I S_E
+space space S_B P_I EY_I S_E
+spare spare S_B P_I EY_I R_E
+speak speak S_B P_I IY_I K_E
+speechless speechless S_B P_I IY_I CH_I L_I EH_I S_E
+spindly spindly S_B P_I IH_I N_I D_I L_I IY_E
+splashed splashed S_B P_I L_I AE_I SH_I D_E
+spoke spoke S_B P_I OW_I K_E
+spoken spoken S_B P_I OW_I K_I AH_I N_E
+spot spot S_B P_I AO_I T_E
+sprang sprang S_B P_I R_I AE_I NG_E
+stain stain S_B T_I EY_I N_E
+stains stains S_B T_I EY_I N_I S_E
+stand stand S_B T_I AE_I N_I D_E
+standing standing S_B T_I AE_I N_I D_I IH_I NG_E
+starfish starfish S_B T_I AA_I R_I F_I IH_I SH_E
+start start S_B T_I AA_I R_I T_E
+started started S_B T_I AA_I R_I T_I EH_I D_E
+startled startled S_B T_I AA_I R_I T_I AH_I L_I D_E
+state state S_B T_I EY_I T_E
+stationery stationery S_B T_I EY_I SH_I N_I AH_I R_I IY_E
+stay stay S_B T_I EY_E
+steal steal S_B T_I IY_I L_E
+stealing stealing S_B T_I IY_I L_I IH_I NG_E
+stem stem S_B T_I EH_I M_E
+step step S_B T_I EH_I P_E
+stepped stepped S_B T_I EH_I P_I D_E
+stew stew S_B T_I Y_I UW_E
+stick stick S_B T_I IH_I K_E
+sticks sticks S_B T_I IH_I K_I S_E
+stiff stiff S_B T_I IH_I F_E
+still still S_B T_I IH_I L_E
+stole stole S_B T_I OW_I L_E
+stomach stomach S_B T_I AH_I M_I AH_I K_E
+stone stone S_B T_I OW_I N_E
+stones stones S_B T_I OW_I N_I S_E
+stood stood S_B T_I UH_I D_E
+stop stop S_B T_I AO_I P_E
+stopped stopped S_B T_I AO_I P_I D_E
+store store S_B T_I OW_I R_E
+storm storm S_B T_I AO_I R_I M_E
+story story S_B T_I OW_I R_I IY_E
+stout stout S_B T_I AW_I T_E
+straight straight S_B T_I R_I EY_I T_E
+strain strain S_B T_I R_I EY_I N_E
+strange strange S_B T_I R_I EY_I N_I JH_E
+stranger stranger S_B T_I R_I EY_I N_I JH_I AH_I R_E
+stretching stretching S_B T_I R_I EH_I CH_I IH_I NG_E
+striking striking S_B T_I R_I AY_I K_I IH_I NG_E
+strong strong S_B T_I R_I AO_I NG_E
+stronger stronger S_B T_I R_I AO_I NG_I G_I AH_I R_E
+struck struck S_B T_I R_I AH_I K_E
+struggle struggle S_B T_I R_I AH_I G_I AH_I L_E
+struggled struggled S_B T_I R_I AH_I G_I AH_I L_I D_E
+stuck stuck S_B T_I AH_I K_E
+student student S_B T_I UH_I DH_I AH_I N_I T_E
+students students S_B T_I UH_I DH_I AH_I N_I T_I S_E
+studied studied S_B T_I AH_I D_I IY_I D_E
+subject subject S_B AH_I B_I JH_I EH_I K_I T_E
+succeed succeed S_B AH_I K_I S_I IY_I D_E
+such such S_B AH_I CH_E
+suck suck S_B AH_I K_E
+suddenly suddenly S_B AH_I D_I AH_I N_I L_I IY_E
+sufficient sufficient S_B AH_I F_I IH_I SH_I IY_I AH_I N_I T_E
+suicide suicide S_B UW_I IH_I S_I AY_I D_E
+sum sum S_B AH_I M_E
+summer summer S_B AH_I M_I AH_I R_E
+sun sun S_B AH_I N_E
+sunny sunny S_B AH_I N_I IY_E
+sunshine sunshine S_B AH_I N_I SH_I AY_I N_E
+sure sure SH_B AO_I R_E
+surely surely SH_B AO_I R_I L_I IY_E
+suresh suresh S_B UH_I R_I EY_I SH_E
+surprise surprise S_B AH_I R_I P_I R_I AY_I Z_E
+surprised surprised S_B AH_I R_I P_I R_I AY_I Z_I D_E
+surprisingly surprisingly S_B AH_I R_I P_I R_I AY_I Z_I IH_I NG_I L_I IY_E
+survive survive S_B AH_I R_I V_I AY_I V_E
+survive survive S_B AH_I R_I W_I AY_I W_E
+swam swam S_B W_I AE_I M_E
+swim swim S_B W_I IH_I M_E
+switch switch S_B W_I IH_I CH_E
+switched switched S_B W_I IH_I CH_I D_E
+swooped swooped S_B W_I UW_I P_I D_E
+tackle tackle T_B AE_I K_I AH_I L_E
+taffy taffy T_B AE_I F_I IY_E
+tail tail T_B EY_I L_E
+tails tails T_B EY_I L_I S_E
+take take T_B EY_I K_E
+takes takes T_B EY_I K_I S_E
+taking taking T_B EY_I K_I IH_I NG_E
+talk talk T_B AO_I K_E
+talking talking T_B AO_I K_I IH_I NG_E
+tall tall T_B AO_I L_E
+target target T_B AA_I R_I G_I EH_I T_E
+targeted targeted T_B AA_I R_I G_I EH_I T_I EH_I D_E
+targets targets T_B AA_I R_I G_I EH_I T_I S_E
+taught taught T_B AO_I T_E
+tea tea T_B IY_E
+teacher teacher T_B IY_I CH_I AH_I R_E
+teacher's teacher's T_B IY_I CH_I AH_I R_I S_E
+team team T_B IY_I M_E
+tear tear T_B EY_I R_E
+tear tear T_B IH_I AH_I R_E
+teases teases T_B IY_I Z_I EH_I S_E
+teasing teasing T_B IY_I Z_I IH_I NG_E
+tell tell T_B EH_I L_E
+telling telling T_B EH_I L_I IH_I NG_E
+temper temper T_B EH_I M_I P_I AH_I R_E
+ten ten T_B EH_I N_E
+tense tense T_B EH_I N_I S_E
+terrace terrace T_B AE_I R_I EH_I S_E
+terror terror T_B EH_I R_I AH_I R_E
+test test T_B EH_I S_I T_E
+tested tested T_B EH_I S_I T_I EH_I D_E
+testing testing T_B EH_I S_I T_I IH_I NG_E
+tests tests T_B EH_I S_I T_I S_E
+tetanus tetanus T_B EH_I T_I AE_I N_I AH_I S_E
+tetanus tetanus T_B EH_I T_I N_I AH_I S_E
+than than TH_B AE_I N_E
+thank thank TH_B AE_I N_I K_E
+thanked thanked TH_B AE_I N_I K_I D_E
+thanks thanks TH_B AE_I N_I K_I S_E
+that that DH_B AE_I T_E
+that's that's DH_B AE_I T_I S_E
+the the DH_B AH_E
+their their DH_B EY_I AH_I R_E
+their their DH_B EY_I R_E
+them them DH_B EH_I M_E
+themself themself DH_B EH_I M_I S_I EH_I L_I F_E
+themselves themselves DH_B EH_I M_I S_I EH_I L_I V_I Z_E
+themselves themselves DH_B EH_I M_I S_I EH_I L_I W_I Z_E
+then then DH_B EH_I N_E
+there there DH_B AE_I R_E
+these these DH_B IY_I Z_E
+they they DH_B EY_E
+they've they've DH_B EY_I HH_I AE_I V_E
+they've they've DH_B EY_I HH_I AE_I W_E
+they've they've DH_B EY_I V_E
+they've they've DH_B EY_I W_E
+thick thick TH_B IH_I K_E
+thief thief TH_B IY_I F_E
+thieves thieves TH_B IY_I V_I Z_E
+thieves thieves TH_B IY_I W_I Z_E
+thing thing TH_B IH_I NG_E
+things things TH_B IH_I NG_I Z_E
+think think TH_B IH_I NG_I K_E
+thinking thinking TH_B IH_I NG_I K_I IH_I NG_E
+third third TH_B AH_I R_I D_E
+thirst thirst TH_B AH_I R_I S_I T_E
+thirsty thirsty TH_B AH_I R_I S_I T_I IY_E
+this this DH_B IH_I S_E
+thorns thorns TH_B AO_I R_I N_I S_E
+those those DH_B OW_I Z_E
+though though DH_B OW_E
+thought thought TH_B AO_I T_E
+thoughts thoughts TH_B AO_I T_I S_E
+thousand thousand TH_B AW_I Z_I AH_I N_I D_E
+thousands thousands TH_B AW_I Z_I AH_I N_I D_I S_E
+three three TH_B R_I IY_E
+threw threw TH_B R_I Y_I UW_E
+throat throat TH_B R_I OW_I T_E
+thrones thrones TH_B R_I OW_I N_I S_E
+thrones thrones TH_B R_I OW_I N_I Z_E
+through through TH_B R_I UW_E
+throw throw TH_B R_I OW_E
+throwing throwing TH_B R_I OW_I IH_I NG_E
+thrown thrown TH_B R_I OW_I N_E
+thus thus DH_B AH_I S_E
+tie tie T_B AY_E
+tied tied T_B AY_I D_E
+tiff tiff T_B IH_I F_E
+till till T_B IH_I L_E
+time time T_B AY_I M_E
+timed timed T_B AY_I M_I D_E
+timid timid T_B IH_I M_I IH_I D_E
+tiny tiny T_B AY_I N_I IY_E
+tip tip T_B IH_I P_E
+tire tire T_B AY_I R_E
+tired tired T_B AY_I R_I D_E
+to to T_B UW_E
+today today T_B UH_I D_I EY_E
+toe toe T_B OW_E
+together together T_B UH_I G_I EH_I DH_I AH_I R_E
+told told T_B OW_I L_I D_E
+tolerate tolerate T_B AO_I L_I AH_I R_I EY_I T_E
+toll toll T_B OW_I L_E
+tom tom T_B AO_I M_E
+tomb-stones tomb-stones T_B UW_I M_I B_I S_I T_I OW_I N_I S_E
+tombs tombs T_B UW_I M_I B_I Z_E
+tombstones tombstones T_B UW_I M_I B_I S_I T_I OW_I N_I S_E
+toms toms T_B AO_I M_I S_E
+toms toms T_B AO_I M_I Z_E
+tones tones T_B OW_I N_I S_E
+tones tones T_B OW_I N_I Z_E
+tongue tongue T_B AH_I NG_E
+too too T_B UW_E
+took took T_B UH_I K_E
+tools tools T_B UW_I L_I S_E
+tortoise tortoise T_B AO_I R_I T_I OY_I Z_E
+tortoises tortoises T_B AO_I R_I T_I OY_I Z_I EH_I S_E
+touch touch T_B AH_I CH_E
+toward toward T_B UH_I W_I AH_I R_I D_E
+towards towards T_B UH_I W_I AH_I R_I D_I S_E
+town town T_B AW_I N_E
+track track T_B R_I AE_I K_E
+transparent transparent T_B R_I AA_I N_I S_I P_I EH_I R_I EH_I N_I T_E
+transparent transparent T_B R_I AA_I N_I S_I P_I R_I AH_I N_I T_E
+trap trap T_B R_I AE_I P_E
+trapped trapped T_B R_I AE_I P_I D_E
+tree tree T_B R_I IY_E
+tree-cutter tree-cutter T_B R_I IY_I K_I AH_I T_I AH_I R_E
+treecutter treecutter T_B R_I IY_I K_I AH_I T_I AH_I R_E
+trees trees T_B R_I IY_I Z_E
+tribe tribe T_B R_I AY_I B_E
+tribes tribes T_B R_I AY_I B_I Z_E
+trick trick T_B R_I IH_I K_E
+tricks tricks T_B R_I IH_I K_I S_E
+tried tried T_B R_I AY_I D_E
+tries tries T_B R_I AY_I Z_E
+trip trip T_B R_I IH_I P_E
+trouble trouble T_B R_I AH_I B_I AH_I L_E
+troubles troubles T_B R_I AH_I B_I AH_I L_I S_E
+truck truck T_B R_I AH_I K_E
+trudged trudged T_B R_I AH_I JH_I D_E
+true true T_B R_I UW_E
+trunk trunk T_B R_I AH_I N_I K_E
+trust trust T_B R_I AH_I S_I T_E
+truth truth T_B R_I UH_I TH_E
+try try T_B R_I AY_E
+trying trying T_B R_I AA_I IH_I NG_E
+trying trying T_B R_I AY_I IH_I NG_E
+tugged tugged T_B AH_I G_I D_E
+turn turn T_B AH_I R_I N_E
+turned turned T_B AH_I R_I N_I D_E
+turning turning T_B AH_I R_I N_I IH_I NG_E
+turtle turtle T_B AH_I R_I T_I AH_I L_E
+twelve twelve T_B W_I EH_I L_I V_E
+twelve twelve T_B W_I EH_I L_I W_E
+two two T_B UW_E
+types types T_B AY_I P_I S_E
+un un AH_B N_E
+unaware unaware AH_B N_I AH_I W_I EY_I R_E
+under under AH_B N_I D_I AH_I R_E
+understand understand AH_B N_I D_I AH_I R_I S_I T_I AE_I N_I D_E
+until until AH_B N_I T_I IH_I L_E
+unusually unusually AH_B N_I Y_I UH_I JH_I UH_I AH_I L_I IY_E
+up up AH_B P_E
+upon upon AH_B P_I AO_I N_E
+upstream upstream AH_B P_I S_I T_I R_I IY_I M_E
+us us AH_B S_E
+use use Y_B UW_I Z_E
+used used Y_B UW_I Z_I D_E
+useful useful Y_B UW_I Z_I F_I UH_I L_E
+using using Y_B UW_I Z_I IH_I NG_E
+usually usually Y_B UH_I JH_I UH_I AH_I L_I IY_E
+vain vain V_B EY_I N_E
+vain vain W_B EY_I N_E
+valuable valuable V_B AE_I L_I UH_I EY_I B_I AH_I L_E
+valuable valuable W_B AE_I L_I UH_I EY_I B_I AH_I L_E
+varieties varieties V_B AH_I R_I AY_I T_I IY_I Z_E
+varieties varieties W_B AH_I R_I AY_I T_I IY_I Z_E
+variety variety V_B AH_I R_I AY_I T_I IY_E
+variety variety W_B AH_I R_I AY_I T_I IY_E
+vegetables vegetables V_B EH_I JH_I IH_I T_I EY_I B_I AH_I L_I S_E
+vegetables vegetables W_B EH_I JH_I IH_I T_I EY_I B_I AH_I L_I S_E
+verdict verdict V_B AH_I R_I D_I IH_I K_I T_E
+verdict verdict W_B AH_I R_I D_I IH_I K_I T_E
+very very V_B EH_I R_I IY_E
+very very W_B EH_I R_I IY_E
+vessel vessel V_B EH_I S_I AH_I L_E
+vessel vessel W_B EH_I S_I AH_I L_E
+vessels vessels V_B EH_I S_I AH_I L_I S_E
+vessels vessels W_B EH_I S_I AH_I L_I S_E
+veterinary veterinary V_B EH_I T_I R_I IH_I N_I AH_I R_I IY_E
+veterinary veterinary W_B EH_I T_I R_I IH_I N_I AH_I R_I IY_E
+village village V_B IH_I L_I EY_I JH_E
+village village W_B IH_I L_I EY_I JH_E
+villager villager V_B IH_I L_I EY_I JH_I AH_I R_E
+villager villager W_B IH_I L_I EY_I JH_I AH_I R_E
+villagers villagers V_B IH_I L_I EY_I JH_I AH_I R_I S_E
+villagers villagers V_B IH_I L_I EY_I JH_I AH_I R_I Z_E
+villagers villagers W_B IH_I L_I EY_I JH_I AH_I R_I S_E
+villagers villagers W_B IH_I L_I EY_I JH_I AH_I R_I Z_E
+vines vines V_B AY_I N_I S_E
+vines vines W_B AY_I N_I S_E
+visible visible V_B IH_I Z_I IH_I B_I AH_I L_E
+visible visible W_B IH_I Z_I IH_I B_I AH_I L_E
+voice voice V_B OY_I S_E
+voice voice W_B OY_I S_E
+vote vote V_B OW_I T_E
+vote vote W_B OW_I T_E
+voted voted V_B OW_I T_I EH_I D_E
+voted voted W_B OW_I T_I EH_I D_E
+wait wait W_B EY_I T_E
+waited waited W_B EY_I T_I EH_I D_E
+walk walk W_B AO_I K_E
+walked walked W_B AO_I K_I D_E
+walking walking W_B AO_I K_I IH_I NG_E
+wall wall W_B AO_I L_E
+walnut walnut W_B AO_I L_I N_I AH_I T_E
+walnuts walnuts W_B AO_I L_I N_I AH_I T_I S_E
+want want W_B AO_I N_I T_E
+wanted wanted W_B AO_I N_I T_I EH_I D_E
+wanting wanting W_B AO_I N_I T_I IH_I NG_E
+war war W_B AO_I R_E
+ware ware W_B EY_I R_E
+warned warned W_B AO_I R_I N_I D_E
+was was W_B AO_I Z_E
+wash wash W_B AO_I SH_E
+washed washed W_B AO_I SH_I D_E
+washington washington W_B AO_I SH_I IH_I NG_I T_I AH_I N_E
+wasn't wasn't W_B AO_I Z_I AH_I N_I T_E
+watch watch W_B AO_I CH_E
+watching watching W_B AO_I CH_I IH_I NG_E
+water water W_B AO_I T_I AH_I R_E
+watered watered W_B AO_I T_I AH_I R_I D_E
+waters waters W_B AO_I T_I AH_I R_I S_E
+wave wave W_B EY_I V_E
+wave wave W_B EY_I W_E
+way way W_B EY_E
+ways ways W_B EY_I Z_E
+we we W_B IY_E
+weak weak W_B IY_I K_E
+weaker weaker W_B IY_I K_I AH_I R_E
+wear wear W_B EY_I R_E
+wearing wearing W_B EY_I R_I IH_I NG_E
+weeks weeks W_B IY_I K_I S_E
+weight weight W_B EY_I T_E
+well well W_B EH_I L_E
+well-off well-off W_B EH_I L_I AO_I F_E
+went went W_B EH_I N_I T_E
+werdick werdick W_B EH_I R_I D_I IH_I K_E
+were were W_B AH_I R_E
+weren't weren't W_B AH_I R_I N_I T_E
+what what W_B AO_I T_E
+what what W_B HH_I AO_I T_E
+what's what's W_B AO_I T_I S_E
+what's what's W_B HH_I AO_I T_I S_E
+whatever whatever W_B AO_I T_I EH_I V_I AH_I R_E
+whatever whatever W_B AO_I T_I EH_I W_I AH_I R_E
+whatever whatever W_B HH_I AO_I T_I EH_I V_I AH_I R_E
+whatever whatever W_B HH_I AO_I T_I EH_I W_I AH_I R_E
+whats whats W_B HH_I AA_I T_I S_E
+when when W_B EH_I N_E
+when when W_B HH_I EH_I N_E
+where where W_B EY_I R_E
+where where W_B HH_I EY_I R_E
+whether whether W_B EH_I DH_I AH_I R_E
+whether whether W_B HH_I EH_I DH_I AH_I R_E
+which which W_B IH_I CH_E
+while while W_B AY_I L_E
+while while W_B HH_I AY_I L_E
+whip whip W_B HH_I IH_I P_E
+whispered whispered W_B HH_I IH_I S_I P_I AH_I R_I D_E
+who who HH_B UW_E
+whole whole HH_B OW_I L_E
+whose whose HH_B UW_I Z_E
+why why W_B HH_I AA_I Y_E
+why why W_B HH_I AY_E
+wife wife W_B AY_I F_E
+wife's wife's W_B AY_I F_I S_E
+wild wild W_B AY_I L_I D_E
+will will W_B IH_I L_E
+wind wind W_B AY_I N_I D_E
+wind wind W_B IH_I N_I D_E
+wing wing W_B IH_I NG_E
+wings wings W_B IH_I NG_I Z_E
+winning winning W_B IH_I N_I IH_I NG_E
+wiped wiped W_B AY_I P_I D_E
+wisdom wisdom W_B IH_I Z_I D_I AH_I M_E
+wise wise W_B AY_I Z_E
+wish wish W_B IH_I SH_E
+wit wit W_B IH_I T_E
+with with W_B IH_I DH_E
+with with W_B IH_I TH_E
+without without W_B IH_I DH_I AW_I T_E
+witnesses witnesses W_B IH_I T_I N_I EH_I S_I EH_I S_E
+woke woke W_B OW_I K_E
+wolf wolf W_B UW_I L_I F_E
+wolve wolve W_B UW_I L_I V_E
+wolve wolve W_B UW_I L_I W_E
+wolves wolves W_B UW_I L_I V_I Z_E
+wolves wolves W_B UW_I L_I W_I Z_E
+won't won't W_B OW_I N_I T_E
+wondered wondered W_B AH_I N_I D_I AH_I R_I D_E
+wood wood W_B UH_I D_E
+wood-cutter wood-cutter W_B UH_I D_I K_I AH_I T_I AH_I R_E
+woodcutter woodcutter W_B UH_I D_I K_I AH_I T_I AH_I R_E
+woodman woodman W_B UH_I D_I M_I AE_I N_E
+woodman woodman W_B UH_I D_I M_I AH_I N_E
+woods woods W_B UH_I D_I S_E
+woodsman woodsman W_B UH_I D_I S_I M_I AE_I N_E
+woodsman woodsman W_B UH_I D_I S_I M_I AH_I N_E
+wool wool W_B UH_I L_E
+word word W_B AH_I R_I D_E
+words words W_B AH_I R_I D_I S_E
+wore wore W_B OW_I R_E
+work work W_B AH_I R_I K_E
+worker worker W_B AH_I R_I K_I AH_I R_E
+working working W_B AH_I R_I K_I IH_I NG_E
+world world W_B AH_I R_I L_I D_E
+worried worried W_B AH_I R_I IY_I D_E
+worry worry W_B AH_I R_I IY_E
+worth worth W_B AH_I R_I TH_E
+would would W_B UH_I D_E
+wouldn't wouldn't W_B UH_I D_I AH_I N_I T_E
+wounded wounded W_B AW_I N_I D_I EH_I D_E
+wounded wounded W_B UH_I N_I D_I EH_I D_E
+write write R_B AY_I T_E
+wrote wrote R_B OW_I T_E
+yard yard Y_B AA_I R_I D_E
+year year Y_B AH_I R_E
+yes yes Y_B EH_I S_E
+you you Y_B UW_E
+young young Y_B AH_I NG_E
+your your Y_B AO_I R_E
+yours yours Y_B AO_I R_I S_E
+youth youth Y_B UW_I TH_E
+youths youths Y_B UW_I TH_I S_E
+zoo zoo Z_B UW_E
+zoos zoos Z_B UW_I S_E
+अ अ AH_S
+अंटर अंटर AH_B N_I T_I AH_I R_E
+अक्स अक्स AH_B K_I S_E
+अट्याटिंग अट्याटिंग AH_B T_I Y_I AA_I T_I IH_I NG_E
+अणि अणि AH_B N_I N_I IH_E
+अन अन AH_B N_I AH_E
+अनि अनि AH_B N_I IH_E
+अनी अनी AH_B N_I IY_E
+अपोर्चड अपोर्चड AH_B P_I OW_I R_I CH_I AH_I D_E
+अप्र अप्र AH_B P_I R_I AH_E
+अफ अफ AH_B F_E
+अफेड अफेड AH_B F_I EY_I D_E
+अर अर AH_B R_I AH_E
+अस अस AH_B S_E
+अस्क अस्क AH_B S_I K_E
+अस्ट अस्ट AH_B S_I T_E
+अ‍ॅ अ‍ॅ AE_S
+अ‍ॅत अ‍ॅत AE_B TH_E
+अ‍ॅनाय अ‍ॅनाय AE_B N_I AA_I Y_E
+अ‍ॅब्स अ‍ॅब्स AE_B B_I S_E
+अ‍ॅम्ब्रेस्टेट अ‍ॅम्ब्रेस्टेट AE_B M_I B_I R_I EH_I S_I T_I EY_I T_E
+आ आ AA_S
+आक्स आक्स AA_B K_I S_E
+आक्सड आक्सड AA_B K_I S_I AH_I D_E
+आशिआ आशिआ AA_B SH_I IH_I AA_E
+आस आस AA_B S_E
+आसकेड आसकेड AA_B S_I AH_I K_I EY_I D_E
+आस्कड आस्कड AA_B S_I K_I AH_I D_E
+आस्केड आस्केड AA_B S_I K_I EY_I D_E
+आस्ट आस्ट AA_B S_I T_E
+इ इ IH_S
+इंग इंग IH_B NG_E
+इड इड IH_B D_I AH_E
+इत इत IH_B TH_I AH_E
+इम इम IH_B M_E
+इर इर IH_B R_I AH_E
+ई ई IY_S
+ए ए EY_S
+एंस एंस EH_B N_I S_E
+एक्स एक्स EH_B K_I S_E
+एक्सपेट एक्सपेट EH_B K_I S_I P_I EY_I T_E
+एथर एथर EY_B TH_I AH_I R_E
+एमब्रॅसेस्ड एमब्रॅसेस्ड EH_B M_I B_I R_I AE_I S_I EY_I S_I D_E
+एम्बरेस एम्बरेस EH_B M_I B_I AH_I R_I EY_I S_E
+एम्ब्रॅस्ड एम्ब्रॅस्ड EH_B M_I B_I R_I AE_I S_I D_E
+एल एल EY_B L_E
+एस एस EY_B S_E
+एसिडन्स एसिडन्स EY_B S_I IH_I D_I AH_I N_I S_E
+ऑ ऑ AO_S
+ऑप ऑप AO_B P_E
+ऑब ऑब AO_B B_E
+ऑर्थ ऑर्थ AO_B R_I TH_E
+ओ ओ OW_S
+ओल ओल OW_B L_E
+ओवस ओवस OW_B W_I AH_I S_E
+क क K_B AH_E
+कंडि कंडि K_B AH_I N_I D_I IH_E
+कन्स्टन्ट कन्स्टन्ट K_B AH_I N_I S_I T_I AH_I N_I T_E
+कान कान K_B AA_I N_E
+किन्ड किन्ड K_B IH_I N_I D_E
+किप्ट किप्ट K_B IH_I P_I T_E
+कुलप्रित कुलप्रित K_B UH_I L_I P_I R_I IH_I TH_E
+कुल्ड कुल्ड K_B UH_I L_I D_E
+कॅ कॅ K_B AE_E
+कॅम कॅम K_B AE_I M_E
+कॅरि कॅरि K_B AE_I R_I IH_E
+के के K_B EY_E
+केट केट K_B EY_I T_E
+केन केन K_B EY_I N_E
+केम्स केम्स K_B EY_I M_I S_E
+कॉच कॉच K_B AO_I CH_E
+कॉन कॉन K_B AO_I N_E
+कॉन्स कॉन्स K_B AO_I N_I S_E
+को को K_B OW_E
+कोमिट कोमिट K_B OW_I M_I IH_I T_E
+क्रिएचर क्रिएचर K_B R_I IH_I EY_I CH_I AH_I R_E
+क्रिएचर्स क्रिएचर्स K_B R_I IH_I EY_I CH_I AH_I R_I S_E
+क्लॅ क्लॅ K_B L_I AE_E
+क्ल्या क्ल्या K_B L_I Y_I AA_E
+ग ग G_B AH_E
+गिट गिट G_B IH_I T_E
+गुल्ड गुल्ड G_B UH_I L_I D_E
+गॉट्स गॉट्स G_B AO_I T_I S_E
+गोड गोड G_B OW_I D_E
+गोस्ट गोस्ट G_B OW_I S_I T_E
+ग्रा ग्रा G_B R_I AA_E
+ग्रेम्स ग्रेम्स G_B R_I EY_I M_I S_E
+ज ज JH_B AH_E
+जनी जनी JH_B AH_I N_I IY_E
+जम्मि जम्मि JH_B AH_I M_I M_I IH_E
+जे जे JH_B EY_E
+ट ट T_B AH_E
+टि टि T_B IH_E
+टिसिंग टिसिंग T_B IH_I S_I IH_I NG_E
+टीस टीस T_B IY_I S_E
+टुम टुम T_B UH_I M_E
+टुवेल टुवेल T_B UH_I W_I EY_I L_E
+टे टे T_B EY_E
+टेड टेड T_B EY_I D_E
+टो टो T_B OW_E
+टोक टोक T_B OW_I K_E
+टोम्ब टोम्ब T_B OW_I M_I B_E
+टोम्बस्टोंस टोम्बस्टोंस T_B OW_I M_I B_I S_I T_I OW_I N_I S_E
+टोम्स टोम्स T_B OW_I M_I S_E
+टोर्न्स टोर्न्स T_B OW_I R_I N_I S_E
+ट्म ट्म T_B AH_I M_E
+ट्रग ट्रग T_B R_I AH_I G_E
+ट्राइज ट्राइज T_B R_I AA_I IH_I JH_E
+ट्रिब ट्रिब T_B R_I IH_I B_E
+ट्रिब्स ट्रिब्स T_B R_I IH_I B_I S_E
+ट्रॅ ट्रॅ T_B R_I AE_E
+ट्रॅकल ट्रॅकल T_B R_I AE_I K_I AH_I L_E
+ट्रे ट्रे T_B R_I EY_E
+ट्रो ट्रो T_B R_I OW_E
+ट्रोंस ट्रोंस T_B R_I OW_I N_I S_E
+ड ड D_B AH_E
+डा डा D_B AA_E
+डानज़िल डानज़िल D_B AA_I N_I AH_I Z_I IH_I L_E
+डि डि D_B IH_E
+डिफ डिफ D_B IH_I F_E
+डिफिक डिफिक D_B IH_I P_I HH_I IH_I K_E
+डी डी D_B IY_E
+डेजिल डेजिल D_B EY_I JH_I IH_I L_E
+डेन डेन D_B EY_I N_E
+डॉन डॉन D_B AO_I N_E
+ड्रीन्ट ड्रीन्ट D_B R_I IY_I N_I T_E
+ड्रोइंग ड्रोइंग D_B R_I OW_I IH_I NG_E
+तफ तफ TH_B AH_I P_I HH_E
+तु तु TH_B UH_E
+तू तू TH_B UW_E
+त्रुत त्रुत TH_B R_I UH_I TH_E
+त्रुथ त्रुथ TH_B R_I UH_I TH_E
+थ थ TH_B AH_E
+थो थो TH_B OW_E
+थोट थोट TH_B OW_I T_E
+थ्रोन्स थ्रोन्स TH_B R_I OW_I N_I S_E
+द द DH_B AH_E
+दट दट DH_B AH_I T_E
+दम दम DH_B AH_I M_E
+दर दर DH_B AH_I R_E
+दिद दिद DH_B IH_I DH_E
+दिस दिस DH_B IH_I S_E
+दी दी DH_B IY_E
+दॅ दॅ DH_B AE_E
+दॅत दॅत DH_B AE_I TH_E
+देनि देनि DH_B EY_I N_I IH_E
+देम्स देम्स DH_B EY_I M_I S_E
+देलि देलि DH_B EY_I L_I IH_E
+देव देव DH_B EY_I W_E
+द्या द्या DH_B Y_I AA_E
+द्यानी द्यानी DH_B Y_I AA_I N_I IY_E
+ध ध DH_B HH_I AH_E
+न न N_B AH_E
+ना ना N_B AA_E
+नाय नाय N_B AA_I Y_E
+नि नि N_B IH_E
+निनटी निनटी N_B IH_I N_I T_I IY_E
+नीट नीट N_B IY_I T_E
+ने ने N_B EY_E
+नेदर नेदर N_B EY_I DH_I AH_I R_E
+नेमेड नेमेड N_B EY_I M_I EY_I D_E
+नेव नेव N_B EY_I W_E
+नेस नेस N_B EY_I S_E
+नॉ नॉ N_B AO_E
+नोटीसेड नोटीसेड N_B OW_I T_I IY_I S_I EY_I D_E
+नोन नोन N_B OW_I N_E
+प प P_B AH_E
+पा पा P_B AA_E
+पाइड पाइड P_B AY_I D_E
+पाओस पाओस P_B AA_I OW_I S_E
+पाठ पाठ P_B AA_I T_I HH_E
+पि पि P_B IH_E
+पिपड पिपड P_B IH_I P_I AH_I D_E
+पिपे पिपे P_B IH_I P_I EY_E
+पिसिस पिसिस P_B IH_I S_I IH_I S_E
+पिसेस पिसेस P_B IH_I S_I EY_I S_E
+पु पु P_B UH_E
+पॅ पॅ P_B AE_E
+पॅटर्स पॅटर्स P_B AE_I T_I AH_I R_I S_E
+पेटर पेटर P_B EY_I T_I AH_I R_E
+पेटस पेटस P_B EY_I T_I AH_I S_E
+पेनेटली पेनेटली P_B EY_I N_I EY_I T_I L_I IY_E
+पेस्टि पेस्टि P_B EY_I S_I T_I IH_E
+पेस्टिकाइड्स पेस्टिकाइड्स P_B EY_I S_I T_I IH_I K_I AA_I IH_I D_I S_E
+पै पै P_B EY_E
+पो पो P_B OW_E
+पोल पोल P_B OW_I L_E
+प्रि प्रि P_B R_I IH_E
+प्रेटेटिंग प्रेटेटिंग P_B R_I EY_I T_I EY_I T_I IH_I NG_E
+प्रो प्रो P_B R_I OW_E
+प्लकेट प्लकेट P_B L_I AH_I K_I EY_I T_E
+प्लिस प्लिस P_B L_I IH_I S_E
+फ फ P_B HH_I AH_E
+फंट फंट P_B HH_I AH_I N_I T_E
+फा फा P_B HH_I AA_E
+फि फि P_B HH_I IH_E
+फिम फिम P_B HH_I IH_I M_E
+फीडी फीडी P_B HH_I IY_I D_I IY_E
+फील्ट फील्ट P_B HH_I IY_I L_I T_E
+फु फु P_B HH_I UH_E
+फुर फुर P_B HH_I UH_I R_E
+फॅ फॅ P_B HH_I AE_E
+फे फे P_B HH_I EY_E
+फेट फेट P_B HH_I EY_I T_E
+फेडी फेडी P_B HH_I EY_I D_I IY_E
+फो फो P_B HH_I OW_E
+फ्रिडि फ्रिडि P_B HH_I R_I IH_I D_I IH_E
+फ्रीडी फ्रीडी P_B HH_I R_I IY_I D_I IY_E
+फ्रेड फ्रेड P_B HH_I R_I EY_I D_E
+फ्रॉट फ्रॉट P_B HH_I R_I AO_I T_E
+ब ब B_B AH_E
+बबलु बबलु B_B AH_I B_I L_I UH_E
+बश बश B_B AH_I SH_E
+बा बा B_B AA_E
+बायसायकल बायसायकल B_B AA_I Y_I S_I AA_I Y_I K_I AH_I L_E
+बिसकुट्स बिसकुट्स B_B IH_I S_I K_I UH_I T_I S_E
+बु बु B_B UH_E
+बुस्टिंग बुस्टिंग B_B UH_I S_I T_I IH_I NG_E
+बॅ बॅ B_B AE_E
+बेट्रे बेट्रे B_B EY_I T_I R_I EY_E
+बॉ बॉ B_B AO_E
+बॉत बॉत B_B AO_I TH_E
+बो बो B_B OW_E
+ब्रिलाइंट ब्रिलाइंट B_B R_I IH_I L_I AA_I IH_I N_I T_E
+ब्रॅन्गिंग ब्रॅन्गिंग B_B R_I AE_I NG_I G_I IH_I NG_E
+ब्रॉ ब्रॉ B_B R_I AO_E
+म म M_B AH_E
+मध मध M_B AH_I DH_I HH_E
+मश मश M_B AH_I SH_E
+मस मस M_B AH_I S_E
+मा मा M_B AA_E
+मॅ मॅ M_B AE_E
+मेटर मेटर M_B EY_I T_I AH_I R_E
+मै मै M_B EY_E
+मो मो M_B OW_E
+य य Y_B AH_E
+यड यड Y_B AH_I D_E
+यानी यानी Y_B AA_I N_I IY_E
+ये ये Y_B EY_E
+योथ योथ Y_B OW_I TH_E
+योथ्स योथ्स Y_B OW_I TH_I S_E
+यौच यौच Y_B AO_I CH_E
+र र R_B AH_E
+रि रि R_B IH_E
+रिचेट रिचेट R_B IH_I CH_I EY_I T_E
+रिन रिन R_B IH_I N_E
+रिपि रिपि R_B IH_I P_I IH_E
+रिप्लायड रिप्लायड R_B IH_I P_I L_I AY_I D_E
+रिली रिली R_B IH_I L_I IY_E
+रिस रिस R_B IH_I S_E
+री री R_B IY_E
+रु रु R_B UH_E
+रॅन रॅन R_B AE_I N_E
+रे रे R_B EY_E
+रेष्टुरंट रेष्टुरंट R_B EY_I SH_I T_I UH_I R_I AH_I N_I T_E
+ल ल L_B AH_E
+ला ला L_B AA_E
+लाउज लाउज L_B AW_I JH_E
+लाफ्टेड लाफ्टेड L_B AA_I F_I T_I EY_I D_E
+लि लि L_B IH_E
+लिजार्ड लिजार्ड L_B IH_I JH_I AA_I R_I D_E
+लिटिल लिटिल L_B IH_I T_I IH_I L_E
+लिट्ल लिट्ल L_B IH_I T_I AH_I L_E
+लिफ्स लिफ्स L_B IH_I P_I HH_I S_E
+ली ली L_B IY_E
+लु लु L_B UH_E
+लॉयन लॉयन L_B AO_I Y_I AH_I N_E
+लो लो L_B OW_E
+लोयन लोयन L_B OW_I Y_I AH_I N_E
+व व W_B AH_E
+वंड वंड W_B AH_I N_I D_E
+वर वर W_B AH_I R_E
+वरेन्ट वरेन्ट W_B AH_I R_I EY_I N_I T_E
+वल वल W_B AH_I L_E
+वा वा W_B AA_E
+वि वि W_B IH_E
+विज विज W_B IH_I JH_E
+विव विव W_B IH_I W_E
+वु वु W_B UH_E
+वुज वुज W_B UH_I JH_E
+वुल्ट वुल्ट W_B UH_I L_I T_E
+वुल्ड वुल्ड W_B UH_I L_I D_E
+वे वे W_B EY_E
+वेंथ वेंथ W_B EY_I N_I TH_E
+वेन वेन W_B EY_I N_E
+वेन्थ वेन्थ W_B EY_I N_I TH_E
+वॉ वॉ W_B AO_E
+वॉलकेड वॉलकेड W_B AO_I L_I K_I EY_I D_E
+वो वो W_B OW_E
+व्रु व्रु W_B R_I UH_E
+व्रोट व्रोट W_B R_I OW_I T_E
+श श SH_B AH_E
+शाव्ड शाव्ड SH_B AA_I W_I D_E
+शु शु SH_B UH_E
+शुल शुल SH_B UH_I L_E
+शॉ शॉ SH_B AO_E
+शोट शोट SH_B OW_I T_E
+शोन्स शोन्स SH_B OW_I N_I S_E
+श्री श्री SH_B R_I IY_E
+स स S_B AH_E
+सदन्ली सदन्ली S_B AH_I DH_I AH_I N_I L_I IY_E
+सर्क्युम सर्क्युम S_B AH_I R_I K_I Y_I UH_I M_E
+सा सा S_B AA_E
+साल्ट साल्ट S_B AA_I L_I T_E
+सिंघ सिंघ S_B IH_I N_I G_I HH_E
+सिग सिग S_B IH_I G_E
+सुटेशन सुटेशन S_B UH_I T_I EY_I SH_I AH_I N_E
+सुरज सुरज S_B UH_I R_I AH_I JH_E
+सॅ सॅ S_B AE_E
+सेन सेन S_B EY_I N_E
+सेर सेर S_B EY_I R_E
+सोट सोट S_B OW_I T_E
+सोरिंग सोरिंग S_B OW_I R_I IH_I NG_E
+सौ सौ S_B AO_E
+स्के स्के S_B K_I EY_E
+स्क्रेड स्क्रेड S_B K_I R_I EY_I D_E
+स्ट स्ट S_B T_I AH_E
+स्टि स्टि S_B T_I IH_E
+स्टिप स्टिप S_B T_I IH_I P_E
+स्टोम स्टोम S_B T_I OW_I M_E
+स्ट्र्क स्ट्र्क S_B T_I R_I AH_I K_E
+स्पिस स्पिस S_B P_I IH_I S_E
+स्मोट स्मोट S_B M_I OW_I T_E
+स्मोर्ट स्मोर्ट S_B M_I OW_I R_I T_E
+स्लॅपेड स्लॅपेड S_B L_I AE_I P_I EY_I D_E
+ह ह HH_B AH_E
+हन हन HH_B AH_I N_E
+हय हय HH_B AH_I Y_E
+हा हा HH_B AA_E
+हायबरेटिंग हायबरेटिंग HH_B AA_I Y_I B_I AH_I R_I EY_I T_I IH_I N_I G_E
+हिज हिज HH_B IH_I JH_E
+हिडिंग हिडिंग HH_B IH_I D_I IH_I NG_E
+हिबरनेट हिबरनेट HH_B IH_I B_I AH_I R_I N_I EY_I T_E
+हिबरनेटिंग हिबरनेटिंग HH_B IH_I B_I AH_I R_I N_I EY_I T_I IH_I N_I G_E
+हॅ हॅ HH_B AE_E
+हे हे HH_B EY_E
+हेरिंग हेरिंग HH_B EY_I R_I IH_I NG_E
+हेल्पेड हेल्पेड HH_B EY_I L_I P_I EY_I D_E
+हो हो HH_B OW_E

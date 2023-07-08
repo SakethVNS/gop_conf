@@ -1,0 +1,31 @@
+# compile-train-graphs --read-disambig-syms=data/lang_gop_400_ex_one_sil//phones/disambig.int data/gop_400_examples//ali/tree exp_jan_2_wpp//chain/tdnn/final.mdl data/lang_gop_400_ex_one_sil//L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt data/gop_400_examples//split4/4/text|" ark:- | nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_400_examples//ali/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=10 --retry-beam=60 exp_jan_2_wpp//chain/tdnn/final.mdl ark:- "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_400_examples//split4/4/utt2spk scp:data/gop_400_examples//split4/4/cmvn.scp scp:data/gop_400_examples//split4/4/feats.scp ark:- |" "ark:|gzip -c >data/gop_400_examples//ali/ali.4.gz" 
+# Started at Wed Mar  1 04:18:04 IST 2023
+#
+compile-train-graphs --read-disambig-syms=data/lang_gop_400_ex_one_sil//phones/disambig.int data/gop_400_examples//ali/tree exp_jan_2_wpp//chain/tdnn/final.mdl data/lang_gop_400_ex_one_sil//L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt data/gop_400_examples//split4/4/text|' ark:- 
+nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_400_examples//ali/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=10 --retry-beam=60 exp_jan_2_wpp//chain/tdnn/final.mdl ark:- 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_400_examples//split4/4/utt2spk scp:data/gop_400_examples//split4/4/cmvn.scp scp:data/gop_400_examples//split4/4/feats.scp ark:- |' 'ark:|gzip -c >data/gop_400_examples//ali/ali.4.gz' 
+sym2int.pl: replacing हिस with 1
+sym2int.pl: replacing HS with 1
+** Replaced 2 instances of OOVs with 1
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:229) Waited 0 seconds before creating CUDA context
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:243) Not in compute-exclusive mode.  Suggestion: use 'nvidia-smi -c 3' to set compute exclusive mode
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:438) Selecting from 2 GPUs
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(0): GeForce RTX 2080 Ti	free:5870M, used:5148M, total:11019M, free/total:0.532757
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(1): GeForce RTX 2080 Ti	free:10211M, used:804M, total:11016M, free/total:0.926955
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:501) Device: 1, mem_ratio: 0.926955
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:382) Trying to select device: 1
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:511) Success selecting device 1 free mem ratio: 0.926955
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:FinalizeActiveGpu():cu-device.cc:338) The active GPU is [1]: GeForce RTX 2080 Ti	free:4717M, used:6298M, total:11016M, free/total:0.42824 version 7.5
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_400_examples//split4/4/utt2spk scp:data/gop_400_examples//split4/4/cmvn.scp scp:data/gop_400_examples//split4/4/feats.scp ark:- 
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:CheckAndFixConfigs():nnet-am-decodable-simple.cc:294) Increasing --frames-per-chunk from 70 to 72 to make it a multiple of --frame-subsampling-factor=3
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance tl_4-a-2000_tl_4-a-20_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+LOG (compile-train-graphs[5.5.1058~1-dfd6c]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 100 graphs, failed for 0
+LOG (apply-cmvn[5.5.1058~1-dfd6c]:main():apply-cmvn.cc:81) Copied 100 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:198) Overall log-likelihood per frame is 1.16657 over 125766 frames.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:201) Retried 1 out of 100 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:203) Done 100, errors on 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.439 seconds taken in nnet3 compilation total (breakdown: 0.292 compilation, 0.088 optimization, 0 shortcut expansion, 0.0156 checking, 0.0123 computing indexes, 0.0305 misc.) + 0 I/O.
+# Accounting: time=11 threads=1
+# Ended (code 0) at Wed Mar  1 04:18:15 IST 2023, elapsed time 11 seconds

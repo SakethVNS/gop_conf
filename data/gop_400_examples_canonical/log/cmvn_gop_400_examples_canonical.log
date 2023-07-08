@@ -1,0 +1,2 @@
+compute-cmvn-stats --spk2utt=ark:data/gop_400_examples_canonical/spk2utt scp:data/gop_400_examples_canonical/feats.scp ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_400_examples_canonical/data/cmvn_gop_400_examples_canonical.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_400_examples_canonical/data/cmvn_gop_400_examples_canonical.scp 
+LOG (compute-cmvn-stats[5.5.1058~1-dfd6c]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 400 utterances; 0 had errors.

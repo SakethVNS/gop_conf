@@ -1,0 +1,33 @@
+# ivector-extract-online2 --config=data/gop_dev_172/alignments/ivectors/conf/ivector_extractor.conf ark:data/gop_dev_172/split8/2/spk2utt scp:data/gop_dev_172/split8/2/feats.scp ark:- | copy-feats --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.2.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.2.scp 
+# Started at Thu Apr  6 02:45:13 IST 2023
+#
+copy-feats --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.2.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.2.scp 
+ivector-extract-online2 --config=data/gop_dev_172/alignments/ivectors/conf/ivector_extractor.conf ark:data/gop_dev_172/split8/2/spk2utt scp:data/gop_dev_172/split8/2/feats.scp ark:- 
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 10.6561 > 5.99689.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 9.08041 > 7.2735.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.4095 > 13.5064.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 9.82768 > 7.52929.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 22.1093 > 20.8254.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 20.2947 > 4.37981.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 6.15134 > 5.20485.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.7389 > 10.2302.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 43.3511 > 14.7772.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 10.9162 > 9.4531.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 9.11391 > 5.57189.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 18.3081 > 13.7718.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 21.7221 > 20.7426.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 24.5197 > 10.7084.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 25.7691 > 24.3859.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.5226 > 15.8279.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 17.1161 > 9.20632.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 27.3831 > 8.20624.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 24.8935 > 12.6481.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 25.7754 > 9.61074.  Will do an exact optimization.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:189) Estimated iVectors for 22 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:191) Average objective-function improvement was 48.271 per frame, over 110666 frames (weighted).
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:194) Average iVector length was 9.04106 and at utterance-end was 10.0422, over 110666 frames (weighted);  expected length is 10
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 22 feature matrices.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Thu Apr  6 02:45:16 IST 2023, elapsed time 3 seconds

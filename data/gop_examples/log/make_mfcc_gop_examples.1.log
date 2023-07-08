@@ -1,0 +1,15 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:data/gop_examples/log/utt2dur.1 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/gop_examples/log/wav_gop_examples.1.scp ark:- | copy-feats --write-num-frames=ark,t:data/gop_examples/log/utt2num_frames.1 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.1.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.1.scp 
+# Started at Fri Jan 27 13:27:01 IST 2023
+#
+copy-feats --write-num-frames=ark,t:data/gop_examples/log/utt2num_frames.1 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.1.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.1.scp 
+compute-mfcc-feats --write-utt2dur=ark,t:data/gop_examples/log/utt2dur.1 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/gop_examples/log/wav_gop_examples.1.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU14A26_1662004006905_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU14A28_1662004315479_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU14B27_1662003022529_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU24B19_1661765297518_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU24C12_1661597901029_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU24C36_1662636797962_Para2-Take1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:185)  Done 6 out of 6 utterances.
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 6 feature matrices.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Fri Jan 27 13:27:02 IST 2023, elapsed time 1 seconds

@@ -1,0 +1,17 @@
+# gunzip -c data/gop_examples_free_phone/alignments/phone_stats.*.gz | steps/diagnostic/analyze_phone_length_stats.py /media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop/ 
+# Started at Wed Feb 22 16:32:13 IST 2023
+#
+analyze_phone_length_stats.py: WARNING: optional-silence SIL is seen only 66.66666666666667% of the time at utterance end.  This may not be optimal.
+At utterance begin, SIL accounts for 100.0% of phone occurrences, with duration (median, mean, 95-percentile) is (38,33.7,65) frames.
+At utterance end, SIL accounts for 66.7% of phone occurrences, with duration (median, mean, 95-percentile) is (45,60.5,111) frames.
+At utterance end, nonsilence accounts for 33.3% of phone occurrences, with duration (median, mean, 95-percentile) is (1,68.2,58) frames.
+At utterance end, AH_S accounts for 33.3% of phone occurrences, with duration (median, mean, 95-percentile) is (1,68.2,58) frames.
+Overall, SIL accounts for 99.1% of phone occurrences, with duration (median, mean, 95-percentile) is (1,26.9,132) frames.
+Overall, nonsilence accounts for 0.9% of phone occurrences, with duration (median, mean, 95-percentile) is (1,57.6,58) frames.
+Overall, AH_S accounts for 0.9% of phone occurrences, with duration (median, mean, 95-percentile) is (1,57.6,58) frames.
+The optional-silence phone SIL occupies 98.1% of frames overall 
+Limiting the stats to the 92.5% of frames not covered by an utterance-[begin/end] phone, optional-silence SIL occupies 99.9% of frames.
+Assuming 100 frames per second, the alignments represent 0.0 hours of data, or 0.0 hours if SIL frames are excluded.
+Utterance-internal optional-silences SIL comprise 99.8% of utterance-internal phones, with duration (median, mean, 95-percentile) = (1,26.3,132)
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Feb 22 16:32:13 IST 2023, elapsed time 0 seconds

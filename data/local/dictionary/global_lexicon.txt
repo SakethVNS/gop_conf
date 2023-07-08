@@ -1,0 +1,2438 @@
+!SIL	SIL
+SIL	SIL
+10	DH AH S
+10	T EH N
+12	B AA R AA
+12	B AA R AH HH
+12	T W EH L W
+1AA	AA
+1D	D
+1Dh	D HH
+1II	IY
+1N	N N
+1OO	AO
+1T	T
+1Th	T HH
+1UU	UW
+1aa	AH
+1ae	AE
+1aw	AW
+1ay	AY
+1b	B
+1bh	B HH
+1c	CH
+1ch	CH HH
+1d	DH
+1dh	DH HH
+1ee	EY
+1ex	EH
+1f	F
+1g	G
+1gh	G HH
+1hh	HH
+1ii	IH
+1j	JH
+1jh	JH HH
+1k	K
+1kh	K HH
+1l	L
+1m	M
+1n	N
+1oo	OW
+1oy	OY
+1p	P
+1ph	P HH
+1r	R
+1s	S
+1sh	SH
+1t	TH
+1th	TH
+1uu	UH
+1w	W
+1y	Y
+1z	Z
+1zh	Z HH
+2	DH OW
+2	DH UH IY
+2	T UW
+300	TH R IY HH AH N D R EH D
+33	TH AH R T IY TH R IY
+33	TH EY TH IY S
+50	F IH F T IY
+50	P AH CH AA S
+a	AH
+a	EY
+able	EY B AH L
+abound	AH B AW N D
+abounded	AH B AW N D EH D
+about	AH B AW T
+above	AH B AW
+absence	AE B S EH N S
+accident	AE K S IH D EH N T
+accidents	AE K S IH D EH N T S
+according	AH K AO R D IH NG
+across	AH K R AO S
+act	AE K T
+actively	AE K T IH V L IY
+actively	AE K T IH W L IY
+actually	AE K CH UH L IY
+admitted	AE D M IH T EH D
+advice	AH D V AY S
+advice	AH D W AY S
+advised	AH D V AY Z D
+advised	AH D W AY Z D
+afford	AH F OW R D
+afraid	AH F R EY D
+africa	AE F R IH K AA
+after	AA F T AH R
+afternoon	AA F T AH N UW N
+afternoon	AA F T AH R N UW N
+again	AH G EY N
+agent	EY JH AH N T
+agent's	EY JH AH N T S
+agree	AH G R IY
+agreed	AH G R IY D
+aid	EY D
+aims	EY M S
+airs	EY R S
+aks	AA K S
+aksed	AA K S D
+alabama	AE L AH B AE M AA
+alas	AH L AA S
+all	AO L
+allah	AH L L AA HH
+almost	AO L M OW S T
+alone	AH L OW N
+along	AH L AO NG
+already	AO L R EH D IY
+also	AO L S OW
+although	AO L DH OW
+always	AO L W EH Z
+am	AE M
+amaze	AH M EY Z
+amazed	AH M EY Z D
+america	AH M EH R IH K AA
+an	AE N
+and	AE N D
+anger	AE NG G AH R
+angrier	AE NG R IY AH R
+angry	AE NG R IY
+animal	AE N IH M AH L
+animals	AE N IH M AH L S
+animals	AE N IH M AH L Z
+anna	AE N AA
+annie	AE N IY
+annoyed	AH N OY D
+annoying	AH N OY IH NG
+another	AH N AH DH AH R
+answer	AA N S AH R
+answered	AA N S AH R D
+any	EH N IY
+anymore	EH N IY M OW R
+anything	EH N IY TH IH NG
+anyway	EH N IY W EY
+apple	AE P AH L
+applied	AH P L AY D
+apply	AH P L AY
+appoint	AH P OY N T
+appointed	AH P OY N T EH D
+approach	AH P R OW CH
+approached	AH P R OW CH D
+approve	AH P R UW V
+approve	AH P R UW W
+april	EY P R IH L
+are	AA R
+aren't	AA R AH N T
+arjun	AH R JH UH N
+arjun	AA R JH UH N
+around	AH R AW N D
+arrested	AH R EH S T EH D
+arrived	AH R AY V D
+arrived	AH R AY W D
+as	AE Z
+asha	AA SH AA
+asha's	AA SH AA Z
+ashamed	AH SH EY M D
+asia	EY SH IH AA
+ask	AA S K
+asked	AA S K D
+asleep	AH S L IY P
+assistant	AH S IH S T EH N T
+assume	AH Z Y UH M
+at	AE T
+ate	EY T
+attached	AH T AE CH D
+attacking	AH T AE K IH NG
+attentively	AH T EH N T IH V L IY
+attentively	AH T EH N T IH W L IY
+attitude	AE T IH T Y UH D
+available	AH V EY L EH B AH L
+available	AH W EY L EH B AH L
+awakened	AH W EY K AH N D
+aware	AH W EY R
+away	AH W EY
+axe	AE K S
+babul	B AH B UW L
+back	B AE K
+backward	B AE K W AH R D
+backwards	B AE K W AH R D S
+backyard	B AE K Y AA R D
+badly	B AE D L IY
+bag	B AE G
+bait	B EY T
+balance	B AE L EH N S
+bananas	B AH N AA N AA Z
+bandage	B AE N D EY JH
+bandaged	B AE N D EY JH D
+bank	B AE N K
+banks	B AE N K S
+banquet	B AE N K W EY T
+bar	B AA R
+bargaining	B AA R G EY N IH NG
+basket	B AA S K EH T
+baskets	B AA S K EH T S
+basking	B AA S K IH NG
+bath	B AA TH
+batuk	B AH T UH K
+be	B IY
+beach	B IY CH
+bear	B EY R
+bears	B EY R Z
+beat	B IY T
+beaten	B IY T AH N
+beating	B IY T IH NG
+beautiful	B Y UW T IH F UH L
+became	B IH K EY M
+because	B IH K AO Z
+become	B IH K AH M
+becomes	B IH K AH M S
+becoming	B IH K AH M IH NG
+been	B IY N
+beer	B IY AH R
+beers	B IY AH R S
+beers	B IY Y AH R S
+before	B IH F OW R
+beg	B EH G
+began	B IH G AE N
+begging	B EH G IH NG
+begin	B IH G IH N
+beginning	B IH G IH N IH NG
+behavior	B IH HH EY V IY AH R
+behavior	B IH HH EY W IY AH R
+behind	B IH HH AY N D
+being	B IY NG
+believe	B IH L IY V
+believe	B IH L IY W
+believed	B IH L IY V D
+believed	B IH L IY W D
+bell	B EH L
+belonged	B IH L OW NG D
+belongs	B IH L AO NG Z
+bend	B EH N D
+beneath	B IH N IY TH
+benevolent	B EH N EH V OW L EH N T
+benevolent	B EH N EH W OW L EH N T
+bent	B EH N T
+best	B EH S T
+bet	B EH T
+betray	B IH T R EY
+better	B EH T AH R
+bicycle	B AY S IH K AH L
+big	B IH G
+bigger	B IH G AH R
+bill	B IH L
+bird	B AH R D
+birds	B AH R D S
+birds	B AH R D Z
+biscuits	B IH S K IH T S
+bit	B IH T
+bite	B AY T
+bitter	B IH T AH R
+black	B L AE K
+blood	B L AH D
+blue	B L UW
+boasting	B OW S T IH NG
+boat	B OW T
+boats	B OW T S
+bodies	B AO D IY Z
+body	B AO D IY
+boiling	B OY L IH NG
+book	B UH K
+boosting	B UW S T IH NG
+boring	B OW R IH NG
+both	B OW TH
+bothered	B AO DH AH R D
+bought	B AO T
+bowl	B AW L
+boy	B OY
+boy's	B OY Z
+boys	B OY Z
+bragging	B R AE G IH NG
+bread	B R EH D
+break	B R EY K
+brilliant	B R IH L IH AH N T
+brilliant	B R IH L Y AH N T
+bring	B R IH NG
+broke	B R OW K
+brought	B R AO T
+bubble	B AH B AH L
+bucket	B AH K EH T
+budge	B AH JH
+built	B IH L T
+bundle	B AH N D AH L
+burma	B AH R M AA
+burn	B AH R N
+burning	B AH R N IH NG
+bush	B UH SH
+busy	B IH Z IY
+but	B AH T
+butterflies	B AH T AH R F L AY Z
+butterfly	B AH T AH R F L AY
+butterfly's	B AH T AH R F L AY Z
+buy	B AA Y
+buy	B AY
+by	B AA Y
+by	B AY
+cage	K EY JH
+cages	K EY JH IH S
+call	K AO L
+called	K AO L D
+calm	K AA M
+came	K EY M
+camp	K AE M P
+can	K AE N
+can't	K AA N T
+candidates	K AE N D IH D EY T S
+cane	K EY N
+cannot	K AE N N AO T
+cap	K AE P
+car	K AA R
+care	K EY R
+care	K EY AH R
+careful	K EY R F UH L
+carefully	K EY R F UH L IY
+caring	K EY R IH NG
+carried	K AE R IY D
+carry	K AE R IY
+carrying	K AE R IY NG
+carver	K AA R V AH R
+carver	K AA R W AH R
+carver's	K AA R V AH R S
+carver's	K AA R W AH R S
+cat	K AE T
+catch	K AE CH
+catching	K AE CH IH NG
+cats	K AE T S
+caught	K AO T
+causing	K AO Z IH NG
+cave	K EY V
+cave	K EY W
+ceiling	S IY L IH NG
+cell	S EH L
+cessed	S EH S D
+chair	CH EY R
+chance	CH AA N S
+change	CH EY N JH
+changed	CH EY N JH D
+chasing	CH EY S IH NG
+chasing	CH EY Z IH NG
+check	CH EH K
+checked	CH EH K D
+cheese	CH IY Z
+chief	CH IY F
+child	CH AY L D
+children	CH IH L D R EH N
+chill	CH IH L
+choice	CH OY S
+choose	CH UW Z
+choosen	CH UW Z EH N
+chopped	CH AO P D
+chosen	CH OW Z AH N
+church	CH AH R CH
+circle	S AH R K AH L
+circles	S IH R K AH L S
+circumstance	S AH R K AH M S T AH N S
+city	S IH T IY
+claim	K L EY M
+clean	K L IY N
+cleaning	K L IY N IH NG
+clever	K L EH V AH R
+clever	K L EH W AH R
+cleverly	K L EH V AH R L IY
+cleverly	K L EH W AH R L IY
+cliff	K L IY F
+climb	K L AY M B
+climbed	K L AY M B D
+clip	K L IH P
+clock	K L AO K
+close	K L OW Z
+cloth	K L AO TH
+clothe	K L OW DH
+clothes	K L OW DH Z
+clothes	K L AO TH Z
+cloud	K L AW D
+coat	K OW T
+coaxed	K OW K S D
+coconut	K OW K OW N AH T
+coins	K AO IH N S
+cold	K OW L D
+colder	K OW L D AH R
+coldest	K OW L D EH S T
+collapsed	K OW L AE P S D
+colour	K AH L AH R
+colours	K AH L AH R S
+combine	K AH M B AY N
+combined	K AH M B AY N D
+come	K AH M
+comes	K AH M S
+coming	K AH M IY NG
+commenced	K AH M EH N S D
+comment	K AH M EH N T
+comments	K AH M EH N T S
+commit	K AH M IH T
+complained	K AH M P L EY N D
+complaining	K AH M P L EY N IH NG
+complaint	K AH M P L EY N T
+complete	K AH M P L IY T
+completed	K AH M P L IY T EH D
+concentrate	K AO N S AH N T R EY T
+concentrated	K AO N S AH N T R EY T EH D
+concentration	K AO N S AH N T R EY SH AH N
+confirm	K AH N F AH R M
+confirmed	K AH N F AH R M D
+considered	K AH N S IH D AH R D
+consoled	K AH N S OW L D
+constant	K AO N S T AH N T
+consult	K AH N S AH L T
+contest	K AO N T EH S T
+continue	K AH N T IH N Y UW
+continued	K AH N T IH N Y UW D
+continuous	K AH N T IH N UH AH S
+control	K AH N T R OW L
+controlling	K AH N T R OW L IH NG
+convenience	K AH N V IH N IH Y AH N S
+convenience	K AH N W IH N IH Y AH N S
+cook	K UH K
+cool	K UW L
+coolest	K UW L EH S T
+cordially	K AO R D IH AH L IY
+corner	K AO R N AH R
+correct	K AH R EH K T
+correctly	K AH R EH K T L IY
+cost	K AO S T
+costly	K AO S T L IY
+could	K UH D
+couldn't	K UH D AH N T
+count	K AW N T
+counted	K AW N T EH D
+covered	K AH V AH R D
+covered	K AH W AH R D
+cow	K AW
+cows	K AW Z
+created	K R IY EY T EH D
+creature	K R IY CH AH R
+creature's	K R IY CH AH R S
+creatures	K R IY CH AH R S
+cried	K R AY D
+crop	K R AO P
+crops	K R AO P S
+crossing	K R AO S IH NG
+crunch	K R AH N CH
+cry	K R AY
+crying	K R AY NG
+culprit	K AH L P R IH T
+cut	K AH T
+cute	K Y UW T
+cutter	K AH T AH R
+cycle	S AY K AH L
+cycling	S AY K L IH NG
+daawid	D AA W IH D
+dad	D AE D
+daily	D EY L IY
+dainty	D EY N T IY
+dance	D AA N S
+danced	D AA N S D
+danger	D EY N JH AH R
+dangerous	D EY N JH AH R AH S
+danny	D AE N IY
+danny's	D AE N IY Z
+dark	D AA R K
+darkness	D AA R K N EH S
+dates	D EY T S
+daughter	D AO T AH R
+david	D EY V IH D
+david	D EY W IH D
+david's	D EY V IH D S
+david's	D EY W IH D S
+david's	D EY V IH D Z
+david's	D EY W IH D Z
+day	D EY
+days	D EY Z
+dead	D EH D
+dear	D IH AH R
+death	D EY TH
+decide	D IH S AY D
+decided	D IH S AY D EH D
+decision	D IH S IH ZH AH N
+decision	D IH S IH JH AH N
+declared	D IH K L EY R D
+dee	D IY
+deep	D IY P
+deeper	D IY P AH R
+deepesh	DH IH P EY SH
+deepest	D IY P EH S T
+defective	D IH F EH K T IH V
+defective	D IH F EH K T IH W
+defense	D IH F EH N S
+delight	D IH L AY T
+delighted	D IH L AY T EH D
+demanded	D IH M AA N D EH D
+den	D EH N
+denny	D EH N IY
+denzil	D EH N Z IH L
+deserve	D IH Z AH R V
+deserve	D IH Z AH R W
+deserves	D IH Z AH R V Z
+deserves	D IH Z AH R W Z
+desire	D IH Z AY R
+despite	D IH S P AY T
+dezil	D EH Z IH L
+diany	D AY N IY
+did	D IH D
+didn't	D IH D AH N T
+die	D AY
+died	D AY D
+difference	D IH F R AH N S
+different	D IH F R AH N T
+differently	D IH F R AH N T L IY
+difficult	D IH F IY K AH L T
+difficulties	D IH F IY K AH L T IY Z
+dim	D IH M
+dimwit	D IH M W IH T
+dinesh	DH IH N EY SH
+dinesh's	DH IH N EY SH EH S
+dinesh's	DH IH N EY SH S
+dinner	D IH N AH R
+dirty	D AH R T IY
+disappear	D IH S AH P IH AH R
+disappeared	D IH S AH P IH AH R D
+disappearing	D IH S AH P IH AH R IH NG
+discover	D IH S K AH V AH R
+discover	D IH S K AH W AH R
+discovery	D IH S K AH V AH R IY
+discovery	D IH S K AH W AH R IY
+dish	D IH SH
+dismay	D IH S M EY
+distance	D IH S T EH N S
+disturb	D IH S T AH R B
+dived	D AY V D
+dived	D AY W D
+divide	D IH V AY D
+divide	D IH W AY D
+divided	D IH V AY D EH D
+divided	D IH W AY D EH D
+do	D UW
+doctor	D AO K T AH R
+does	D AH Z
+dog	D AO G
+dogs	D AO G Z
+doing	D UH IH NG
+dollars	D AO L AH R S
+don't	D OW N T
+done	D AH N
+donkey	D AO N K IY
+donkey's	D AO N K IY Z
+donkeys	D AO N K IY Z
+doubtful	D AW T F UH L
+down	D AW N
+downstream	D AW N S T R IY M
+dozed	D OW Z D
+dragged	D R AE G D
+drained	D R EY N D
+drank	D R AE N K
+draw	D R AO
+drawee	D R AW IY
+drawing	D R AW IH NG
+drew	D R UW
+drink	D R IH NG K
+drinking	D R IH NG K IH NG
+dropped	D R AO P D
+drowning	D R AW N IH NG
+drying	D R AA IH NG
+drying	D R AY NG
+duck	D AH K
+due	D Y UW
+dunked	D AH N K D
+dusk	D AH S K
+dying	D AY NG
+each	IY CH
+eagle	IY G AH L
+ear	IH AH R
+earlier	AH R L IY AH R
+early	AH R L IY
+earn	AH R N
+easily	IY Z IY L IY
+eat	IY T
+eaten	IY T EH N
+eating	IY T IH NG
+eats	IY T S
+effective	IH F EY K T IH V
+effective	IH F EY K T IH W
+egg	EH G
+eggs	EH G Z
+either	AY DH AH R
+either	IY DH AH R
+elephant	EH L IH F EH N T
+else	EH L S
+elsewhere	EH L S W EY R
+embarrassed	EH M B AE R EH S D
+emptied	EH M P T IY D
+empty	EH M P T IY
+encounter	EH N K AW N T AH R
+end	EH N D
+enemies	EH N EH M IY Z
+enjoy	EH N JH AO Y
+enough	IH N AH F
+enraged	EH N R EY G D
+enter	EH N T AH R
+entered	EH N T AH R D
+enthusiastically	EH N TH UH Z IH AE S T IH K AH L IY
+entire	EH N T AY R
+envious	EH N V IY AH S
+envious	EH N W IY AH S
+envy	EH N V IH
+envy	EH N W IH
+equal	IY K W AH L
+escape	EH S K EY P
+etc	EH K S EH K T R AA
+europe	Y UH R OW P
+europe	Y OW R AH P
+even	IY V EH N
+even	IY W EH N
+evening	IY V N IH NG
+evening	IY W N IH NG
+ever	EH V AH R
+ever	EH W AH R
+ever-present	EH V AH R P R EH Z EH N T
+ever-present	EH W AH R P R EH Z EH N T
+every	EH V R IY
+every	EH W R IY
+everybody	EH V R IY B AH D IY
+everybody	EH W R IY B AH D IY
+everyday	EH V R IY D EY
+everyday	EH W R IY D EY
+everyone	EH V R IY W AH N
+everyone	EH W R IY W AH N
+everything	EH V R IY TH IH NG
+everything	EH W R IY TH IH NG
+everywhere	EH V R IY W EY R
+everywhere	EH W R IY W EY R
+ex	EH K S
+exactly	EH G Z AE K T L IY
+examined	EH G Z AE M IH N D
+excellent	EH K S IH L EH N T
+excited	EH K S AY T EH D
+exclaimed	EH K S K L EY M D
+exercise	EH K S AH R S AY Z
+exercising	EH K S AH R S AY Z IH NG
+exhausting	EH G Z AO S T IH NG
+expect	EH K S P EH K T
+expensive	EH K S P EH N S IH V
+expensive	EH K S P EH N S IH W
+experience	EH K S P IY R IH EH N S
+experiences	EH K S P IY R IH EH N S EH S
+experiments	EH K S P IY R IH M EH N T S
+explain	EH K S P L EY N
+explained	EH K S P L EY N D
+explanation	EH K S P L AH N EY SH AH N
+express	EH K S P R EH S
+extend	EH K S T EH N D
+extended	EH K S T EH N D EH D
+eye	AA IY
+eye	AA Y
+eyes	AA IY Z
+eyes	AA Y Z
+eyesight	AA Y S AY T
+face	F EY S
+faces	F EY S EH S
+facing	F EY S IH NG
+fact	F AE K T
+fail	F EY L
+fair	F EY R
+fall	F AO L
+fallen	F AO L EH N
+family	F AE M IH L IY
+family	F AE M L IY
+fanciest	F AE N S IY EH S T
+far	F AA R
+farm	F AA R M
+farmer	F AA R M AH R
+farmer's	F AA R M AH R S
+farmers	F AA R M AH R S
+farms	F AA R M S
+fast	F AA S T
+faster	F AA S T AH R
+fat	F AE T
+father	F AA DH AH R
+fathers	F AA DH AH R S
+fatty	F AE T IY
+favor	F EY V AH R
+favor	F EY W AH R
+fed	F EH D
+fee	F IY
+feed	F IY D
+feel	F IY L
+feels	F IY L S
+feet	F IY T
+fell	F EH L
+felt	F EH L T
+fence	F EH N S
+ferocious	F EY R OW SH AH S
+ferocious	F EY R OW SH Y AH S
+ferried	F EH R IY D
+fetch	F EH CH
+few	F Y UW
+field	F IY L D
+fields	F IY L D S
+fight	F AY T
+fill	F IH L
+filled	F IH L D
+finally	F AY N AH L IY
+find	F AY N D
+fine	F AY N
+finger	F IH NG G AH R
+fingers	F IH NG G AH R S
+finish	F IH N IH SH
+fired	F AY R D
+firm	F AH R M
+first	F AH R S T
+fish	F IH SH
+flapping	F L AE P IH NG
+flat	F L AE T
+fled	F L EH D
+flew	F L UW
+flogged	F L AO G D
+flow	F L OW
+flows	F L OW Z
+fog	F AO G
+follow	F AO L OW
+folly	F AO L IY
+food	F UW D
+fool	F UW L
+foolish	F UW L IH SH
+foolishness	F UW L IH SH N EH S
+foot	F UH T
+footing	F UH T IH NG
+foots	F UH T S
+for	F AO R
+forehead	F OW R HH EH D
+forest	F AO R EH S T
+forget	F AO R G EH T
+forget	F AH R G EH T
+form	F AO R M
+found	F AW N D
+fox	F AO K S
+fox's	F AO K S EH S
+frantically	F R AE N T IH K AH L IY
+fred	F R EH D
+freddie	F R EH D IY
+free	F R IY
+freed	F R IY D
+fresh	F R EH SH
+frey	F R EY
+friend	F R EH N D
+friends	F R EH N D S
+frog	F R AO G
+frogs	F R AO G Z
+from	F R AO M
+front	F R AH N T
+fruit	F R UW T
+frustrate	F R AH S T R EY T
+frustrated	F R AH S T R EY T EH D
+full	F UH L
+fuller	F UH L AH R
+fully	F UH L IY
+fun	F AH N
+funny	F AH N IY
+gained	G EY N D
+games	G EY M S
+garden	G AA R D AH N
+gardens	G AA R D AH N S
+garry	G AE R IY
+gasped	G AE S P D
+gathered	G AE DH AH R D
+gave	G EY V
+gave	G EY W
+gay	G EY
+generous	JH EH N R AH S
+george	JH AO R JH
+germs	JH AH R M S
+get	G EH T
+gets	G EY T S
+getting	G EH T IH NG
+ghost	G HH OW S T
+ghost	G OW S T
+gift	G IH F T
+gigantic	JH AY G AE N T IH K
+girl	G AH R L
+give	G IH V
+give	G IH W
+given	G IH V EH N
+given	G IH W EH N
+giving	G IH V IH NG
+giving	G IH W IH NG
+gladly	G L AE D L IY
+glass	G L AA S
+global	G L OW B AH L
+go	G OW
+goal	G OW L
+goat	G OW T
+goats	G OW T S
+gobbled	G AO B AH L D
+goes	G OW Z
+going	G OW IH NG
+gold	G OW L D
+golden	G OW L D EH N
+gone	G AO N
+good	G UH D
+goods	G UW D S
+goods	G UW D Z
+goose	G UW S
+got	G AO T
+gradually	G R AE JH UH L IY
+grass	G R AA S
+grassed	G R AA S D
+graveyard	G R EY V Y AA R D
+graveyard	G R EY W Y AA R D
+grazed	G R EY Z D
+great	G R EY T
+greatness	G R EY T N EH S
+greed	G R IY D
+greedy	G R IY D IY
+greener	G R IY N AH R
+greens	G R IY N S
+greens	G R IY N Z
+greeted	G R IY T EH D
+grey	G R EY
+grief	G R IY F
+groped	G R OW P D
+ground	G R AW N D
+group	G R UH P
+grouped	G R UH P D
+grove	G R OW V
+grove	G R OW W
+grow	G R OW
+growing	G R OW IH NG
+grown	G R OW N
+guard	G AA R D
+guarding	G AA R D IH NG
+guilt	G IH L T
+gun	G AH N
+guts	G AH T S
+ha	HH AA
+habit	HH AE B IH T
+had	HH AE D
+hair	HH EY R
+hairs	HH EY R Z
+hairs	HH EY R S
+half	HH AA F
+hammer	HH AE M AH R
+hammered	HH AE M AH R D
+hand	HH AE N D
+handkerchief	HH AE N K AH R CH IY F
+handle	HH AE N D AH L
+hands	HH AE N D S
+hang	HH AE NG
+happened	HH AE P EH N D
+happy	HH AE P IY
+hard	HH AA R D
+harder	HH AA R D AH R
+hare	HH EY R
+hares	HH EY R S
+hari	HH AH R IY
+harm	HH AA R M
+harry	HH AE R IY
+has	HH AE Z
+hat	HH AE T
+hate	HH EY T
+have	HH AE V
+have	HH AE W
+haven't	HH AE V AH N T
+haven't	HH AE W AH N T
+having	HH AE V IH NG
+having	HH AE W IH NG
+hawk	HH AO K
+he	HH IY
+head	HH EH D
+head-stones	HH EH D S T OW N S
+headstones	HH EH D S T OW N S
+hear	HH IH AH R
+hearing	HH IH AH R IH NG
+heartily	HH AA R T IH L IY
+heavier	HH EH V IY AH R
+heavier	HH EH W IY AH R
+heavy	HH EH V IY
+heavy	HH EH W IY
+held	HH EH L D
+hell	HH EH L
+hello	HH EY L OW
+help	HH EH L P
+helped	HH EH L P D
+hence	HH EH N S
+henry	HH EH N R IY
+hens	HH EH N S
+hens	HH EH N Z
+her	HH AH R
+here	HH IY AH R
+hey	HH EY
+hibernate	HH AY B AH R N EY T
+hibernating	HH AY B AH R N EY T IH NG
+hid	HH IH D
+hide	HH AY D
+hiding	HH AY D IH NG
+high	HH AY
+hill	HH IH L
+him	HH IH M
+himself	HH IH M S EH L F
+his	HH IH Z
+hiss	HH IH S
+hit	HH IH T
+hodjaa	HH OW D JH AA
+hodjaa	HH UH D JH AA
+hold	HH OW L D
+holding	HH OW L D IH NG
+hole	HH OW L
+holes	HH OW L S
+hollow	HH AO L OW
+home	HH OW M
+homework	HH OW M W AH R K
+honor	AO N AH R
+hook	HH UW K
+horror	HH AO R AH R
+horse	HH AO R S
+host	HH OW S T
+hot	HH AO T
+hotel	HH OW T EH L
+hotter	HH AO T AH R
+hours	AA W AH R S
+house	HH AW S
+how	HH AW
+however	HH AW EH V AH R
+however	HH AW EH W AH R
+huge	HH Y UW JH
+hujja	HH UH JH JH AA
+humiliate	HH Y UW M IH L IY EY T
+hun	HH AH N
+hundred	HH AH N D R EH D
+hungry	HH AH NG R IY
+hunt	HH AH N T
+hunter	HH AH N T AH R
+hunters	HH AH N T AH R S
+hurry	HH AH R IY
+hurt	HH AH R T
+husband	HH AH Z B AH N D
+hut	HH AH T
+i	AY
+i'll	AY L
+i'll	AY W IH L
+i'm	AY AE M
+idea	AY D IY Y AA
+ideas	AY D IY Y AA Z
+if	IH F
+ignored	IH G N OW R D
+ill	IH L
+immediately	IH M IY D IY EY T L IY
+immediately	IH M IY JH EY T L IY
+important	IH M P AO R T AH N T
+impotent	IH M P OW T EH N T
+improve	IH M P R UW V
+improve	IH M P R UW W
+improves	IH M P R UW V Z
+improves	IH M P R UW W Z
+in	IH N
+inch	IH N CH
+including	IH N K L UW D IH NG
+indeed	IH N D IY D
+india	IH N D IY AA
+india	IH N D Y AA
+injection	IH N JH EH K SH AH N
+injections	IH N JH EH K SH AH N S
+injured	IH N JH AH R D
+injury	IH N JH AH R IY
+innocent	IH N AH S EH N T
+innocent	IH N OW S EH N T
+innocently	IH N AH S EH N T L IY
+innocently	IH N OW S EH N T L IY
+inside	IH N S AY D
+insides	IH N S AY D S
+instead	IH N S T EH D
+insurance	IH N SH Y AO R AH N S
+intelligent	IH N T EH L IH JH EH N T
+interiors	IH N T IY R IH AH R S
+into	IH N T UW
+invited	IH N V AY T EH D
+invited	IH N W AY T EH D
+is	IH Z
+it	IH T
+it's	IH T S
+item	AY T EH M
+items	AY T EH M S
+its	IH T S
+itself	IH T S EH L F
+james	JH EY M S
+janes	JH EY N S
+jealous	JH EH L AH S
+jenny	JH EH N IY
+jerry	JH EH R IY
+jimmy	JH IH M IY
+job	JH AO B
+jobs	JH AO B Z
+john	JH AO N
+joking	JH OW K IH NG
+journey	JH AH R N IY
+judge	JH AH JH
+jumbo	JH AH M B OW
+jump	JH AH M P
+jumped	JH AH M P D
+jungle	JH AH NG G AH L
+just	JH AH S T
+justice	JH AH S T IH S
+karan	K AH R AH N
+keep	K IY P
+keeping	K IY P IH NG
+keeps	K IY P S
+kept	K EH P T
+kicked	K IH K D
+kill	K IH L
+killed	K IH L D
+kind	K AY N D
+kindly	K AY N D L IY
+king	K IH NG
+kingship	K IH NG SH IH P
+kitchen	K IH CH EH N
+knew	N Y UW
+knife	N AY F
+knocks	N AO K S
+know	N OW
+lab	L AE B
+laid	L EY D
+landing	L AE N D IH NG
+large	L AA R JH
+larger	L AA R JH AH R
+last	L AA S T
+late	L EY T
+later	L EY T AH R
+laugh	L AA F
+laughed	L AA F D
+laughing	L AA F IH NG
+launch	L AO N CH
+law	L AO
+lay	L EY
+lazy	L EY Z IY
+leaf	L IY F
+learn	L AH R N
+learned	L AH R N D
+learnt	L AH R N T
+least	L IY S T
+leave	L IY V
+leave	L IY W
+leaves	L IY V Z
+leaves	L IY W Z
+leaving	L IY V IH NG
+leaving	L IY W IH NG
+left	L EH F T
+legs	L EH G Z
+less	L EH S
+lesson	L EH S AH N
+let	L EH T
+let's	L EH T S
+lets	L EH T S
+leuk	L EY UH K
+lie	L AY
+life	L AY F
+lift	L IH F T
+light	L AY T
+lighter	L AY T AH R
+lights	L AY T S
+like	L AY K
+likes	L AY K S
+likewise	L AY K W AY Z
+limbs	L IH M B Z
+lion	L AA Y AH N
+lions	L AA Y AH N S
+lions	L AA Y AH N Z
+listen	L IH S AH N
+listen	L IH S EH N
+listening	L IH S AH N IH NG
+listening	L IH S N IH NG
+little	L IH T IH L
+little	L IH T L
+live	L IH V
+live	L IH W
+lived	L IH V D
+lived	L IH W D
+living	L IH V IH NG
+living	L IH W IH NG
+lizard	L IH Z AH R D
+load	L OW D
+loaded	L OW D EH D
+lonely	L OW N L IY
+long	L AO NG
+look	L UH K
+looked	L UH K D
+looking	L UH K IH NG
+loose	L UW Z
+lose	L UW Z
+loss	L AO S
+lost	L AO S T
+lot	L AO T
+lots	L AO T S
+loud	L AW D
+loudly	L AW D L IY
+love	L AH V
+love	L AH W
+lovely	L AH V L IY
+lovely	L AH W L IY
+low	L OW
+luckily	L AH K IH L IY
+lucky	L AH K IY
+lucy	L UW S IY
+lunch	L AH N CH
+lying	L AY IH NG
+lying	L AY NG
+made	M EY D
+magician	M AE JH IH SH IY AH N
+magnifying	M AE G N IH F AY NG
+magnifying	M AE G N IH F AA Y IH NG
+main	M EY N
+make	M EY K
+making	M EY K IH NG
+man	M AE N
+man's	M AE N S
+manage	M AE N EH JH
+managed	M AE N EH JH D
+manager	M AE N EY JH AH R
+mango	M AE NG G OW
+mangoes	M AE NG G OW Z
+many	M EH N IY
+market	M AA R K EH T
+marketplace	M AA R K EH T P L EY S
+master	M AA S T AH R
+master's	M AA S T AH R S
+mate	M EY T
+mater	M EY T AH R
+matter	M AE T AH R
+may	M EY
+me	M IY
+mean	M IY N
+meat	M IY T
+meet	M IY T
+meeting	M IY T IH NG
+melt	M EH L T
+member	M EH M B AH R
+members	M EH M B AH R Z
+members	M EH M B AH R S
+men	M EH N
+merchant	M AH R CH EH N T
+merciless	M AH R S IH L EH S
+merrily	M EH R IH L IY
+met	M EH T
+middle	M IH D AH L
+might	M AH IH T
+might	M AY T
+mighty	M AY T IY
+miles	M AY L S
+milk	M IH L K
+mills	M IH L S
+mills	M IH L Z
+mind	M AY N D
+minister	M IH N IH S T AH R
+ministers	M IH N IH S T AH R S
+minute	M AY N Y UW TH
+minute	M IH N IH T
+minutes	M IH N IH T S
+miss	M IH S
+missed	M IH S D
+missus	M IH S AH S
+missus	M IH S AH Z
+mistakes	M IH S T EY K S
+mister	M IH S T AH R
+mom	M AO M
+moment	M OW M EH N T
+money	M AH N IY
+monkey	M AH N K IY
+monster	M AO N S T AH R
+moon	M UW N
+more	M OW R
+moreover	M OW R OW V AH R
+moreover	M OW R OW W AH R
+morning	M AO R N IH NG
+mosquito	M AH S K IY T OW
+most	M OW S T
+mother	M AH DH AH R
+motion	M OW SH AH N
+move	M UW V
+move	M UW W
+movement	M UW V M EH N T
+movement	M UW W M EH N T
+movie	M UW V IY
+movie	M UW W IY
+mr	M IH S T AH R
+mrs	M IH S EH S
+mrs	M IH S IH Z
+much	M AH CH
+mud	M AH D
+muddy	M AH D IY
+must	M AH S T
+my	M AY
+myself	M AY S EH L F
+nail	N EY L
+nails	N EY L S
+name	N EY M
+named	N EY M D
+names	N EY M S
+nap	N AE P
+narrated	N AE R EY T EH D
+naseer	N AH S IY R
+naseer's	N AH S IY R S
+nashiruddin	N AH SH IH R UH DH DH IH N
+nasruddin	N AH S R UH DH IY N
+naughty	N AO T IY
+near	N IH AH R
+nearest	N IH AH R EH S T
+necessary	N EH S EH S AH R IY
+neck	N EH K
+nee	N IY
+need	N IY D
+needed	N IY D EH D
+needs	N IY D S
+neighbor	N EY B AH R
+neighbor's	N EY B AH R Z
+neighbors	N EY B AH R Z
+neighbour	N EY B AH R
+neighbour's	N EY B AH R Z
+neighbours	N EY B AH R Z
+neither	N AY DH AH R
+neither	N IY DH AH R
+nest	N EH S T
+net	N EH T
+nets	N EH T S
+never	N EH V AH R
+never	N EH W AH R
+new	N Y UW
+next	N EH K S T
+nice	N AY S
+night	N AY T
+nine	N AY N
+ninety	N AY N T IY
+no	N OW
+nobody	N OW B AH D IY
+noise	N OY Z
+noises	N OY Z EH S
+none	N AH N
+nor	N AO R
+not	N AO T
+notebook	N OW T B UH K
+nothing	N AH TH IH NG
+notice	N OW T IH S
+noticed	N OW T IH S D
+now	N AA UH
+now	N AW
+number	N AH M B AH R
+nurse	N AH R S
+nuts	N AH T S
+o'clock	OW K L AO K
+obesity	OW B EY S IH T IY
+ocean	OW SH AH N
+october	AO K T OW B AH R
+of	AO F
+off	AO F
+offense	AO F EH N S
+offered	AO F AH R D
+oh	OW HH
+old	OW L D
+on	AO N
+once	W AH N S
+one	W AH N
+only	OW N L IY
+onto	AO N T UW
+open	OW P AH N
+option	AO P SH AH N
+or	AO R
+order	AO R D AH R
+ordered	AO R D AH R D
+organized	AO R G AH N AY Z D
+other	AH DH AH R
+others	AH DH AH R S
+others	AH DH AH R Z
+others'	AH DH AH R S
+others'	AH DH AH R Z
+our	AA R
+ourself	AA R S EH L F
+ourselves	AA R S EH L V Z
+ourselves	AA R S EH L W Z
+out	AW T
+outside	AW T S AY D
+over	OW V AH R
+over	OW W AH R
+overlapped	OW V AH R L AE P D
+overlapped	OW W AH R L AE P D
+own	OW N
+owner	OW N AH R
+pack	P AE K
+packs	P AE K S
+paid	P EY D
+pain	P EY N
+paint	P EY N T
+painted	P EY N T EH D
+paise	P EY S EY
+pan	P AE N
+panther	P AE N TH AH R
+paper	P EY P AH R
+pardon	P AA R D AH N
+parent	P AE R EH N T
+parents	P AE R EH N T S
+park	P AA R K
+part	P AA R T
+parts	P AA R T S
+party	P AA R T IY
+pass	P AA S
+passed	P AA S D
+passing	P AA S IH NG
+past	P AA S T
+pat	P AE T
+path	P AA TH
+patrick	P AE T R IH K
+patterns	P AE T AH R N S
+pause	P AO Z
+paused	P AO Z D
+pausing	P AO Z IH NG
+paws	P AW Z
+pay	P EY
+payment	P EY M EH N T
+pays	P EY Z
+peace	P IY S
+peel	P IY L
+peep	P IY P
+peeped	P IY P D
+pen	P EH N
+penalty	P EH N AH L T IY
+pens	P EH N S
+people	P IY P AH L
+people's	P IY P AH L S
+people's	P IY P AH L Z
+per	P AH R
+perform	P AH R F AO R M
+person	P AH R S AH N
+person's	P AH R S AH N S
+persuasive	P AH R S UH EY S IH V
+persuasive	P AH R S UH EY S IH W
+pest	P EH S T
+pesticides	P EH S T IY S AY D S
+pests	P EH S T S
+pet	P EH T
+peter	P IY T AH R
+peter's	P IY T AH R S
+pets	P EH T S
+pick	P IH K
+picked	P IH K D
+picking	P IH K IH NG
+picnic	P IH K N IH K
+pictures	P IH K CH AH R S
+pictures	P IH CH AH R S
+piece	P IY S
+pieces	P IY S EH S
+pipe	P AY P
+pit	P IH T
+place	P L EY S
+placed	P L EY S D
+plan	P L AE N
+plane	P L EY N
+plant	P L AA N T
+planted	P L AA N T EH D
+plants	P L AA N T S
+plate	P L EY T
+play	P L EY
+played	P L EY D
+playing	P L EY IH NG
+please	P L IY Z
+ploy	P L OY
+plucked	P L AH K D
+point	P OY N T
+pointed	P OY N T EH D
+pointing	P OY N T IH NG
+polar	P OW L AA R
+pond	P AO N D
+pool	P UW L
+poor	P UW AH R
+pose	P OW Z
+position	P OW Z IH SH AH N
+possession	P AH Z EH SH AH N
+possessions	P AH Z EH SH AH N S
+possessions	P AH Z EH SH AH N Z
+possible	P AO S IH B AH L
+post	P OW S T
+pot	P AO T
+potato	P OW T AE T OW
+potatoes	P OW T AE T OW Z
+pots	P AO T S
+poured	P OW R D
+practice	P R AE K T IH S
+pradeep	P R AH DH IY P
+praised	P R EY Z D
+prank	P R AE N K
+pranks	P R AE N K S
+prateek	P R AH TH IY K
+precious	P R EH SH AH S
+present	P R EH Z EH N T
+present	P R IH Z EH N T
+presented	P R EH Z EH N T EH D
+pretending	P R IH T EH N D IH NG
+pretentious	P R IH T EH N SH AH S
+pretty	P R IH T IY
+price	P R AY S
+prime	P R AY M
+problem	P R AO B L AH M
+problems	P R AO B L AH M S
+produce	P R OW D Y UW S
+products	P R AO D AH K T S
+pronounced	P R OW N AW N S D
+property	P R AO P AH R T IY
+proposed	P R AH P OW Z D
+prove	P R UW V
+prove	P R UW W
+proves	P R UW V Z
+proves	P R UW W Z
+public	P AH B L IH K
+puddle	P AH D AH L
+pull	P UH L
+pulled	P UH L D
+pumpkin	P AH M K IH N
+pumpkins	P AH M K IH N S
+punish	P AH N IH SH
+purchase	P AH R CH EY S
+purchased	P AH R CH EY S D
+push	P UH SH
+put	P UH TH
+put	P UH T
+quality	K W AA L IH T IY
+quench	K W EH N CH
+quenched	K W EH N CH D
+question	K W EH S CH AH N
+questions	K W EH S CH AH N S
+queue	K Y UW
+quickly	K W IH K L IY
+quite	K W AY T
+race	R EY S
+rain	R EY N
+ram	R AA M
+ram	R AE M
+ram's	R AA M S
+ramesh	R AH M EY SH
+ran	R AE N
+rank	R AE N K
+rat	R AE T
+rats	R AE T S
+ray	R EY
+reach	R IY CH
+reached	R IY CH D
+reaction	R IY AE K SH AH N
+realize	R IY AH L AY Z
+realized	R IY AH L AY Z D
+really	R IY AH L IY
+reason	R IY Z AH N
+receipt	R IH S IH T
+receive	R IH S IY V
+receive	R IH S IY W
+received	R IH S IY V D
+received	R IH S IY W D
+recipe	R EH S IH P IY
+recovered	R IH K AH V AH R D
+recovered	R IH K AH W AH R D
+reduce	R IH D Y UW S
+reduced	R IH D Y UW S D
+reducing	R IH D Y UW S IH NG
+reflection	R IH F L EY K SH AH N
+refrigerator	R EH F R IH JH AH R EY T AH R
+refused	R IH F Y UW S D
+regularly	R EH G Y UH L AH R
+relatives	R IH L EY T IH V Z
+relatives	R IH L EY T IH W Z
+release	R IH L IY Z
+released	R IH L IY Z D
+relieve	R IH L IY V
+relieve	R IH L IY W
+relieved	R IH L IY V D
+relieved	R IH L IY W D
+remain	R IH M EY N
+remains	R IH M EY N S
+remains	R IH M EY N Z
+remember	R IH M EH M B AH R
+remove	R IH M UW V
+remove	R IH M UW W
+removed	R IH M UW V D
+removed	R IH M UW W D
+removing	R IH M UW V IH NG
+removing	R IH M UW W IH NG
+repainting	R IH P EY N T IH NG
+replaced	R IH P L EY S D
+replacement	R IH P L EY S M EH N T
+replay	R IH P L EY
+replayed	R IH P L EY D
+replied	R IH P L AY D
+reply	R IH P L AY
+rescue	R EH S K Y UW
+research	R IH S AH R CH
+resource	R IH S OW R S
+resources	R IH S OW R S EH S
+respect	R IH S P EY K T
+respective	R IH S P EY K T IH V
+respective	R IH S P EY K T IH W
+respond	R IH S P AO N D
+response	R IH S P AO N S
+restaurant	R EH S T AO R AE N T
+restaurant	R EH S T R AO N
+restoring	R IH S T OW R IH NG
+result	R IH Z AH L T
+retired	R IH T AY R D
+return	R IH T AH R N
+returned	R IH T AH R N D
+returning	R IH T AH R N IH NG
+returns	R IH T AH R N S
+rewarded	R IH W AO R D EH D
+rice	R AY S
+rich	R IH CH
+ricky	R IH K IY
+ricky's	R IH K IY Z
+riding	R AY D IH NG
+right	R AY T
+rising	R AY Z IH NG
+rita	R IY T AA
+river	R IH V AH R
+river	R IH W AH R
+riverside	R IH V AH R S AY D
+riverside	R IH W AH R S AY D
+road	R OW D
+roaming	R OW M IH NG
+rode	R OW D
+room	R UW M
+root	R UW T
+roots	R UW T S
+rope	R OW P
+route	R UW T
+row	R OW
+rubbing	R AH B IH NG
+ruin	R UW IH N
+ruled	R UW L D
+run	R AH N
+running	R AH N IH NG
+rupees	R UH P IY Z
+rushing	R AH SH IH NG
+sad	S AE D
+said	S EH D
+saint	S EY N T
+salt	S AO L T
+same	S EY M
+sand	S AE N D
+sat	S AE T
+satisfaction	S AE T IH S F AE K SH AH N
+satisfy	S AE T IH S F AY
+save	S EY V
+save	S EY W
+saved	S EY V D
+saved	S EY W D
+saving	S EY V IH NG
+saving	S EY W IH NG
+saw	S AO
+say	S EY
+saying	S EY IH NG
+scales	S K EY L S
+scales	S K EY L Z
+scan	S K AE N
+scar	S K AA R
+scarcely	S K AA R S L IY
+scare	S K AE R
+scared	S K AE R D
+scatter	S K AE T AH R
+scattered	S K AE T AH R D
+school	S K UW L
+science	S AA Y AH N S
+scientist	S AY N T IH S T
+scornfully	S K AO R N F UH L IY
+scratching	S K R AE CH IH NG
+screamed	S K R IY M D
+screaming	S K R IY M IH NG
+sea	S IY
+seals	S IY L S
+search	S AH R CH
+searching	S AH R CH IH NG
+second	S EH K EH N D
+see	S IY
+seed	S IY D
+seeing	S IY IH NG
+seem	S IY M
+seemed	S IY M D
+seen	S IY N
+self	S EH L F
+sell	S EH L
+selves	S EH L V Z
+selves	S EH L W Z
+send	S EH N D
+sense	S EH N S
+sentence	S EH N T EH N S
+separate	S EH P R EY T
+separated	S EH P AH R EY T EH D
+seriously	S IY R IY AH S L IY
+servant	S AH R V AH N T
+servant	S AH R W AH N T
+servants	S AH R V AH N T S
+servants	S AH R W AH N T S
+served	S AH R V D
+served	S AH R W D
+set	S EH T
+settlement	S EH T AH L M EH N T
+shade	SH EY D
+sharp	SH AA R P
+sharpshooter	SH AA R P SH UW T AH R
+she	SH IY
+sheep	SH IY P
+sheepishly	SH IY P IH SH L IY
+shepherd	SH EY P AH R D
+shine	SH AY N
+ship	SH IH P
+ships	SH IH P S
+shocked	SH AO K D
+shoe	SH UW
+shoot	SH UW T
+shooting	SH UW T IH NG
+shop	SH AO P
+shopkeeper	SH AO P K IY P AH R
+shore	SH OW R
+short	SH AO R T
+shorting	SH AO R T IH NG
+shot	SH AO T
+should	SH UH D
+shout	SH AW T
+shouted	SH AW T EH D
+shouting	SH AW T IH NG
+show	SH OW
+showed	SH OW D
+showing	SH OW IH NG
+showroom	SH OW R UW M
+shy	SH AY
+side	S AY D
+sigh	S AY
+sight	S AY T
+sign	S AY N
+silence	S AY L EY N S
+silliness	S IH L IY N EH S
+silly	S IH L IY
+simple	S IH M P AH L
+since	S IH N S
+single	S IH NG G AH L
+sir	S AH R
+sister	S IH S T AH R
+sisters	S IH S T AH R S
+sit	S IH T
+site	S AY T
+sitting	S IH T IH NG
+situation	S IH CH Y UH EY SH AH N
+skid	S K IH D
+skidded	S K IH D EH D
+skirt	S K AH R T
+sky	S K AY
+slap	S L AE P
+slapped	S L AE P D
+sleep	S L IY P
+sleeping	S L IY P IH NG
+sleeve	S L IY V
+sleeve	S L IY W
+slept	S L EH P T
+slipped	S L IH P D
+slowly	S L OW L IY
+small	S M AO L
+smaller	S M AO L AH R
+smart	S M AA R T
+smartness	S M AA R T N EH S
+smashed	S M AE SH D
+smell	S M EH L
+smiled	S M AY L D
+smoke	S M OW K
+snatched	S N AE CH D
+sniff	S N IH F
+sniffed	S N IH F D
+so	S OW
+soft	S OW F T
+soil	S OY L
+sold	S OW L D
+solution	S OW L Y UH SH AH N
+some	S AH M
+somehow	S AH M HH AW
+someone	S AH M W AH N
+something	S AH M TH IH NG
+somethings	S AH M TH IH NG Z
+son	S AH N
+soon	S UW N
+sort	S AO R T
+sorting	S AO R T IH NG
+soup	S UW P
+source	S OW R S
+space	S P EY S
+spare	S P EY R
+speak	S P IY K
+speechless	S P IY CH L EH S
+spindly	S P IH N D L IY
+splashed	S P L AE SH D
+spoke	S P OW K
+spoken	S P OW K AH N
+spot	S P AO T
+sprang	S P R AE NG
+stain	S T EY N
+stains	S T EY N S
+stand	S T AE N D
+standing	S T AE N D IH NG
+starfish	S T AA R F IH SH
+start	S T AA R T
+started	S T AA R T EH D
+startled	S T AA R T AH L D
+state	S T EY T
+stationery	S T EY SH N AH R IY
+stay	S T EY
+steal	S T IY L
+stealing	S T IY L IH NG
+stem	S T EH M
+step	S T EH P
+stepped	S T EH P D
+stew	S T Y UW
+stick	S T IH K
+sticks	S T IH K S
+stiff	S T IH F
+still	S T IH L
+stole	S T OW L
+stomach	S T AH M AH K
+stone	S T OW N
+stones	S T OW N S
+stood	S T UH D
+stop	S T AO P
+stopped	S T AO P D
+store	S T OW R
+storm	S T AO R M
+story	S T OW R IY
+stout	S T AW T
+straight	S T R EY T
+strain	S T R EY N
+strange	S T R EY N JH
+stranger	S T R EY N JH AH R
+stretching	S T R EH CH IH NG
+striking	S T R AY K IH NG
+strong	S T R AO NG
+stronger	S T R AO NG G AH R
+struck	S T R AH K
+struggle	S T R AH G AH L
+struggled	S T R AH G AH L D
+stuck	S T AH K
+student	S T UH DH AH N T
+students	S T UH DH AH N T S
+studied	S T AH D IY D
+subject	S AH B JH EH K T
+succeed	S AH K S IY D
+such	S AH CH
+suck	S AH K
+suddenly	S AH D AH N L IY
+sufficient	S AH F IH SH IY AH N T
+suicide	S UW IH S AY D
+sum	S AH M
+summer	S AH M AH R
+sun	S AH N
+sunny	S AH N IY
+sunshine	S AH N SH AY N
+sure	SH AO R
+surely	SH AO R L IY
+suresh	S UH R EY SH
+surprise	S AH R P R AY Z
+surprised	S AH R P R AY Z D
+surprisingly	S AH R P R AY Z IH NG L IY
+survive	S AH R V AY V
+survive	S AH R W AY W
+swam	S W AE M
+swim	S W IH M
+switch	S W IH CH
+switched	S W IH CH D
+swooped	S W UW P D
+tackle	T AE K AH L
+taffy	T AE F IY
+tail	T EY L
+tails	T EY L S
+take	T EY K
+takes	T EY K S
+taking	T EY K IH NG
+talk	T AO K
+talking	T AO K IH NG
+tall	T AO L
+target	T AA R G EH T
+targeted	T AA R G EH T EH D
+targets	T AA R G EH T S
+taught	T AO T
+tea	T IY
+teacher	T IY CH AH R
+teacher's	T IY CH AH R S
+team	T IY M
+tear	T EY R
+tear	T IH AH R
+teases	T IY Z EH S
+teasing	T IY Z IH NG
+tell	T EH L
+telling	T EH L IH NG
+temper	T EH M P AH R
+ten	T EH N
+tense	T EH N S
+terrace	T AE R EH S
+terror	T EH R AH R
+test	T EH S T
+tested	T EH S T EH D
+testing	T EH S T IH NG
+tests	T EH S T S
+tetanus	T EH T AE N AH S
+tetanus	T EH T N AH S
+than	TH AE N
+thank	TH AE N K
+thanked	TH AE N K D
+thanks	TH AE N K S
+that	DH AE T
+that's	DH AE T S
+the	DH AH
+their	DH EY AH R
+their	DH EY R
+them	DH EH M
+themself	DH EH M S EH L F
+themselves	DH EH M S EH L V Z
+themselves	DH EH M S EH L W Z
+then	DH EH N
+there	DH AE R
+these	DH IY Z
+they	DH EY
+they've	DH EY HH AE V
+they've	DH EY HH AE W
+they've	DH EY V
+they've	DH EY W
+thick	TH IH K
+thief	TH IY F
+thieves	TH IY V Z
+thieves	TH IY W Z
+thing	TH IH NG
+things	TH IH NG Z
+think	TH IH NG K
+thinking	TH IH NG K IH NG
+third	TH AH R D
+thirst	TH AH R S T
+thirsty	TH AH R S T IY
+this	DH IH S
+thorns	TH AO R N S
+those	DH OW Z
+though	DH OW
+thought	TH AO T
+thoughts	TH AO T S
+thousand	TH AW Z AH N D
+thousands	TH AW Z AH N D S
+three	TH R IY
+threw	TH R Y UW
+throat	TH R OW T
+thrones	TH R OW N S
+thrones	TH R OW N Z
+through	TH R UW
+throw	TH R OW
+throwing	TH R OW IH NG
+thrown	TH R OW N
+thus	DH AH S
+tie	T AY
+tied	T AY D
+tiff	T IH F
+till	T IH L
+time	T AY M
+timed	T AY M D
+timid	T IH M IH D
+tiny	T AY N IY
+tip	T IH P
+tire	T AY R
+tired	T AY R D
+to	T UW
+today	T UH D EY
+toe	T OW
+together	T UH G EH DH AH R
+told	T OW L D
+tolerate	T AO L AH R EY T
+toll	T OW L
+tom	T AO M
+tomb-stones	T UW M B S T OW N S
+tombs	T UW M B Z
+tombstones	T UW M B S T OW N S
+toms	T AO M S
+toms	T AO M Z
+tones	T OW N S
+tones	T OW N Z
+tongue	T AH NG
+too	T UW
+took	T UH K
+tools	T UW L S
+tortoise	T AO R T OY Z
+tortoises	T AO R T OY Z EH S
+touch	T AH CH
+toward	T UH W AH R D
+towards	T UH W AH R D S
+town	T AW N
+track	T R AE K
+transparent	T R AA N S P EH R EH N T
+transparent	T R AA N S P R AH N T
+trap	T R AE P
+trapped	T R AE P D
+tree	T R IY
+tree-cutter	T R IY K AH T AH R
+treecutter	T R IY K AH T AH R
+trees	T R IY Z
+tribe	T R AY B
+tribes	T R AY B Z
+trick	T R IH K
+tricks	T R IH K S
+tried	T R AY D
+tries	T R AY Z
+trip	T R IH P
+trouble	T R AH B AH L
+troubles	T R AH B AH L S
+truck	T R AH K
+trudged	T R AH JH D
+true	T R UW
+trunk	T R AH N K
+trust	T R AH S T
+truth	T R UH TH
+try	T R AY
+trying	T R AA IH NG
+trying	T R AY IH NG
+tugged	T AH G D
+turn	T AH R N
+turned	T AH R N D
+turning	T AH R N IH NG
+turtle	T AH R T AH L
+twelve	T W EH L V
+twelve	T W EH L W
+two	T UW
+types	T AY P S
+un	AH N
+unaware	AH N AH W EY R
+under	AH N D AH R
+understand	AH N D AH R S T AE N D
+until	AH N T IH L
+unusually	AH N Y UH JH UH AH L IY
+up	AH P
+upon	AH P AO N
+upstream	AH P S T R IY M
+us	AH S
+use	Y UW Z
+used	Y UW Z D
+useful	Y UW Z F UH L
+using	Y UW Z IH NG
+usually	Y UH JH UH AH L IY
+vain	V EY N
+vain	W EY N
+valuable	V AE L UH EY B AH L
+valuable	W AE L UH EY B AH L
+varieties	V AH R AY T IY Z
+varieties	W AH R AY T IY Z
+variety	V AH R AY T IY
+variety	W AH R AY T IY
+vegetables	V EH JH IH T EY B AH L S
+vegetables	W EH JH IH T EY B AH L S
+verdict	V AH R D IH K T
+verdict	W AH R D IH K T
+very	V EH R IY
+very	W EH R IY
+vessel	V EH S AH L
+vessel	W EH S AH L
+vessels	V EH S AH L S
+vessels	W EH S AH L S
+veterinary	V EH T R IH N AH R IY
+veterinary	W EH T R IH N AH R IY
+village	V IH L EY JH
+village	W IH L EY JH
+villager	V IH L EY JH AH R
+villager	W IH L EY JH AH R
+villagers	V IH L EY JH AH R S
+villagers	W IH L EY JH AH R S
+villagers	V IH L EY JH AH R Z
+villagers	W IH L EY JH AH R Z
+vines	V AY N S
+vines	W AY N S
+visible	V IH Z IH B AH L
+visible	W IH Z IH B AH L
+voice	V OY S
+voice	W OY S
+vote	V OW T
+vote	W OW T
+voted	V OW T EH D
+voted	W OW T EH D
+wait	W EY T
+waited	W EY T EH D
+walk	W AO K
+walked	W AO K D
+walking	W AO K IH NG
+wall	W AO L
+walnut	W AO L N AH T
+walnuts	W AO L N AH T S
+want	W AO N T
+wanted	W AO N T EH D
+wanting	W AO N T IH NG
+war	W AO R
+ware	W EY R
+warned	W AO R N D
+was	W AO Z
+wash	W AO SH
+washed	W AO SH D
+washington	W AO SH IH NG T AH N
+wasn't	W AO Z AH N T
+watch	W AO CH
+watching	W AO CH IH NG
+water	W AO T AH R
+watered	W AO T AH R D
+waters	W AO T AH R S
+wave	W EY V
+wave	W EY W
+way	W EY
+ways	W EY Z
+we	W IY
+weak	W IY K
+weaker	W IY K AH R
+wear	W EY R
+wearing	W EY R IH NG
+weeks	W IY K S
+weight	W EY T
+well	W EH L
+well-off	W EH L AO F
+went	W EH N T
+werdick	W EH R D IH K
+were	W AH R
+weren't	W AH R N T
+what	W HH AO T
+what	W AO T
+what's	W HH AO T S
+what's	W AO T S
+whatever	W HH AO T EH V AH R
+whatever	W HH AO T EH W AH R
+whatever	W AO T EH V AH R
+whatever	W AO T EH W AH R
+whats	W HH AA T S
+when	W EH N
+when	W HH EH N
+where	W EY R
+where	W HH EY R
+whether	W EH DH AH R
+whether	W HH EH DH AH R
+which	W IH CH
+while	W AY L
+while	W HH AY L
+whip	W HH IH P
+whispered	W HH IH S P AH R D
+who	HH UW
+whole	HH OW L
+whose	HH UW Z
+why	W HH AA Y
+why	W HH AY
+wife	W AY F
+wife's	W AY F S
+wild	W AY L D
+will	W IH L
+wind	W AY N D
+wind	W IH N D
+wing	W IH NG
+wings	W IH NG Z
+winning	W IH N IH NG
+wiped	W AY P D
+wisdom	W IH Z D AH M
+wise	W AY Z
+wish	W IH SH
+wit	W IH T
+with	W IH DH
+with	W IH TH
+without	W IH DH AW T
+witnesses	W IH T N EH S EH S
+woke	W OW K
+wolf	W UW L F
+wolve	W UW L V
+wolve	W UW L W
+wolves	W UW L V Z
+wolves	W UW L W Z
+won't	W OW N T
+wondered	W AH N D AH R D
+wood	W UH D
+wood-cutter	W UH D K AH T AH R
+woodcutter	W UH D K AH T AH R
+woodman	W UH D M AH N
+woodman	W UH D M AE N
+woods	W UH D S
+woodsman	W UH D S M AH N
+woodsman	W UH D S M AE N
+wool	W UH L
+word	W AH R D
+words	W AH R D S
+wore	W OW R
+work	W AH R K
+worker	W AH R K AH R
+working	W AH R K IH NG
+world	W AH R L D
+worried	W AH R IY D
+worry	W AH R IY
+worth	W AH R TH
+would	W UH D
+wouldn't	W UH D AH N T
+wounded	W AW N D EH D
+wounded	W UH N D EH D
+write	R AY T
+wrote	R OW T
+yard	Y AA R D
+year	Y AH R
+yes	Y EH S
+you	Y UW
+young	Y AH NG
+your	Y AO R
+yours	Y AO R S
+youth	Y UW TH
+youths	Y UW TH S
+zoo	Z UW
+zoos	Z UW S
+अ	AH
+अंटर	AH N T AH R
+अक्स	AH K S
+अट्याटिंग	AH T Y AA T IH NG
+अणि	AH N N IH
+अन	AH N AH
+अनि	AH N IH
+अनी	AH N IY
+अपोर्चड	AH P OW R CH AH D
+अप्र	AH P R AH
+अफ	AH F
+अफेड	AH F EY D
+अर	AH R AH
+अस	AH S
+अस्क	AH S K
+अस्ट	AH S T
+अ‍ॅ	AE
+अ‍ॅत	AE TH
+अ‍ॅनाय	AE N AA Y
+अ‍ॅब्स	AE B S
+अ‍ॅम्ब्रेस्टेट	AE M B R EH S T EY T
+आ	AA
+आक्स	AA K S
+आक्सड	AA K S AH D
+आशिआ	AA SH IH AA
+आस	AA S
+आसकेड	AA S AH K EY D
+आस्कड	AA S K AH D
+आस्केड	AA S K EY D
+आस्ट	AA S T
+इ	IH
+इंग	IH NG
+इड	IH D AH
+इत	IH TH AH
+इम	IH M
+इर	IH R AH
+ई	IY
+ए	EY
+एंस	EH N S
+एक्स	EH K S
+एक्सपेट	EH K S P EY T
+एथर	EY TH AH R
+एमब्रॅसेस्ड	EH M B R AE S EY S D
+एम्बरेस	EH M B AH R EY S
+एम्ब्रॅस्ड	EH M B R AE S D
+एल	EY L
+एस	EY S
+एसिडन्स	EY S IH D AH N S
+ऑ	AO
+ऑप	AO P
+ऑब	AO B
+ऑर्थ	AO R TH
+ओ	OW
+ओल	OW L
+ओवस	OW W AH S
+क	K AH
+कंडि	K AH N D IH
+कन्स्टन्ट	K AH N S T AH N T
+कान	K AA N
+किन्ड	K IH N D
+किप्ट	K IH P T
+कुलप्रित	K UH L P R IH TH
+कुल्ड	K UH L D
+कॅ	K AE
+कॅम	K AE M
+कॅरि	K AE R IH
+के	K EY
+केट	K EY T
+केन	K EY N
+केम्स	K EY M S
+कॉच	K AO CH
+कॉन	K AO N
+कॉन्स	K AO N S
+को	K OW
+कोमिट	K OW M IH T
+क्रिएचर	K R IH EY CH AH R
+क्रिएचर्स	K R IH EY CH AH R S
+क्लॅ	K L AE
+क्ल्या	K L Y AA
+ग	G AH
+गिट	G IH T
+गुल्ड	G UH L D
+गॉट्स	G AO T S
+गोड	G OW D
+गोस्ट	G OW S T
+ग्रा	G R AA
+ग्रेम्स	G R EY M S
+ज	JH AH
+जनी	JH AH N IY
+जम्मि	JH AH M M IH
+जे	JH EY
+ट	T AH
+टि	T IH
+टिसिंग	T IH S IH NG
+टीस	T IY S
+टुम	T UH M
+टुवेल	T UH W EY L
+टे	T EY
+टेड	T EY D
+टो	T OW
+टोक	T OW K
+टोम्ब	T OW M B
+टोम्बस्टोंस	T OW M B S T OW N S
+टोम्स	T OW M S
+टोर्न्स	T OW R N S
+ट्म	T AH M
+ट्रग	T R AH G
+ट्राइज	T R AA IH JH
+ट्रिब	T R IH B
+ट्रिब्स	T R IH B S
+ट्रॅ	T R AE
+ट्रॅकल	T R AE K AH L
+ट्रे	T R EY
+ट्रो	T R OW
+ट्रोंस	T R OW N S
+ड	D AH
+डा	D AA
+डानज़िल	D AA N AH Z IH L
+डि	D IH
+डिफ	D IH F
+डिफिक	D IH P HH IH K
+डी	D IY
+डेजिल	D EY JH IH L
+डेन	D EY N
+डॉन	D AO N
+ड्रीन्ट	D R IY N T
+ड्रोइंग	D R OW IH NG
+तफ	TH AH P HH
+तु	TH UH
+तू	TH UW
+त्रुत	TH R UH TH
+त्रुथ	TH R UH TH
+थ	TH AH
+थो	TH OW
+थोट	TH OW T
+थ्रोन्स	TH R OW N S
+द	DH AH
+दट	DH AH T
+दम	DH AH M
+दर	DH AH R
+दिद	DH IH DH
+दिस	DH IH S
+दी	DH IY
+दॅ	DH AE
+दॅत	DH AE TH
+देनि	DH EY N IH
+देम्स	DH EY M S
+देलि	DH EY L IH
+देव	DH EY W
+द्या	DH Y AA
+द्यानी	DH Y AA N IY
+ध	DH HH AH
+न	N AH
+ना	N AA
+नाय	N AA Y
+नि	N IH
+निनटी	N IH N T IY
+नीट	N IY T
+ने	N EY
+नेदर	N EY DH AH R
+नेमेड	N EY M EY D
+नेव	N EY W
+नेस	N EY S
+नॉ	N AO
+नोटीसेड	N OW T IY S EY D
+नोन	N OW N
+प	P AH
+पा	P AA
+पाइड	P AY D
+पाओस	P AA OW S
+पाठ	P AA T HH
+पि	P IH
+पिपड	P IH P AH D
+पिपे	P IH P EY
+पिसिस	P IH S IH S
+पिसेस	P IH S EY S
+पु	P UH
+पॅ	P AE
+पॅटर्स	P AE T AH R S
+पेटर	P EY T AH R
+पेटस	P EY T AH S
+पेनेटली	P EY N EY T L IY
+पेस्टि	P EY S T IH
+पेस्टिकाइड्स	P EY S T IH K AA IH D S
+पै	P EY
+पो	P OW
+पोल	P OW L
+प्रि	P R IH
+प्रेटेटिंग	P R EY T EY T IH NG
+प्रो	P R OW
+प्लकेट	P L AH K EY T
+प्लिस	P L IH S
+फ	P HH AH
+फंट	P HH AH N T
+फा	P HH AA
+फि	P HH IH
+फिम	P HH IH M
+फीडी	P HH IY D IY
+फील्ट	P HH IY L T
+फु	P HH UH
+फुर	P HH UH R
+फॅ	P HH AE
+फे	P HH EY
+फेट	P HH EY T
+फेडी	P HH EY D IY
+फो	P HH OW
+फ्रिडि	P HH R IH D IH
+फ्रीडी	P HH R IY D IY
+फ्रेड	P HH R EY D
+फ्रॉट	P HH R AO T
+ब	B AH
+बबलु	B AH B L UH
+बश	B AH SH
+बा	B AA
+बायसायकल	B AA Y S AA Y K AH L
+बिसकुट्स	B IH S K UH T S
+बु	B UH
+बुस्टिंग	B UH S T IH NG
+बॅ	B AE
+बेट्रे	B EY T R EY
+बॉ	B AO
+बॉत	B AO TH
+बो	B OW
+ब्रिलाइंट	B R IH L AA IH N T
+ब्रॅन्गिंग	B R AE NG G IH NG
+ब्रॉ	B R AO
+म	M AH
+मध	M AH DH HH
+मश	M AH SH
+मस	M AH S
+मा	M AA
+मॅ	M AE
+मेटर	M EY T AH R
+मै	M EY
+मो	M OW
+य	Y AH
+यड	Y AH D
+यानी	Y AA N IY
+ये	Y EY
+योथ	Y OW TH
+योथ्स	Y OW TH S
+यौच	Y AO CH
+र	R AH
+रि	R IH
+रिचेट	R IH CH EY T
+रिन	R IH N
+रिपि	R IH P IH
+रिप्लायड	R IH P L AY D
+रिली	R IH L IY
+रिस	R IH S
+री	R IY
+रु	R UH
+रॅन	R AE N
+रे	R EY
+रेष्टुरंट	R EY SH T UH R AH N T
+ल	L AH
+ला	L AA
+लाउज	L AW JH
+लाफ्टेड	L AA F T EY D
+लि	L IH
+लिजार्ड	L IH JH AA R D
+लिटिल	L IH T IH L
+लिट्ल	L IH T AH L
+लिफ्स	L IH P HH S
+ली	L IY
+लु	L UH
+लॉयन	L AO Y AH N
+लो	L OW
+लोयन	L OW Y AH N
+व	W AH
+वंड	W AH N D
+वर	W AH R
+वरेन्ट	W AH R EY N T
+वल	W AH L
+वा	W AA
+वि	W IH
+विज	W IH JH
+विव	W IH W
+वु	W UH
+वुज	W UH JH
+वुल्ट	W UH L T
+वुल्ड	W UH L D
+वे	W EY
+वेंथ	W EY N TH
+वेन	W EY N
+वेन्थ	W EY N TH
+वॉ	W AO
+वॉलकेड	W AO L K EY D
+वो	W OW
+व्रु	W R UH
+व्रोट	W R OW T
+श	SH AH
+शाव्ड	SH AA W D
+शु	SH UH
+शुल	SH UH L
+शॉ	SH AO
+शोट	SH OW T
+शोन्स	SH OW N S
+श्री	SH R IY
+स	S AH
+सदन्ली	S AH DH AH N L IY
+सर्क्युम	S AH R K Y UH M
+सा	S AA
+साल्ट	S AA L T
+सिंघ	S IH N G HH
+सिग	S IH G
+सुटेशन	S UH T EY SH AH N
+सुरज	S UH R AH JH
+सॅ	S AE
+सेन	S EY N
+सेर	S EY R
+सोट	S OW T
+सोरिंग	S OW R IH NG
+सौ	S AO
+स्के	S K EY
+स्क्रेड	S K R EY D
+स्ट	S T AH
+स्टि	S T IH
+स्टिप	S T IH P
+स्टोम	S T OW M
+स्ट्र्क	S T R AH K
+स्पिस	S P IH S
+स्मोट	S M OW T
+स्मोर्ट	S M OW R T
+स्लॅपेड	S L AE P EY D
+ह	HH AH
+हन	HH AH N
+हय	HH AH Y
+हा	HH AA
+हायबरेटिंग	HH AA Y B AH R EY T IH N G
+हिज	HH IH JH
+हिडिंग	HH IH D IH NG
+हिबरनेट	HH IH B AH R N EY T
+हिबरनेटिंग	HH IH B AH R N EY T IH N G
+हॅ	HH AE
+हे	HH EY
+हेरिंग	HH EY R IH NG
+हेल्पेड	HH EY L P EY D
+हो	HH OW

@@ -1,0 +1,22 @@
+# ivector-extract-online2 --config=data/dec_gop_572_nnet3/alignments/ivectors/conf/ivector_extractor.conf ark:data/dec_gop_572_nnet3/split8/7/spk2utt scp:data/dec_gop_572_nnet3/split8/7/feats.scp ark:- | copy-feats --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/dec_gop_572_nnet3/alignments/ivectors/ivector_online.7.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/dec_gop_572_nnet3/alignments/ivectors/ivector_online.7.scp 
+# Started at Tue Jun 27 03:03:47 IST 2023
+#
+copy-feats --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/dec_gop_572_nnet3/alignments/ivectors/ivector_online.7.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/dec_gop_572_nnet3/alignments/ivectors/ivector_online.7.scp 
+ivector-extract-online2 --config=data/dec_gop_572_nnet3/alignments/ivectors/conf/ivector_extractor.conf ark:data/dec_gop_572_nnet3/split8/7/spk2utt scp:data/dec_gop_572_nnet3/split8/7/feats.scp ark:- 
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 22.9045 > 14.7531.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.294 > 10.7599.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 10.2334 > 9.95086.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 21.5983 > 15.3057.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 18.393 > 17.9423.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 12.5081 > 10.7438.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 7.71265 > 3.52353.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.767 > 8.79715.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 16.7749 > 15.4625.  Will do an exact optimization.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:189) Estimated iVectors for 71 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:191) Average objective-function improvement was 41.8503 per frame, over 277868 frames (weighted).
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:194) Average iVector length was 9.28775 and at utterance-end was 10.1953, over 277868 frames (weighted);  expected length is 10
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 71 feature matrices.
+# Accounting: time=5 threads=1
+# Ended (code 0) at Tue Jun 27 03:03:52 IST 2023, elapsed time 5 seconds

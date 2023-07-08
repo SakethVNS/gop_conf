@@ -1,0 +1,14 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:data/gop_examples/log/utt2dur.2 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/gop_examples/log/wav_gop_examples.2.scp ark:- | copy-feats --write-num-frames=ark,t:data/gop_examples/log/utt2num_frames.2 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.2.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.2.scp 
+# Started at Fri Jan 27 13:27:01 IST 2023
+#
+copy-feats --write-num-frames=ark,t:data/gop_examples/log/utt2num_frames.2 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.2.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples/data/raw_mfcc_gop_examples.2.scp 
+compute-mfcc-feats --write-utt2dur=ark,t:data/gop_examples/log/utt2dur.2 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/gop_examples/log/wav_gop_examples.2.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key DHUOSWKVDH4A11_1661745759948_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key DHUOSWKVDH4A22_1661828604230_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key DHUOSWKVDH4B11_1661577945069_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key MUMPOWKVII4A38_1661583566000_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key MUMPOWKVII4C39_1662013211111_Para2-Take1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:185)  Done 5 out of 5 utterances.
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 5 feature matrices.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Fri Jan 27 13:27:02 IST 2023, elapsed time 1 seconds

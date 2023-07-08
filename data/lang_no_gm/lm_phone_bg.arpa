@@ -1,0 +1,225 @@
+
+\data\
+ngram  1=        60
+ngram  2=        76
+ngram  3=        77
+
+
+\1-grams:
+-1.99123	<s>	-0.477121
+-1.59329	bears	-0.367977
+-1.6902	are	-0.30103
+-1.99123	found	-0.30103
+-1.59329	in	-0.30103
+-1.99123	europe	-0.30103
+-1.99123	asia	-0.30103
+-1.99123	africa	-0.30103
+-1.59329	and	-0.30103
+-1.99123	america	-0.30103
+-1.6902	they	-0.30103
+-1.99123	have	-0.30103
+-1.99123	big	-0.30103
+-1.99123	bodies	-0.30103
+-1.99123	with	-0.30103
+-1.99123	short	-0.30103
+-1.99123	tails	-0.30103
+-1.99123	thick	-0.30103
+-1.99123	legs	-0.30103
+-1.99123	polar	-0.30103
+-1.99123	which	-0.30103
+-1.99123	live	-0.30103
+-1.81514	the	-0.30103
+-1.99123	coldest	-0.30103
+-1.99123	part	-0.30103
+-1.99123	of	-0.30103
+-1.99123	world	-0.30103
+-1.99123	usually	-0.30103
+-1.81514	eat	-0.30103
+-1.99123	fish	-0.30103
+-1.99123	seals	-0.30103
+-1.99123	when	-0.30103
+-1.99123	kept	-0.30103
+-1.99123	cages	-0.30103
+-1.99123	or	-0.30103
+-1.99123	zoos	-0.30103
+-1.81514	like	-0.30103
+-1.81514	to	-0.30103
+-1.99123	meat	-0.30103
+-1.99123	vegetables	-0.30103
+-1.99123	milk	-0.30103
+-1.99123	rice	-0.30103
+-1.99123	not	-0.30103
+-1.99123	quite	-0.30103
+-1.81514	as	-0.30103
+-1.99123	dangerous	-0.30103
+-1.99123	we	-0.30103
+-1.99123	think	-0.30103
+-1.99123	most	-0.30103
+-1.99123	animals	-0.30103
+-1.99123	will	-0.30103
+-1.99123	do	-0.30103
+-1.99123	their	-0.30103
+-1.99123	best	-0.30103
+-1.99123	keep	-0.30103
+-1.99123	away	-0.30103
+-1.99123	from	-0.30103
+-1.99123	us	-0.30103
+-1.99123	</s>	-0.30103
+
+\2-grams:
+-0.298086	<s> <s>	-0.39794
+-0.75654	<s> bears	-0.30103
+-0.530973	bears are	-0.30103
+-0.832003	bears which	-0.30103
+-0.8256	bears like	-0.30103
+-0.765056	are found	-0.30103
+-0.758653	are like	-0.30103
+-0.765056	are not	-0.30103
+-0.29009	found in	-0.30103
+-0.885716	in europe	-0.30103
+-0.877283	in the	-0.30103
+-0.885716	in cages	-0.30103
+-0.885716	in zoos	-0.30103
+-0.296621	europe asia	-0.30103
+-0.296621	asia africa	-0.30103
+-0.29009	africa and	-0.30103
+-0.885716	and america	-0.30103
+-0.885716	and thick	-0.30103
+-0.885716	and seals	-0.30103
+-0.885716	and rice	-0.30103
+-0.292256	america they	-0.30103
+-0.752344	they are	-0.30103
+-0.765056	they have	-0.30103
+-0.765056	they will	-0.30103
+-0.296621	have big	-0.30103
+-0.296621	big bodies	-0.30103
+-0.296621	bodies with	-0.30103
+-0.296621	with short	-0.30103
+-0.296621	short tails	-0.30103
+-0.29009	tails and	-0.30103
+-0.296621	thick legs	-0.30103
+-0.296621	legs polar	-0.30103
+-0.29009	polar bears	-0.30103
+-0.296621	which live	-0.30103
+-0.29009	live in	-0.30103
+-0.593286	the coldest	-0.30103
+-0.593286	the world	-0.30103
+-0.296621	coldest part	-0.30103
+-0.296621	part of	-0.30103
+-0.294433	of the	-0.30103
+-0.296621	world usually	-0.30103
+-0.294433	usually eat	-0.30103
+-0.593286	eat fish	-0.30103
+-0.593286	eat meat	-0.30103
+-0.29009	fish and	-0.30103
+-0.296621	seals when	-0.30103
+-0.296621	when kept	-0.30103
+-0.29009	kept in	-0.30103
+-0.296621	cages or	-0.30103
+-0.29009	or in	-0.30103
+-0.29009	zoos bears	-0.30103
+-0.588965	like to	-0.30103
+-0.593286	like most	-0.30103
+-0.588965	to eat	-0.30103
+-0.593286	to keep	-0.30103
+-0.296621	meat vegetables	-0.30103
+-0.296621	vegetables milk	-0.30103
+-0.29009	milk and	-0.30103
+-0.29009	rice bears	-0.30103
+-0.296621	not quite	-0.30103
+-0.294433	quite as	-0.30103
+-0.593286	as dangerous	-0.30103
+-0.593286	as we	-0.30103
+-0.294433	dangerous as	-0.30103
+-0.296621	we think	-0.30103
+-0.292256	think they	-0.30103
+-0.296621	most animals	-0.30103
+-0.292256	animals they	-0.30103
+-0.296621	will do	-0.30103
+-0.296621	do their	-0.30103
+-0.296621	their best	-0.30103
+-0.294433	best to	-0.30103
+-0.296621	keep away	-0.30103
+-0.296621	away from	-0.30103
+-0.296621	from us	-0.30103
+-0.296621	us </s>	-0.30103
+
+\3-grams:
+-0.220865	<s> <s> <s>
+-0.568527	<s> <s> bears
+-0.188941	<s> bears are
+-0.47381	bears are found
+-0.47381	bears are not
+-0.123464	bears which live
+-0.201469	bears like to
+-0.121261	are found in
+-0.202351	are like most
+-0.123464	are not quite
+-0.247912	found in europe
+-0.123464	in europe asia
+-0.202351	in the coldest
+-0.123464	in cages or
+-0.121261	in zoos bears
+-0.123464	europe asia africa
+-0.121261	asia africa and
+-0.247912	africa and america
+-0.121994	and america they
+-0.123464	and thick legs
+-0.123464	and seals when
+-0.121261	and rice bears
+-0.232188	america they have
+-0.231244	they are like
+-0.123464	they have big
+-0.123464	they will do
+-0.123464	have big bodies
+-0.123464	big bodies with
+-0.123464	bodies with short
+-0.123464	with short tails
+-0.121261	short tails and
+-0.247912	tails and thick
+-0.123464	thick legs polar
+-0.121261	legs polar bears
+-0.241379	polar bears which
+-0.121261	which live in
+-0.246933	live in the
+-0.123464	the coldest part
+-0.123464	the world usually
+-0.123464	coldest part of
+-0.122729	part of the
+-0.202351	of the world
+-0.122729	world usually eat
+-0.202351	usually eat fish
+-0.121261	eat fish and
+-0.123464	eat meat vegetables
+-0.247912	fish and seals
+-0.123464	seals when kept
+-0.121261	when kept in
+-0.247912	kept in cages
+-0.121261	cages or in
+-0.247912	or in zoos
+-0.240552	zoos bears like
+-0.201469	like to eat
+-0.123464	like most animals
+-0.202351	to eat meat
+-0.123464	to keep away
+-0.123464	meat vegetables milk
+-0.121261	vegetables milk and
+-0.247912	milk and rice
+-0.188941	rice bears are
+-0.122729	not quite as
+-0.202351	quite as dangerous
+-0.122729	as dangerous as
+-0.123464	as we think
+-0.202351	dangerous as we
+-0.121994	we think they
+-0.230301	think they are
+-0.121994	most animals they
+-0.232188	animals they will
+-0.123464	will do their
+-0.123464	do their best
+-0.122729	their best to
+-0.202351	best to keep
+-0.123464	keep away from
+-0.123464	away from us
+-0.123464	from us </s>
+\end\

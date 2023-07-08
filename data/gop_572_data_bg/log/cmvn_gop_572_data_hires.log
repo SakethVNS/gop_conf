@@ -1,0 +1,2 @@
+compute-cmvn-stats --spk2utt=ark:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/spk2utt scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/feats.scp ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/data/cmvn_gop_572_data_hires.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/data/cmvn_gop_572_data_hires.scp 
+LOG (compute-cmvn-stats[5.5.1058~1-dfd6c]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 572 utterances; 0 had errors.

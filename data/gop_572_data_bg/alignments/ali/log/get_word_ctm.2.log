@@ -1,0 +1,13 @@
+# set -o pipefail && linear-to-nbest "ark:gunzip -c data/gop_572_data_bg/alignments/ali.2.gz|" "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_phone_bg/words.txt < data/gop_572_data_bg//split4/2/text |" "" "" ark:- | lattice-align-words-lexicon data/lang_phone_bg/phones/align_lexicon.int data/gop_572_data_bg/alignments/final.mdl ark:- ark:- | lattice-1best ark:- ark:- | nbest-to-ctm --frame-shift=0.01 --print-silence=false ark:- - | utils/int2sym.pl -f 5 data/lang_phone_bg/words.txt | gzip -c > data/gop_572_data_bg/alignments/ali/ctm.2.gz 
+# Started at Mon Jun 26 02:17:41 IST 2023
+#
+nbest-to-ctm --frame-shift=0.01 --print-silence=false ark:- - 
+lattice-1best ark:- ark:- 
+linear-to-nbest 'ark:gunzip -c data/gop_572_data_bg/alignments/ali.2.gz|' 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_phone_bg/words.txt < data/gop_572_data_bg//split4/2/text |' '' '' ark:- 
+lattice-align-words-lexicon data/lang_phone_bg/phones/align_lexicon.int data/gop_572_data_bg/alignments/final.mdl ark:- ark:- 
+LOG (linear-to-nbest[5.5.1058~1-dfd6c]:main():linear-to-nbest.cc:130) Done 144 n-best entries ,0 had errors.
+LOG (lattice-align-words-lexicon[5.5.1058~1-dfd6c]:main():lattice-align-words-lexicon.cc:157) Successfully aligned 144 lattices; 0 had errors.
+LOG (lattice-1best[5.5.1058~1-dfd6c]:main():lattice-1best.cc:103) Done converting 144 to best path, 0 had errors.
+LOG (nbest-to-ctm[5.5.1058~1-dfd6c]:main():nbest-to-ctm.cc:119) Converted 144 linear lattices to ctm format; 0 had errors.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Jun 26 02:17:41 IST 2023, elapsed time 0 seconds

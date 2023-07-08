@@ -1,0 +1,15 @@
+# set -o pipefail && linear-to-nbest "ark:gunzip -c data/dec_gop_572//ali.3.gz|" "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt < data/dec_gop_572//split4/3/text |" "" "" ark:- | lattice-align-phones --replace-output-symbols=true data/dec_gop_572//final.mdl ark:- ark:- | lattice-to-phone-lattice data/dec_gop_572//final.mdl ark:- ark:- | lattice-1best ark:- ark:- | nbest-to-ctm --frame-shift=0.01 --print-silence=false ark:- - | utils/int2sym.pl -f 5 data/lang_gop_400_ex_one_sil//phones.txt | gzip -c > data/dec_gop_572//ali/phone_ctm.3.gz 
+# Started at Sun Jun 25 13:15:39 IST 2023
+#
+linear-to-nbest 'ark:gunzip -c data/dec_gop_572//ali.3.gz|' 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt < data/dec_gop_572//split4/3/text |' '' '' ark:- 
+nbest-to-ctm --frame-shift=0.01 --print-silence=false ark:- - 
+lattice-to-phone-lattice data/dec_gop_572//final.mdl ark:- ark:- 
+lattice-align-phones --replace-output-symbols=true data/dec_gop_572//final.mdl ark:- ark:- 
+lattice-1best ark:- ark:- 
+LOG (linear-to-nbest[5.5.1058~1-dfd6c]:main():linear-to-nbest.cc:130) Done 140 n-best entries ,0 had errors.
+LOG (lattice-align-phones[5.5.1058~1-dfd6c]:main():lattice-align-phones.cc:105) Successfully aligned 140 lattices; 0 had errors.
+LOG (lattice-to-phone-lattice[5.5.1058~1-dfd6c]:main():lattice-to-phone-lattice.cc:94) Done converting 140 lattices.
+LOG (lattice-1best[5.5.1058~1-dfd6c]:main():lattice-1best.cc:103) Done converting 140 to best path, 0 had errors.
+LOG (nbest-to-ctm[5.5.1058~1-dfd6c]:main():nbest-to-ctm.cc:119) Converted 140 linear lattices to ctm format; 0 had errors.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sun Jun 25 13:15:39 IST 2023, elapsed time 0 seconds

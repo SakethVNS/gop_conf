@@ -1,0 +1,49 @@
+# compile-train-graphs --read-disambig-syms=data/lang_gop_400_ex_one_sil//phones/disambig.int data/gop_572_data/tree exp_jan_2_wpp//chain/tdnn/final.mdl data/lang_gop_400_ex_one_sil//L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt data/gop_572_data/split4/1/text|" ark:- | nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_572_data/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=20 --retry-beam=170 --careful=true exp_jan_2_wpp//chain/tdnn/final.mdl ark:- "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data/split4/1/utt2spk scp:data/gop_572_data/split4/1/cmvn.scp scp:data/gop_572_data/split4/1/feats.scp ark:- |" "ark:|gzip -c >data/gop_572_data/ali.1.gz" 
+# Started at Sun Jun 25 01:34:40 IST 2023
+#
+compile-train-graphs --read-disambig-syms=data/lang_gop_400_ex_one_sil//phones/disambig.int data/gop_572_data/tree exp_jan_2_wpp//chain/tdnn/final.mdl data/lang_gop_400_ex_one_sil//L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt data/gop_572_data/split4/1/text|' ark:- 
+nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_572_data/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=20 --retry-beam=170 --careful=true exp_jan_2_wpp//chain/tdnn/final.mdl ark:- 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data/split4/1/utt2spk scp:data/gop_572_data/split4/1/cmvn.scp scp:data/gop_572_data/split4/1/feats.scp ark:- |' 'ark:|gzip -c >data/gop_572_data/ali.1.gz' 
+sym2int.pl: replacing बिसफूल with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing क्रेव with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing लुकीड with 1
+sym2int.pl: replacing false with 1
+sym2int.pl: replacing विन्ट with 1
+sym2int.pl: replacing लुंक with 1
+sym2int.pl: replacing lotus with 1
+sym2int.pl: replacing वेन्डी with 1
+sym2int.pl: replacing रम्स with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing लेस्ट with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing पाश with 1
+sym2int.pl: replacing पॉस with 1
+sym2int.pl: not warning for OOVs any more times
+** Replaced 89 instances of OOVs with 1
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:229) Waited 0 seconds before creating CUDA context
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:243) Not in compute-exclusive mode.  Suggestion: use 'nvidia-smi -c 3' to set compute exclusive mode
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:438) Selecting from 2 GPUs
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(0): GeForce RTX 2080 Ti	free:10729M, used:289M, total:11019M, free/total:0.973728
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(1): GeForce RTX 2080 Ti	free:10548M, used:467M, total:11016M, free/total:0.957546
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:501) Device: 0, mem_ratio: 0.973728
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:382) Trying to select device: 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:511) Success selecting device 0 free mem ratio: 0.973728
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:FinalizeActiveGpu():cu-device.cc:338) The active GPU is [0]: GeForce RTX 2080 Ti	free:4969M, used:6049M, total:11019M, free/total:0.451016 version 7.5
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data/split4/1/utt2spk scp:data/gop_572_data/split4/1/cmvn.scp scp:data/gop_572_data/split4/1/feats.scp ark:- 
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:CheckAndFixConfigs():nnet-am-decodable-simple.cc:294) Increasing --frames-per-chunk from 70 to 72 to make it a multiple of --frame-subsampling-factor=3
+LOG (compile-train-graphs[5.5.1058~1-dfd6c]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 144 graphs, failed for 0
+LOG (apply-cmvn[5.5.1058~1-dfd6c]:main():apply-cmvn.cc:81) Copied 144 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:198) Overall log-likelihood per frame is 1.09483 over 187288 frames.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:201) Retried 0 out of 144 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:203) Done 144, errors on 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.253 seconds taken in nnet3 compilation total (breakdown: 0.168 compilation, 0.048 optimization, 0 shortcut expansion, 0.00806 checking, 0.0116 computing indexes, 0.017 misc.) + 0 I/O.
+# Accounting: time=14 threads=1
+# Ended (code 0) at Sun Jun 25 01:34:54 IST 2023, elapsed time 14 seconds

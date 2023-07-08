@@ -1,0 +1,64 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:data/synthetic_gop/log/utt2dur.6 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/synthetic_gop/log/wav_synthetic_gop.6.scp ark:- | copy-feats --write-num-frames=ark,t:data/synthetic_gop/log/utt2num_frames.6 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/synthetic_gop/data/raw_mfcc_synthetic_gop.6.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/synthetic_gop/data/raw_mfcc_synthetic_gop.6.scp 
+# Started at Thu Mar 30 03:59:02 IST 2023
+#
+copy-feats --write-num-frames=ark,t:data/synthetic_gop/log/utt2num_frames.6 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/synthetic_gop/data/raw_mfcc_synthetic_gop.6.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/synthetic_gop/data/raw_mfcc_synthetic_gop.6.scp 
+compute-mfcc-feats --write-utt2dur=ark,t:data/synthetic_gop/log/utt2dur.6 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/synthetic_gop/log/wav_synthetic_gop.6.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rc_3-b-4500_rc_3-b-45_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rc_3-b-4500_rc_3-b-45_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rd_4-b-800_rd_4-b-8_kv_solapur_01092022-000000-1_EN-OL-RC-426_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rd_5-b-1600_rd_5-b-16_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rd_5-b-3900_rd_5-b-39_kv_solapur_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rf_5-a-2500_rf_5-a-25_kv_solapur_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rg_3-b-3000_rg_3-b-30_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-234_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rh_5-a-2700_rh_5-a-27_kv_solapur_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rj_5-b-5000_rj_5-b-50_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:181) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rk_5-b-3600_rk_5-b-36_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rk_5-b-3600_rk_5-b-36_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rk_5-d-3700_rk_5-d-37_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rm_3-d-300_rm_3-d-3_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rm_5-b-3700_rm_5-b-37_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rm_5-b-3700_rm_5-b-37_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rm_5-b-4600_rm_5-b-46_kv_dhule_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rn_5-a-3600_rn_5-a-36_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rn_5-a-3600_rn_5-a-36_kv_aurangabadshift1_01092022-000000-2_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rp_5-a-5300_rp_5-a-53_kv_dhule_01092022-000000-1_EN-OL-RC-538_1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:181) Processed 20 utterances
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rs_3-a-4200_rs_3-a-42_kv_dhule_01092022-000000-1_EN-OL-RC-234_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rs_5-a-1200_rs_5-a-12_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rs_5-a-1800_rs_5-a-18_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rs_5-a-1800_rs_5-a-18_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key rs_5-d-1100_rs_5-d-11_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key ry_5-a-4000_ry_5-a-40_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sa_4-b-3200_sa_4-b-32_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sb_5-a-1300_sb_5-a-13_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sb_5-a-1300_sb_5-a-13_kv_aurangabadshift1_01092022-000000-2_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sb_5-a-3900_sb_5-a-39_kv_solapur_01092022-000000-1_EN-OL-RC-538_1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:181) Processed 30 utterances
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sb_5-a-3900_sb_5-a-39_kv_solapur_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sc_5-a-4300_sc_5-a-43_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sc_5-a-4300_sc_5-a-43_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sc_5-b-5100_sc_5-b-51_kv_dhule_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sd_3-a-3300_sd_3-a-33_kv_iitpowai_01092022-000000-2_EN-OL-RC-234_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sd_4-b-2900_sd_4-b-29_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sd_5-a-3400_sd_5-a-34_kv_solapur_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sd_5-b-3900_sd_5-b-39_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sd_5-b-500_sd_5-b-5_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_3-c-2900_sg_3-c-29_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:181) Processed 40 utterances
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_3-c-2900_sg_3-c-29_kv_iitpowai_01092022-000000-2_EN-OL-RC-234_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_4-a-3800_sg_4-a-38_kv_bhandupshift2_01092022-000000-1_EN-OL-RC-426_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_5-a-1000_sg_5-a-10_kv_dhule_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_5-a-3200_sg_5-a-32_kv_insmandovi_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_5-a-4400_sg_5-a-44_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sg_5-a-4400_sg_5-a-44_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sh_3-a-2200_sh_3-a-22_kv_solapur_01092022-000000-1_EN-OL-RC-234_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sh_5-d-3000_sh_5-d-30_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sj_3-d-1400_sj_3-d-14_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sj_5-a-1900_sj_5-a-19_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:181) Processed 50 utterances
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key sj_5-a-1900_sj_5-a-19_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:185)  Done 50 out of 50 utterances.
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 50 feature matrices.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Thu Mar 30 03:59:05 IST 2023, elapsed time 3 seconds

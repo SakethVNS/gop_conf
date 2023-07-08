@@ -1,0 +1,2438 @@
+!SIL	1.0	SIL
+10	1.0	DH AH S
+10	1.0	T EH N
+12	1.0	B AA R AA
+12	1.0	B AA R AH HH
+12	1.0	T W EH L W
+1AA	1.0	AA
+1D	1.0	D
+1Dh	1.0	D HH
+1II	1.0	IY
+1N	1.0	N N
+1OO	1.0	AO
+1T	1.0	T
+1Th	1.0	T HH
+1UU	1.0	UW
+1aa	1.0	AH
+1ae	1.0	AE
+1aw	1.0	AW
+1ay	1.0	AY
+1b	1.0	B
+1bh	1.0	B HH
+1c	1.0	CH
+1ch	1.0	CH HH
+1d	1.0	DH
+1dh	1.0	DH HH
+1ee	1.0	EY
+1ex	1.0	EH
+1f	1.0	F
+1g	1.0	G
+1gh	1.0	G HH
+1hh	1.0	HH
+1ii	1.0	IH
+1j	1.0	JH
+1jh	1.0	JH HH
+1k	1.0	K
+1kh	1.0	K HH
+1l	1.0	L
+1m	1.0	M
+1n	1.0	N
+1oo	1.0	OW
+1oy	1.0	OY
+1p	1.0	P
+1ph	1.0	P HH
+1r	1.0	R
+1s	1.0	S
+1sh	1.0	SH
+1t	1.0	TH
+1th	1.0	TH
+1uu	1.0	UH
+1w	1.0	W
+1y	1.0	Y
+1z	1.0	Z
+1zh	1.0	Z HH
+2	1.0	DH OW
+2	1.0	DH UH IY
+2	1.0	T UW
+300	1.0	TH R IY HH AH N D R EH D
+33	1.0	TH AH R T IY TH R IY
+33	1.0	TH EY TH IY S
+50	1.0	F IH F T IY
+50	1.0	P AH CH AA S
+SIL	1.0	SIL
+a	1.0	AH
+a	1.0	EY
+able	1.0	EY B AH L
+abound	1.0	AH B AW N D
+abounded	1.0	AH B AW N D EH D
+about	1.0	AH B AW T
+above	1.0	AH B AW
+absence	1.0	AE B S EH N S
+accident	1.0	AE K S IH D EH N T
+accidents	1.0	AE K S IH D EH N T S
+according	1.0	AH K AO R D IH NG
+across	1.0	AH K R AO S
+act	1.0	AE K T
+actively	1.0	AE K T IH V L IY
+actively	1.0	AE K T IH W L IY
+actually	1.0	AE K CH UH L IY
+admitted	1.0	AE D M IH T EH D
+advice	1.0	AH D V AY S
+advice	1.0	AH D W AY S
+advised	1.0	AH D V AY Z D
+advised	1.0	AH D W AY Z D
+afford	1.0	AH F OW R D
+afraid	1.0	AH F R EY D
+africa	1.0	AE F R IH K AA
+after	1.0	AA F T AH R
+afternoon	1.0	AA F T AH N UW N
+afternoon	1.0	AA F T AH R N UW N
+again	1.0	AH G EY N
+agent	1.0	EY JH AH N T
+agent's	1.0	EY JH AH N T S
+agree	1.0	AH G R IY
+agreed	1.0	AH G R IY D
+aid	1.0	EY D
+aims	1.0	EY M S
+airs	1.0	EY R S
+aks	1.0	AA K S
+aksed	1.0	AA K S D
+alabama	1.0	AE L AH B AE M AA
+alas	1.0	AH L AA S
+all	1.0	AO L
+allah	1.0	AH L L AA HH
+almost	1.0	AO L M OW S T
+alone	1.0	AH L OW N
+along	1.0	AH L AO NG
+already	1.0	AO L R EH D IY
+also	1.0	AO L S OW
+although	1.0	AO L DH OW
+always	1.0	AO L W EH Z
+am	1.0	AE M
+amaze	1.0	AH M EY Z
+amazed	1.0	AH M EY Z D
+america	1.0	AH M EH R IH K AA
+an	1.0	AE N
+and	1.0	AE N D
+anger	1.0	AE NG G AH R
+angrier	1.0	AE NG R IY AH R
+angry	1.0	AE NG R IY
+animal	1.0	AE N IH M AH L
+animals	1.0	AE N IH M AH L S
+animals	1.0	AE N IH M AH L Z
+anna	1.0	AE N AA
+annie	1.0	AE N IY
+annoyed	1.0	AH N OY D
+annoying	1.0	AH N OY IH NG
+another	1.0	AH N AH DH AH R
+answer	1.0	AA N S AH R
+answered	1.0	AA N S AH R D
+any	1.0	EH N IY
+anymore	1.0	EH N IY M OW R
+anything	1.0	EH N IY TH IH NG
+anyway	1.0	EH N IY W EY
+apple	1.0	AE P AH L
+applied	1.0	AH P L AY D
+apply	1.0	AH P L AY
+appoint	1.0	AH P OY N T
+appointed	1.0	AH P OY N T EH D
+approach	1.0	AH P R OW CH
+approached	1.0	AH P R OW CH D
+approve	1.0	AH P R UW V
+approve	1.0	AH P R UW W
+april	1.0	EY P R IH L
+are	1.0	AA R
+aren't	1.0	AA R AH N T
+arjun	1.0	AA R JH UH N
+arjun	1.0	AH R JH UH N
+around	1.0	AH R AW N D
+arrested	1.0	AH R EH S T EH D
+arrived	1.0	AH R AY V D
+arrived	1.0	AH R AY W D
+as	1.0	AE Z
+asha	1.0	AA SH AA
+asha's	1.0	AA SH AA Z
+ashamed	1.0	AH SH EY M D
+asia	1.0	EY SH IH AA
+ask	1.0	AA S K
+asked	1.0	AA S K D
+asleep	1.0	AH S L IY P
+assistant	1.0	AH S IH S T EH N T
+assume	1.0	AH Z Y UH M
+at	1.0	AE T
+ate	1.0	EY T
+attached	1.0	AH T AE CH D
+attacking	1.0	AH T AE K IH NG
+attentively	1.0	AH T EH N T IH V L IY
+attentively	1.0	AH T EH N T IH W L IY
+attitude	1.0	AE T IH T Y UH D
+available	1.0	AH V EY L EH B AH L
+available	1.0	AH W EY L EH B AH L
+awakened	1.0	AH W EY K AH N D
+aware	1.0	AH W EY R
+away	1.0	AH W EY
+axe	1.0	AE K S
+babul	1.0	B AH B UW L
+back	1.0	B AE K
+backward	1.0	B AE K W AH R D
+backwards	1.0	B AE K W AH R D S
+backyard	1.0	B AE K Y AA R D
+badly	1.0	B AE D L IY
+bag	1.0	B AE G
+bait	1.0	B EY T
+balance	1.0	B AE L EH N S
+bananas	1.0	B AH N AA N AA Z
+bandage	1.0	B AE N D EY JH
+bandaged	1.0	B AE N D EY JH D
+bank	1.0	B AE N K
+banks	1.0	B AE N K S
+banquet	1.0	B AE N K W EY T
+bar	1.0	B AA R
+bargaining	1.0	B AA R G EY N IH NG
+basket	1.0	B AA S K EH T
+baskets	1.0	B AA S K EH T S
+basking	1.0	B AA S K IH NG
+bath	1.0	B AA TH
+batuk	1.0	B AH T UH K
+be	1.0	B IY
+beach	1.0	B IY CH
+bear	1.0	B EY R
+bears	1.0	B EY R Z
+beat	1.0	B IY T
+beaten	1.0	B IY T AH N
+beating	1.0	B IY T IH NG
+beautiful	1.0	B Y UW T IH F UH L
+became	1.0	B IH K EY M
+because	1.0	B IH K AO Z
+become	1.0	B IH K AH M
+becomes	1.0	B IH K AH M S
+becoming	1.0	B IH K AH M IH NG
+been	1.0	B IY N
+beer	1.0	B IY AH R
+beers	1.0	B IY AH R S
+beers	1.0	B IY Y AH R S
+before	1.0	B IH F OW R
+beg	1.0	B EH G
+began	1.0	B IH G AE N
+begging	1.0	B EH G IH NG
+begin	1.0	B IH G IH N
+beginning	1.0	B IH G IH N IH NG
+behavior	1.0	B IH HH EY V IY AH R
+behavior	1.0	B IH HH EY W IY AH R
+behind	1.0	B IH HH AY N D
+being	1.0	B IY NG
+believe	1.0	B IH L IY V
+believe	1.0	B IH L IY W
+believed	1.0	B IH L IY V D
+believed	1.0	B IH L IY W D
+bell	1.0	B EH L
+belonged	1.0	B IH L OW NG D
+belongs	1.0	B IH L AO NG Z
+bend	1.0	B EH N D
+beneath	1.0	B IH N IY TH
+benevolent	1.0	B EH N EH V OW L EH N T
+benevolent	1.0	B EH N EH W OW L EH N T
+bent	1.0	B EH N T
+best	1.0	B EH S T
+bet	1.0	B EH T
+betray	1.0	B IH T R EY
+better	1.0	B EH T AH R
+bicycle	1.0	B AY S IH K AH L
+big	1.0	B IH G
+bigger	1.0	B IH G AH R
+bill	1.0	B IH L
+bird	1.0	B AH R D
+birds	1.0	B AH R D S
+birds	1.0	B AH R D Z
+biscuits	1.0	B IH S K IH T S
+bit	1.0	B IH T
+bite	1.0	B AY T
+bitter	1.0	B IH T AH R
+black	1.0	B L AE K
+blood	1.0	B L AH D
+blue	1.0	B L UW
+boasting	1.0	B OW S T IH NG
+boat	1.0	B OW T
+boats	1.0	B OW T S
+bodies	1.0	B AO D IY Z
+body	1.0	B AO D IY
+boiling	1.0	B OY L IH NG
+book	1.0	B UH K
+boosting	1.0	B UW S T IH NG
+boring	1.0	B OW R IH NG
+both	1.0	B OW TH
+bothered	1.0	B AO DH AH R D
+bought	1.0	B AO T
+bowl	1.0	B AW L
+boy	1.0	B OY
+boy's	1.0	B OY Z
+boys	1.0	B OY Z
+bragging	1.0	B R AE G IH NG
+bread	1.0	B R EH D
+break	1.0	B R EY K
+brilliant	1.0	B R IH L IH AH N T
+brilliant	1.0	B R IH L Y AH N T
+bring	1.0	B R IH NG
+broke	1.0	B R OW K
+brought	1.0	B R AO T
+bubble	1.0	B AH B AH L
+bucket	1.0	B AH K EH T
+budge	1.0	B AH JH
+built	1.0	B IH L T
+bundle	1.0	B AH N D AH L
+burma	1.0	B AH R M AA
+burn	1.0	B AH R N
+burning	1.0	B AH R N IH NG
+bush	1.0	B UH SH
+busy	1.0	B IH Z IY
+but	1.0	B AH T
+butterflies	1.0	B AH T AH R F L AY Z
+butterfly	1.0	B AH T AH R F L AY
+butterfly's	1.0	B AH T AH R F L AY Z
+buy	1.0	B AA Y
+buy	1.0	B AY
+by	1.0	B AA Y
+by	1.0	B AY
+cage	1.0	K EY JH
+cages	1.0	K EY JH IH S
+call	1.0	K AO L
+called	1.0	K AO L D
+calm	1.0	K AA M
+came	1.0	K EY M
+camp	1.0	K AE M P
+can	1.0	K AE N
+can't	1.0	K AA N T
+candidates	1.0	K AE N D IH D EY T S
+cane	1.0	K EY N
+cannot	1.0	K AE N N AO T
+cap	1.0	K AE P
+car	1.0	K AA R
+care	1.0	K EY AH R
+care	1.0	K EY R
+careful	1.0	K EY R F UH L
+carefully	1.0	K EY R F UH L IY
+caring	1.0	K EY R IH NG
+carried	1.0	K AE R IY D
+carry	1.0	K AE R IY
+carrying	1.0	K AE R IY NG
+carver	1.0	K AA R V AH R
+carver	1.0	K AA R W AH R
+carver's	1.0	K AA R V AH R S
+carver's	1.0	K AA R W AH R S
+cat	1.0	K AE T
+catch	1.0	K AE CH
+catching	1.0	K AE CH IH NG
+cats	1.0	K AE T S
+caught	1.0	K AO T
+causing	1.0	K AO Z IH NG
+cave	1.0	K EY V
+cave	1.0	K EY W
+ceiling	1.0	S IY L IH NG
+cell	1.0	S EH L
+cessed	1.0	S EH S D
+chair	1.0	CH EY R
+chance	1.0	CH AA N S
+change	1.0	CH EY N JH
+changed	1.0	CH EY N JH D
+chasing	1.0	CH EY S IH NG
+chasing	1.0	CH EY Z IH NG
+check	1.0	CH EH K
+checked	1.0	CH EH K D
+cheese	1.0	CH IY Z
+chief	1.0	CH IY F
+child	1.0	CH AY L D
+children	1.0	CH IH L D R EH N
+chill	1.0	CH IH L
+choice	1.0	CH OY S
+choose	1.0	CH UW Z
+choosen	1.0	CH UW Z EH N
+chopped	1.0	CH AO P D
+chosen	1.0	CH OW Z AH N
+church	1.0	CH AH R CH
+circle	1.0	S AH R K AH L
+circles	1.0	S IH R K AH L S
+circumstance	1.0	S AH R K AH M S T AH N S
+city	1.0	S IH T IY
+claim	1.0	K L EY M
+clean	1.0	K L IY N
+cleaning	1.0	K L IY N IH NG
+clever	1.0	K L EH V AH R
+clever	1.0	K L EH W AH R
+cleverly	1.0	K L EH V AH R L IY
+cleverly	1.0	K L EH W AH R L IY
+cliff	1.0	K L IY F
+climb	1.0	K L AY M B
+climbed	1.0	K L AY M B D
+clip	1.0	K L IH P
+clock	1.0	K L AO K
+close	1.0	K L OW Z
+cloth	1.0	K L AO TH
+clothe	1.0	K L OW DH
+clothes	1.0	K L AO TH Z
+clothes	1.0	K L OW DH Z
+cloud	1.0	K L AW D
+coat	1.0	K OW T
+coaxed	1.0	K OW K S D
+coconut	1.0	K OW K OW N AH T
+coins	1.0	K AO IH N S
+cold	1.0	K OW L D
+colder	1.0	K OW L D AH R
+coldest	1.0	K OW L D EH S T
+collapsed	1.0	K OW L AE P S D
+colour	1.0	K AH L AH R
+colours	1.0	K AH L AH R S
+combine	1.0	K AH M B AY N
+combined	1.0	K AH M B AY N D
+come	1.0	K AH M
+comes	1.0	K AH M S
+coming	1.0	K AH M IY NG
+commenced	1.0	K AH M EH N S D
+comment	1.0	K AH M EH N T
+comments	1.0	K AH M EH N T S
+commit	1.0	K AH M IH T
+complained	1.0	K AH M P L EY N D
+complaining	1.0	K AH M P L EY N IH NG
+complaint	1.0	K AH M P L EY N T
+complete	1.0	K AH M P L IY T
+completed	1.0	K AH M P L IY T EH D
+concentrate	1.0	K AO N S AH N T R EY T
+concentrated	1.0	K AO N S AH N T R EY T EH D
+concentration	1.0	K AO N S AH N T R EY SH AH N
+confirm	1.0	K AH N F AH R M
+confirmed	1.0	K AH N F AH R M D
+considered	1.0	K AH N S IH D AH R D
+consoled	1.0	K AH N S OW L D
+constant	1.0	K AO N S T AH N T
+consult	1.0	K AH N S AH L T
+contest	1.0	K AO N T EH S T
+continue	1.0	K AH N T IH N Y UW
+continued	1.0	K AH N T IH N Y UW D
+continuous	1.0	K AH N T IH N UH AH S
+control	1.0	K AH N T R OW L
+controlling	1.0	K AH N T R OW L IH NG
+convenience	1.0	K AH N V IH N IH Y AH N S
+convenience	1.0	K AH N W IH N IH Y AH N S
+cook	1.0	K UH K
+cool	1.0	K UW L
+coolest	1.0	K UW L EH S T
+cordially	1.0	K AO R D IH AH L IY
+corner	1.0	K AO R N AH R
+correct	1.0	K AH R EH K T
+correctly	1.0	K AH R EH K T L IY
+cost	1.0	K AO S T
+costly	1.0	K AO S T L IY
+could	1.0	K UH D
+couldn't	1.0	K UH D AH N T
+count	1.0	K AW N T
+counted	1.0	K AW N T EH D
+covered	1.0	K AH V AH R D
+covered	1.0	K AH W AH R D
+cow	1.0	K AW
+cows	1.0	K AW Z
+created	1.0	K R IY EY T EH D
+creature	1.0	K R IY CH AH R
+creature's	1.0	K R IY CH AH R S
+creatures	1.0	K R IY CH AH R S
+cried	1.0	K R AY D
+crop	1.0	K R AO P
+crops	1.0	K R AO P S
+crossing	1.0	K R AO S IH NG
+crunch	1.0	K R AH N CH
+cry	1.0	K R AY
+crying	1.0	K R AY NG
+culprit	1.0	K AH L P R IH T
+cut	1.0	K AH T
+cute	1.0	K Y UW T
+cutter	1.0	K AH T AH R
+cycle	1.0	S AY K AH L
+cycling	1.0	S AY K L IH NG
+daawid	1.0	D AA W IH D
+dad	1.0	D AE D
+daily	1.0	D EY L IY
+dainty	1.0	D EY N T IY
+dance	1.0	D AA N S
+danced	1.0	D AA N S D
+danger	1.0	D EY N JH AH R
+dangerous	1.0	D EY N JH AH R AH S
+danny	1.0	D AE N IY
+danny's	1.0	D AE N IY Z
+dark	1.0	D AA R K
+darkness	1.0	D AA R K N EH S
+dates	1.0	D EY T S
+daughter	1.0	D AO T AH R
+david	1.0	D EY V IH D
+david	1.0	D EY W IH D
+david's	1.0	D EY V IH D S
+david's	1.0	D EY V IH D Z
+david's	1.0	D EY W IH D S
+david's	1.0	D EY W IH D Z
+day	1.0	D EY
+days	1.0	D EY Z
+dead	1.0	D EH D
+dear	1.0	D IH AH R
+death	1.0	D EY TH
+decide	1.0	D IH S AY D
+decided	1.0	D IH S AY D EH D
+decision	1.0	D IH S IH JH AH N
+decision	1.0	D IH S IH ZH AH N
+declared	1.0	D IH K L EY R D
+dee	1.0	D IY
+deep	1.0	D IY P
+deeper	1.0	D IY P AH R
+deepesh	1.0	DH IH P EY SH
+deepest	1.0	D IY P EH S T
+defective	1.0	D IH F EH K T IH V
+defective	1.0	D IH F EH K T IH W
+defense	1.0	D IH F EH N S
+delight	1.0	D IH L AY T
+delighted	1.0	D IH L AY T EH D
+demanded	1.0	D IH M AA N D EH D
+den	1.0	D EH N
+denny	1.0	D EH N IY
+denzil	1.0	D EH N Z IH L
+deserve	1.0	D IH Z AH R V
+deserve	1.0	D IH Z AH R W
+deserves	1.0	D IH Z AH R V Z
+deserves	1.0	D IH Z AH R W Z
+desire	1.0	D IH Z AY R
+despite	1.0	D IH S P AY T
+dezil	1.0	D EH Z IH L
+diany	1.0	D AY N IY
+did	1.0	D IH D
+didn't	1.0	D IH D AH N T
+die	1.0	D AY
+died	1.0	D AY D
+difference	1.0	D IH F R AH N S
+different	1.0	D IH F R AH N T
+differently	1.0	D IH F R AH N T L IY
+difficult	1.0	D IH F IY K AH L T
+difficulties	1.0	D IH F IY K AH L T IY Z
+dim	1.0	D IH M
+dimwit	1.0	D IH M W IH T
+dinesh	1.0	DH IH N EY SH
+dinesh's	1.0	DH IH N EY SH EH S
+dinesh's	1.0	DH IH N EY SH S
+dinner	1.0	D IH N AH R
+dirty	1.0	D AH R T IY
+disappear	1.0	D IH S AH P IH AH R
+disappeared	1.0	D IH S AH P IH AH R D
+disappearing	1.0	D IH S AH P IH AH R IH NG
+discover	1.0	D IH S K AH V AH R
+discover	1.0	D IH S K AH W AH R
+discovery	1.0	D IH S K AH V AH R IY
+discovery	1.0	D IH S K AH W AH R IY
+dish	1.0	D IH SH
+dismay	1.0	D IH S M EY
+distance	1.0	D IH S T EH N S
+disturb	1.0	D IH S T AH R B
+dived	1.0	D AY V D
+dived	1.0	D AY W D
+divide	1.0	D IH V AY D
+divide	1.0	D IH W AY D
+divided	1.0	D IH V AY D EH D
+divided	1.0	D IH W AY D EH D
+do	1.0	D UW
+doctor	1.0	D AO K T AH R
+does	1.0	D AH Z
+dog	1.0	D AO G
+dogs	1.0	D AO G Z
+doing	1.0	D UH IH NG
+dollars	1.0	D AO L AH R S
+don't	1.0	D OW N T
+done	1.0	D AH N
+donkey	1.0	D AO N K IY
+donkey's	1.0	D AO N K IY Z
+donkeys	1.0	D AO N K IY Z
+doubtful	1.0	D AW T F UH L
+down	1.0	D AW N
+downstream	1.0	D AW N S T R IY M
+dozed	1.0	D OW Z D
+dragged	1.0	D R AE G D
+drained	1.0	D R EY N D
+drank	1.0	D R AE N K
+draw	1.0	D R AO
+drawee	1.0	D R AW IY
+drawing	1.0	D R AW IH NG
+drew	1.0	D R UW
+drink	1.0	D R IH NG K
+drinking	1.0	D R IH NG K IH NG
+dropped	1.0	D R AO P D
+drowning	1.0	D R AW N IH NG
+drying	1.0	D R AA IH NG
+drying	1.0	D R AY NG
+duck	1.0	D AH K
+due	1.0	D Y UW
+dunked	1.0	D AH N K D
+dusk	1.0	D AH S K
+dying	1.0	D AY NG
+each	1.0	IY CH
+eagle	1.0	IY G AH L
+ear	1.0	IH AH R
+earlier	1.0	AH R L IY AH R
+early	1.0	AH R L IY
+earn	1.0	AH R N
+easily	1.0	IY Z IY L IY
+eat	1.0	IY T
+eaten	1.0	IY T EH N
+eating	1.0	IY T IH NG
+eats	1.0	IY T S
+effective	1.0	IH F EY K T IH V
+effective	1.0	IH F EY K T IH W
+egg	1.0	EH G
+eggs	1.0	EH G Z
+either	1.0	AY DH AH R
+either	1.0	IY DH AH R
+elephant	1.0	EH L IH F EH N T
+else	1.0	EH L S
+elsewhere	1.0	EH L S W EY R
+embarrassed	1.0	EH M B AE R EH S D
+emptied	1.0	EH M P T IY D
+empty	1.0	EH M P T IY
+encounter	1.0	EH N K AW N T AH R
+end	1.0	EH N D
+enemies	1.0	EH N EH M IY Z
+enjoy	1.0	EH N JH AO Y
+enough	1.0	IH N AH F
+enraged	1.0	EH N R EY G D
+enter	1.0	EH N T AH R
+entered	1.0	EH N T AH R D
+enthusiastically	1.0	EH N TH UH Z IH AE S T IH K AH L IY
+entire	1.0	EH N T AY R
+envious	1.0	EH N V IY AH S
+envious	1.0	EH N W IY AH S
+envy	1.0	EH N V IH
+envy	1.0	EH N W IH
+equal	1.0	IY K W AH L
+escape	1.0	EH S K EY P
+etc	1.0	EH K S EH K T R AA
+europe	1.0	Y OW R AH P
+europe	1.0	Y UH R OW P
+even	1.0	IY V EH N
+even	1.0	IY W EH N
+evening	1.0	IY V N IH NG
+evening	1.0	IY W N IH NG
+ever	1.0	EH V AH R
+ever	1.0	EH W AH R
+ever-present	1.0	EH V AH R P R EH Z EH N T
+ever-present	1.0	EH W AH R P R EH Z EH N T
+every	1.0	EH V R IY
+every	1.0	EH W R IY
+everybody	1.0	EH V R IY B AH D IY
+everybody	1.0	EH W R IY B AH D IY
+everyday	1.0	EH V R IY D EY
+everyday	1.0	EH W R IY D EY
+everyone	1.0	EH V R IY W AH N
+everyone	1.0	EH W R IY W AH N
+everything	1.0	EH V R IY TH IH NG
+everything	1.0	EH W R IY TH IH NG
+everywhere	1.0	EH V R IY W EY R
+everywhere	1.0	EH W R IY W EY R
+ex	1.0	EH K S
+exactly	1.0	EH G Z AE K T L IY
+examined	1.0	EH G Z AE M IH N D
+excellent	1.0	EH K S IH L EH N T
+excited	1.0	EH K S AY T EH D
+exclaimed	1.0	EH K S K L EY M D
+exercise	1.0	EH K S AH R S AY Z
+exercising	1.0	EH K S AH R S AY Z IH NG
+exhausting	1.0	EH G Z AO S T IH NG
+expect	1.0	EH K S P EH K T
+expensive	1.0	EH K S P EH N S IH V
+expensive	1.0	EH K S P EH N S IH W
+experience	1.0	EH K S P IY R IH EH N S
+experiences	1.0	EH K S P IY R IH EH N S EH S
+experiments	1.0	EH K S P IY R IH M EH N T S
+explain	1.0	EH K S P L EY N
+explained	1.0	EH K S P L EY N D
+explanation	1.0	EH K S P L AH N EY SH AH N
+express	1.0	EH K S P R EH S
+extend	1.0	EH K S T EH N D
+extended	1.0	EH K S T EH N D EH D
+eye	1.0	AA IY
+eye	1.0	AA Y
+eyes	1.0	AA IY Z
+eyes	1.0	AA Y Z
+eyesight	1.0	AA Y S AY T
+face	1.0	F EY S
+faces	1.0	F EY S EH S
+facing	1.0	F EY S IH NG
+fact	1.0	F AE K T
+fail	1.0	F EY L
+fair	1.0	F EY R
+fall	1.0	F AO L
+fallen	1.0	F AO L EH N
+family	1.0	F AE M IH L IY
+family	1.0	F AE M L IY
+fanciest	1.0	F AE N S IY EH S T
+far	1.0	F AA R
+farm	1.0	F AA R M
+farmer	1.0	F AA R M AH R
+farmer's	1.0	F AA R M AH R S
+farmers	1.0	F AA R M AH R S
+farms	1.0	F AA R M S
+fast	1.0	F AA S T
+faster	1.0	F AA S T AH R
+fat	1.0	F AE T
+father	1.0	F AA DH AH R
+fathers	1.0	F AA DH AH R S
+fatty	1.0	F AE T IY
+favor	1.0	F EY V AH R
+favor	1.0	F EY W AH R
+fed	1.0	F EH D
+fee	1.0	F IY
+feed	1.0	F IY D
+feel	1.0	F IY L
+feels	1.0	F IY L S
+feet	1.0	F IY T
+fell	1.0	F EH L
+felt	1.0	F EH L T
+fence	1.0	F EH N S
+ferocious	1.0	F EY R OW SH AH S
+ferocious	1.0	F EY R OW SH Y AH S
+ferried	1.0	F EH R IY D
+fetch	1.0	F EH CH
+few	1.0	F Y UW
+field	1.0	F IY L D
+fields	1.0	F IY L D S
+fight	1.0	F AY T
+fill	1.0	F IH L
+filled	1.0	F IH L D
+finally	1.0	F AY N AH L IY
+find	1.0	F AY N D
+fine	1.0	F AY N
+finger	1.0	F IH NG G AH R
+fingers	1.0	F IH NG G AH R S
+finish	1.0	F IH N IH SH
+fired	1.0	F AY R D
+firm	1.0	F AH R M
+first	1.0	F AH R S T
+fish	1.0	F IH SH
+flapping	1.0	F L AE P IH NG
+flat	1.0	F L AE T
+fled	1.0	F L EH D
+flew	1.0	F L UW
+flogged	1.0	F L AO G D
+flow	1.0	F L OW
+flows	1.0	F L OW Z
+fog	1.0	F AO G
+follow	1.0	F AO L OW
+folly	1.0	F AO L IY
+food	1.0	F UW D
+fool	1.0	F UW L
+foolish	1.0	F UW L IH SH
+foolishness	1.0	F UW L IH SH N EH S
+foot	1.0	F UH T
+footing	1.0	F UH T IH NG
+foots	1.0	F UH T S
+for	1.0	F AO R
+forehead	1.0	F OW R HH EH D
+forest	1.0	F AO R EH S T
+forget	1.0	F AH R G EH T
+forget	1.0	F AO R G EH T
+form	1.0	F AO R M
+found	1.0	F AW N D
+fox	1.0	F AO K S
+fox's	1.0	F AO K S EH S
+frantically	1.0	F R AE N T IH K AH L IY
+fred	1.0	F R EH D
+freddie	1.0	F R EH D IY
+free	1.0	F R IY
+freed	1.0	F R IY D
+fresh	1.0	F R EH SH
+frey	1.0	F R EY
+friend	1.0	F R EH N D
+friends	1.0	F R EH N D S
+frog	1.0	F R AO G
+frogs	1.0	F R AO G Z
+from	1.0	F R AO M
+front	1.0	F R AH N T
+fruit	1.0	F R UW T
+frustrate	1.0	F R AH S T R EY T
+frustrated	1.0	F R AH S T R EY T EH D
+full	1.0	F UH L
+fuller	1.0	F UH L AH R
+fully	1.0	F UH L IY
+fun	1.0	F AH N
+funny	1.0	F AH N IY
+gained	1.0	G EY N D
+games	1.0	G EY M S
+garden	1.0	G AA R D AH N
+gardens	1.0	G AA R D AH N S
+garry	1.0	G AE R IY
+gasped	1.0	G AE S P D
+gathered	1.0	G AE DH AH R D
+gave	1.0	G EY V
+gave	1.0	G EY W
+gay	1.0	G EY
+generous	1.0	JH EH N R AH S
+george	1.0	JH AO R JH
+germs	1.0	JH AH R M S
+get	1.0	G EH T
+gets	1.0	G EY T S
+getting	1.0	G EH T IH NG
+ghost	1.0	G HH OW S T
+ghost	1.0	G OW S T
+gift	1.0	G IH F T
+gigantic	1.0	JH AY G AE N T IH K
+girl	1.0	G AH R L
+give	1.0	G IH V
+give	1.0	G IH W
+given	1.0	G IH V EH N
+given	1.0	G IH W EH N
+giving	1.0	G IH V IH NG
+giving	1.0	G IH W IH NG
+gladly	1.0	G L AE D L IY
+glass	1.0	G L AA S
+global	1.0	G L OW B AH L
+go	1.0	G OW
+goal	1.0	G OW L
+goat	1.0	G OW T
+goats	1.0	G OW T S
+gobbled	1.0	G AO B AH L D
+goes	1.0	G OW Z
+going	1.0	G OW IH NG
+gold	1.0	G OW L D
+golden	1.0	G OW L D EH N
+gone	1.0	G AO N
+good	1.0	G UH D
+goods	1.0	G UW D S
+goods	1.0	G UW D Z
+goose	1.0	G UW S
+got	1.0	G AO T
+gradually	1.0	G R AE JH UH L IY
+grass	1.0	G R AA S
+grassed	1.0	G R AA S D
+graveyard	1.0	G R EY V Y AA R D
+graveyard	1.0	G R EY W Y AA R D
+grazed	1.0	G R EY Z D
+great	1.0	G R EY T
+greatness	1.0	G R EY T N EH S
+greed	1.0	G R IY D
+greedy	1.0	G R IY D IY
+greener	1.0	G R IY N AH R
+greens	1.0	G R IY N S
+greens	1.0	G R IY N Z
+greeted	1.0	G R IY T EH D
+grey	1.0	G R EY
+grief	1.0	G R IY F
+groped	1.0	G R OW P D
+ground	1.0	G R AW N D
+group	1.0	G R UH P
+grouped	1.0	G R UH P D
+grove	1.0	G R OW V
+grove	1.0	G R OW W
+grow	1.0	G R OW
+growing	1.0	G R OW IH NG
+grown	1.0	G R OW N
+guard	1.0	G AA R D
+guarding	1.0	G AA R D IH NG
+guilt	1.0	G IH L T
+gun	1.0	G AH N
+guts	1.0	G AH T S
+ha	1.0	HH AA
+habit	1.0	HH AE B IH T
+had	1.0	HH AE D
+hair	1.0	HH EY R
+hairs	1.0	HH EY R S
+hairs	1.0	HH EY R Z
+half	1.0	HH AA F
+hammer	1.0	HH AE M AH R
+hammered	1.0	HH AE M AH R D
+hand	1.0	HH AE N D
+handkerchief	1.0	HH AE N K AH R CH IY F
+handle	1.0	HH AE N D AH L
+hands	1.0	HH AE N D S
+hang	1.0	HH AE NG
+happened	1.0	HH AE P EH N D
+happy	1.0	HH AE P IY
+hard	1.0	HH AA R D
+harder	1.0	HH AA R D AH R
+hare	1.0	HH EY R
+hares	1.0	HH EY R S
+hari	1.0	HH AH R IY
+harm	1.0	HH AA R M
+harry	1.0	HH AE R IY
+has	1.0	HH AE Z
+hat	1.0	HH AE T
+hate	1.0	HH EY T
+have	1.0	HH AE V
+have	1.0	HH AE W
+haven't	1.0	HH AE V AH N T
+haven't	1.0	HH AE W AH N T
+having	1.0	HH AE V IH NG
+having	1.0	HH AE W IH NG
+hawk	1.0	HH AO K
+he	1.0	HH IY
+head	1.0	HH EH D
+head-stones	1.0	HH EH D S T OW N S
+headstones	1.0	HH EH D S T OW N S
+hear	1.0	HH IH AH R
+hearing	1.0	HH IH AH R IH NG
+heartily	1.0	HH AA R T IH L IY
+heavier	1.0	HH EH V IY AH R
+heavier	1.0	HH EH W IY AH R
+heavy	1.0	HH EH V IY
+heavy	1.0	HH EH W IY
+held	1.0	HH EH L D
+hell	1.0	HH EH L
+hello	1.0	HH EY L OW
+help	1.0	HH EH L P
+helped	1.0	HH EH L P D
+hence	1.0	HH EH N S
+henry	1.0	HH EH N R IY
+hens	1.0	HH EH N S
+hens	1.0	HH EH N Z
+her	1.0	HH AH R
+here	1.0	HH IY AH R
+hey	1.0	HH EY
+hibernate	1.0	HH AY B AH R N EY T
+hibernating	1.0	HH AY B AH R N EY T IH NG
+hid	1.0	HH IH D
+hide	1.0	HH AY D
+hiding	1.0	HH AY D IH NG
+high	1.0	HH AY
+hill	1.0	HH IH L
+him	1.0	HH IH M
+himself	1.0	HH IH M S EH L F
+his	1.0	HH IH Z
+hiss	1.0	HH IH S
+hit	1.0	HH IH T
+hodjaa	1.0	HH OW D JH AA
+hodjaa	1.0	HH UH D JH AA
+hold	1.0	HH OW L D
+holding	1.0	HH OW L D IH NG
+hole	1.0	HH OW L
+holes	1.0	HH OW L S
+hollow	1.0	HH AO L OW
+home	1.0	HH OW M
+homework	1.0	HH OW M W AH R K
+honor	1.0	AO N AH R
+hook	1.0	HH UW K
+horror	1.0	HH AO R AH R
+horse	1.0	HH AO R S
+host	1.0	HH OW S T
+hot	1.0	HH AO T
+hotel	1.0	HH OW T EH L
+hotter	1.0	HH AO T AH R
+hours	1.0	AA W AH R S
+house	1.0	HH AW S
+how	1.0	HH AW
+however	1.0	HH AW EH V AH R
+however	1.0	HH AW EH W AH R
+huge	1.0	HH Y UW JH
+hujja	1.0	HH UH JH JH AA
+humiliate	1.0	HH Y UW M IH L IY EY T
+hun	1.0	HH AH N
+hundred	1.0	HH AH N D R EH D
+hungry	1.0	HH AH NG R IY
+hunt	1.0	HH AH N T
+hunter	1.0	HH AH N T AH R
+hunters	1.0	HH AH N T AH R S
+hurry	1.0	HH AH R IY
+hurt	1.0	HH AH R T
+husband	1.0	HH AH Z B AH N D
+hut	1.0	HH AH T
+i	1.0	AY
+i'll	1.0	AY L
+i'll	1.0	AY W IH L
+i'm	1.0	AY AE M
+idea	1.0	AY D IY Y AA
+ideas	1.0	AY D IY Y AA Z
+if	1.0	IH F
+ignored	1.0	IH G N OW R D
+ill	1.0	IH L
+immediately	1.0	IH M IY D IY EY T L IY
+immediately	1.0	IH M IY JH EY T L IY
+important	1.0	IH M P AO R T AH N T
+impotent	1.0	IH M P OW T EH N T
+improve	1.0	IH M P R UW V
+improve	1.0	IH M P R UW W
+improves	1.0	IH M P R UW V Z
+improves	1.0	IH M P R UW W Z
+in	1.0	IH N
+inch	1.0	IH N CH
+including	1.0	IH N K L UW D IH NG
+indeed	1.0	IH N D IY D
+india	1.0	IH N D IY AA
+india	1.0	IH N D Y AA
+injection	1.0	IH N JH EH K SH AH N
+injections	1.0	IH N JH EH K SH AH N S
+injured	1.0	IH N JH AH R D
+injury	1.0	IH N JH AH R IY
+innocent	1.0	IH N AH S EH N T
+innocent	1.0	IH N OW S EH N T
+innocently	1.0	IH N AH S EH N T L IY
+innocently	1.0	IH N OW S EH N T L IY
+inside	1.0	IH N S AY D
+insides	1.0	IH N S AY D S
+instead	1.0	IH N S T EH D
+insurance	1.0	IH N SH Y AO R AH N S
+intelligent	1.0	IH N T EH L IH JH EH N T
+interiors	1.0	IH N T IY R IH AH R S
+into	1.0	IH N T UW
+invited	1.0	IH N V AY T EH D
+invited	1.0	IH N W AY T EH D
+is	1.0	IH Z
+it	1.0	IH T
+it's	1.0	IH T S
+item	1.0	AY T EH M
+items	1.0	AY T EH M S
+its	1.0	IH T S
+itself	1.0	IH T S EH L F
+james	1.0	JH EY M S
+janes	1.0	JH EY N S
+jealous	1.0	JH EH L AH S
+jenny	1.0	JH EH N IY
+jerry	1.0	JH EH R IY
+jimmy	1.0	JH IH M IY
+job	1.0	JH AO B
+jobs	1.0	JH AO B Z
+john	1.0	JH AO N
+joking	1.0	JH OW K IH NG
+journey	1.0	JH AH R N IY
+judge	1.0	JH AH JH
+jumbo	1.0	JH AH M B OW
+jump	1.0	JH AH M P
+jumped	1.0	JH AH M P D
+jungle	1.0	JH AH NG G AH L
+just	1.0	JH AH S T
+justice	1.0	JH AH S T IH S
+karan	1.0	K AH R AH N
+keep	1.0	K IY P
+keeping	1.0	K IY P IH NG
+keeps	1.0	K IY P S
+kept	1.0	K EH P T
+kicked	1.0	K IH K D
+kill	1.0	K IH L
+killed	1.0	K IH L D
+kind	1.0	K AY N D
+kindly	1.0	K AY N D L IY
+king	1.0	K IH NG
+kingship	1.0	K IH NG SH IH P
+kitchen	1.0	K IH CH EH N
+knew	1.0	N Y UW
+knife	1.0	N AY F
+knocks	1.0	N AO K S
+know	1.0	N OW
+lab	1.0	L AE B
+laid	1.0	L EY D
+landing	1.0	L AE N D IH NG
+large	1.0	L AA R JH
+larger	1.0	L AA R JH AH R
+last	1.0	L AA S T
+late	1.0	L EY T
+later	1.0	L EY T AH R
+laugh	1.0	L AA F
+laughed	1.0	L AA F D
+laughing	1.0	L AA F IH NG
+launch	1.0	L AO N CH
+law	1.0	L AO
+lay	1.0	L EY
+lazy	1.0	L EY Z IY
+leaf	1.0	L IY F
+learn	1.0	L AH R N
+learned	1.0	L AH R N D
+learnt	1.0	L AH R N T
+least	1.0	L IY S T
+leave	1.0	L IY V
+leave	1.0	L IY W
+leaves	1.0	L IY V Z
+leaves	1.0	L IY W Z
+leaving	1.0	L IY V IH NG
+leaving	1.0	L IY W IH NG
+left	1.0	L EH F T
+legs	1.0	L EH G Z
+less	1.0	L EH S
+lesson	1.0	L EH S AH N
+let	1.0	L EH T
+let's	1.0	L EH T S
+lets	1.0	L EH T S
+leuk	1.0	L EY UH K
+lie	1.0	L AY
+life	1.0	L AY F
+lift	1.0	L IH F T
+light	1.0	L AY T
+lighter	1.0	L AY T AH R
+lights	1.0	L AY T S
+like	1.0	L AY K
+likes	1.0	L AY K S
+likewise	1.0	L AY K W AY Z
+limbs	1.0	L IH M B Z
+lion	1.0	L AA Y AH N
+lions	1.0	L AA Y AH N S
+lions	1.0	L AA Y AH N Z
+listen	1.0	L IH S AH N
+listen	1.0	L IH S EH N
+listening	1.0	L IH S AH N IH NG
+listening	1.0	L IH S N IH NG
+little	1.0	L IH T IH L
+little	1.0	L IH T L
+live	1.0	L IH V
+live	1.0	L IH W
+lived	1.0	L IH V D
+lived	1.0	L IH W D
+living	1.0	L IH V IH NG
+living	1.0	L IH W IH NG
+lizard	1.0	L IH Z AH R D
+load	1.0	L OW D
+loaded	1.0	L OW D EH D
+lonely	1.0	L OW N L IY
+long	1.0	L AO NG
+look	1.0	L UH K
+looked	1.0	L UH K D
+looking	1.0	L UH K IH NG
+loose	1.0	L UW Z
+lose	1.0	L UW Z
+loss	1.0	L AO S
+lost	1.0	L AO S T
+lot	1.0	L AO T
+lots	1.0	L AO T S
+loud	1.0	L AW D
+loudly	1.0	L AW D L IY
+love	1.0	L AH V
+love	1.0	L AH W
+lovely	1.0	L AH V L IY
+lovely	1.0	L AH W L IY
+low	1.0	L OW
+luckily	1.0	L AH K IH L IY
+lucky	1.0	L AH K IY
+lucy	1.0	L UW S IY
+lunch	1.0	L AH N CH
+lying	1.0	L AY IH NG
+lying	1.0	L AY NG
+made	1.0	M EY D
+magician	1.0	M AE JH IH SH IY AH N
+magnifying	1.0	M AE G N IH F AA Y IH NG
+magnifying	1.0	M AE G N IH F AY NG
+main	1.0	M EY N
+make	1.0	M EY K
+making	1.0	M EY K IH NG
+man	1.0	M AE N
+man's	1.0	M AE N S
+manage	1.0	M AE N EH JH
+managed	1.0	M AE N EH JH D
+manager	1.0	M AE N EY JH AH R
+mango	1.0	M AE NG G OW
+mangoes	1.0	M AE NG G OW Z
+many	1.0	M EH N IY
+market	1.0	M AA R K EH T
+marketplace	1.0	M AA R K EH T P L EY S
+master	1.0	M AA S T AH R
+master's	1.0	M AA S T AH R S
+mate	1.0	M EY T
+mater	1.0	M EY T AH R
+matter	1.0	M AE T AH R
+may	1.0	M EY
+me	1.0	M IY
+mean	1.0	M IY N
+meat	1.0	M IY T
+meet	1.0	M IY T
+meeting	1.0	M IY T IH NG
+melt	1.0	M EH L T
+member	1.0	M EH M B AH R
+members	1.0	M EH M B AH R S
+members	1.0	M EH M B AH R Z
+men	1.0	M EH N
+merchant	1.0	M AH R CH EH N T
+merciless	1.0	M AH R S IH L EH S
+merrily	1.0	M EH R IH L IY
+met	1.0	M EH T
+middle	1.0	M IH D AH L
+might	1.0	M AH IH T
+might	1.0	M AY T
+mighty	1.0	M AY T IY
+miles	1.0	M AY L S
+milk	1.0	M IH L K
+mills	1.0	M IH L S
+mills	1.0	M IH L Z
+mind	1.0	M AY N D
+minister	1.0	M IH N IH S T AH R
+ministers	1.0	M IH N IH S T AH R S
+minute	1.0	M AY N Y UW TH
+minute	1.0	M IH N IH T
+minutes	1.0	M IH N IH T S
+miss	1.0	M IH S
+missed	1.0	M IH S D
+missus	1.0	M IH S AH S
+missus	1.0	M IH S AH Z
+mistakes	1.0	M IH S T EY K S
+mister	1.0	M IH S T AH R
+mom	1.0	M AO M
+moment	1.0	M OW M EH N T
+money	1.0	M AH N IY
+monkey	1.0	M AH N K IY
+monster	1.0	M AO N S T AH R
+moon	1.0	M UW N
+more	1.0	M OW R
+moreover	1.0	M OW R OW V AH R
+moreover	1.0	M OW R OW W AH R
+morning	1.0	M AO R N IH NG
+mosquito	1.0	M AH S K IY T OW
+most	1.0	M OW S T
+mother	1.0	M AH DH AH R
+motion	1.0	M OW SH AH N
+move	1.0	M UW V
+move	1.0	M UW W
+movement	1.0	M UW V M EH N T
+movement	1.0	M UW W M EH N T
+movie	1.0	M UW V IY
+movie	1.0	M UW W IY
+mr	1.0	M IH S T AH R
+mrs	1.0	M IH S EH S
+mrs	1.0	M IH S IH Z
+much	1.0	M AH CH
+mud	1.0	M AH D
+muddy	1.0	M AH D IY
+must	1.0	M AH S T
+my	1.0	M AY
+myself	1.0	M AY S EH L F
+nail	1.0	N EY L
+nails	1.0	N EY L S
+name	1.0	N EY M
+named	1.0	N EY M D
+names	1.0	N EY M S
+nap	1.0	N AE P
+narrated	1.0	N AE R EY T EH D
+naseer	1.0	N AH S IY R
+naseer's	1.0	N AH S IY R S
+nashiruddin	1.0	N AH SH IH R UH DH DH IH N
+nasruddin	1.0	N AH S R UH DH IY N
+naughty	1.0	N AO T IY
+near	1.0	N IH AH R
+nearest	1.0	N IH AH R EH S T
+necessary	1.0	N EH S EH S AH R IY
+neck	1.0	N EH K
+nee	1.0	N IY
+need	1.0	N IY D
+needed	1.0	N IY D EH D
+needs	1.0	N IY D S
+neighbor	1.0	N EY B AH R
+neighbor's	1.0	N EY B AH R Z
+neighbors	1.0	N EY B AH R Z
+neighbour	1.0	N EY B AH R
+neighbour's	1.0	N EY B AH R Z
+neighbours	1.0	N EY B AH R Z
+neither	1.0	N AY DH AH R
+neither	1.0	N IY DH AH R
+nest	1.0	N EH S T
+net	1.0	N EH T
+nets	1.0	N EH T S
+never	1.0	N EH V AH R
+never	1.0	N EH W AH R
+new	1.0	N Y UW
+next	1.0	N EH K S T
+nice	1.0	N AY S
+night	1.0	N AY T
+nine	1.0	N AY N
+ninety	1.0	N AY N T IY
+no	1.0	N OW
+nobody	1.0	N OW B AH D IY
+noise	1.0	N OY Z
+noises	1.0	N OY Z EH S
+none	1.0	N AH N
+nor	1.0	N AO R
+not	1.0	N AO T
+notebook	1.0	N OW T B UH K
+nothing	1.0	N AH TH IH NG
+notice	1.0	N OW T IH S
+noticed	1.0	N OW T IH S D
+now	1.0	N AA UH
+now	1.0	N AW
+number	1.0	N AH M B AH R
+nurse	1.0	N AH R S
+nuts	1.0	N AH T S
+o'clock	1.0	OW K L AO K
+obesity	1.0	OW B EY S IH T IY
+ocean	1.0	OW SH AH N
+october	1.0	AO K T OW B AH R
+of	1.0	AO F
+off	1.0	AO F
+offense	1.0	AO F EH N S
+offered	1.0	AO F AH R D
+oh	1.0	OW HH
+old	1.0	OW L D
+on	1.0	AO N
+once	1.0	W AH N S
+one	1.0	W AH N
+only	1.0	OW N L IY
+onto	1.0	AO N T UW
+open	1.0	OW P AH N
+option	1.0	AO P SH AH N
+or	1.0	AO R
+order	1.0	AO R D AH R
+ordered	1.0	AO R D AH R D
+organized	1.0	AO R G AH N AY Z D
+other	1.0	AH DH AH R
+others	1.0	AH DH AH R S
+others	1.0	AH DH AH R Z
+others'	1.0	AH DH AH R S
+others'	1.0	AH DH AH R Z
+our	1.0	AA R
+ourself	1.0	AA R S EH L F
+ourselves	1.0	AA R S EH L V Z
+ourselves	1.0	AA R S EH L W Z
+out	1.0	AW T
+outside	1.0	AW T S AY D
+over	1.0	OW V AH R
+over	1.0	OW W AH R
+overlapped	1.0	OW V AH R L AE P D
+overlapped	1.0	OW W AH R L AE P D
+own	1.0	OW N
+owner	1.0	OW N AH R
+pack	1.0	P AE K
+packs	1.0	P AE K S
+paid	1.0	P EY D
+pain	1.0	P EY N
+paint	1.0	P EY N T
+painted	1.0	P EY N T EH D
+paise	1.0	P EY S EY
+pan	1.0	P AE N
+panther	1.0	P AE N TH AH R
+paper	1.0	P EY P AH R
+pardon	1.0	P AA R D AH N
+parent	1.0	P AE R EH N T
+parents	1.0	P AE R EH N T S
+park	1.0	P AA R K
+part	1.0	P AA R T
+parts	1.0	P AA R T S
+party	1.0	P AA R T IY
+pass	1.0	P AA S
+passed	1.0	P AA S D
+passing	1.0	P AA S IH NG
+past	1.0	P AA S T
+pat	1.0	P AE T
+path	1.0	P AA TH
+patrick	1.0	P AE T R IH K
+patterns	1.0	P AE T AH R N S
+pause	1.0	P AO Z
+paused	1.0	P AO Z D
+pausing	1.0	P AO Z IH NG
+paws	1.0	P AW Z
+pay	1.0	P EY
+payment	1.0	P EY M EH N T
+pays	1.0	P EY Z
+peace	1.0	P IY S
+peel	1.0	P IY L
+peep	1.0	P IY P
+peeped	1.0	P IY P D
+pen	1.0	P EH N
+penalty	1.0	P EH N AH L T IY
+pens	1.0	P EH N S
+people	1.0	P IY P AH L
+people's	1.0	P IY P AH L S
+people's	1.0	P IY P AH L Z
+per	1.0	P AH R
+perform	1.0	P AH R F AO R M
+person	1.0	P AH R S AH N
+person's	1.0	P AH R S AH N S
+persuasive	1.0	P AH R S UH EY S IH V
+persuasive	1.0	P AH R S UH EY S IH W
+pest	1.0	P EH S T
+pesticides	1.0	P EH S T IY S AY D S
+pests	1.0	P EH S T S
+pet	1.0	P EH T
+peter	1.0	P IY T AH R
+peter's	1.0	P IY T AH R S
+pets	1.0	P EH T S
+pick	1.0	P IH K
+picked	1.0	P IH K D
+picking	1.0	P IH K IH NG
+picnic	1.0	P IH K N IH K
+pictures	1.0	P IH CH AH R S
+pictures	1.0	P IH K CH AH R S
+piece	1.0	P IY S
+pieces	1.0	P IY S EH S
+pipe	1.0	P AY P
+pit	1.0	P IH T
+place	1.0	P L EY S
+placed	1.0	P L EY S D
+plan	1.0	P L AE N
+plane	1.0	P L EY N
+plant	1.0	P L AA N T
+planted	1.0	P L AA N T EH D
+plants	1.0	P L AA N T S
+plate	1.0	P L EY T
+play	1.0	P L EY
+played	1.0	P L EY D
+playing	1.0	P L EY IH NG
+please	1.0	P L IY Z
+ploy	1.0	P L OY
+plucked	1.0	P L AH K D
+point	1.0	P OY N T
+pointed	1.0	P OY N T EH D
+pointing	1.0	P OY N T IH NG
+polar	1.0	P OW L AA R
+pond	1.0	P AO N D
+pool	1.0	P UW L
+poor	1.0	P UW AH R
+pose	1.0	P OW Z
+position	1.0	P OW Z IH SH AH N
+possession	1.0	P AH Z EH SH AH N
+possessions	1.0	P AH Z EH SH AH N S
+possessions	1.0	P AH Z EH SH AH N Z
+possible	1.0	P AO S IH B AH L
+post	1.0	P OW S T
+pot	1.0	P AO T
+potato	1.0	P OW T AE T OW
+potatoes	1.0	P OW T AE T OW Z
+pots	1.0	P AO T S
+poured	1.0	P OW R D
+practice	1.0	P R AE K T IH S
+pradeep	1.0	P R AH DH IY P
+praised	1.0	P R EY Z D
+prank	1.0	P R AE N K
+pranks	1.0	P R AE N K S
+prateek	1.0	P R AH TH IY K
+precious	1.0	P R EH SH AH S
+present	1.0	P R EH Z EH N T
+present	1.0	P R IH Z EH N T
+presented	1.0	P R EH Z EH N T EH D
+pretending	1.0	P R IH T EH N D IH NG
+pretentious	1.0	P R IH T EH N SH AH S
+pretty	1.0	P R IH T IY
+price	1.0	P R AY S
+prime	1.0	P R AY M
+problem	1.0	P R AO B L AH M
+problems	1.0	P R AO B L AH M S
+produce	1.0	P R OW D Y UW S
+products	1.0	P R AO D AH K T S
+pronounced	1.0	P R OW N AW N S D
+property	1.0	P R AO P AH R T IY
+proposed	1.0	P R AH P OW Z D
+prove	1.0	P R UW V
+prove	1.0	P R UW W
+proves	1.0	P R UW V Z
+proves	1.0	P R UW W Z
+public	1.0	P AH B L IH K
+puddle	1.0	P AH D AH L
+pull	1.0	P UH L
+pulled	1.0	P UH L D
+pumpkin	1.0	P AH M K IH N
+pumpkins	1.0	P AH M K IH N S
+punish	1.0	P AH N IH SH
+purchase	1.0	P AH R CH EY S
+purchased	1.0	P AH R CH EY S D
+push	1.0	P UH SH
+put	1.0	P UH T
+put	1.0	P UH TH
+quality	1.0	K W AA L IH T IY
+quench	1.0	K W EH N CH
+quenched	1.0	K W EH N CH D
+question	1.0	K W EH S CH AH N
+questions	1.0	K W EH S CH AH N S
+queue	1.0	K Y UW
+quickly	1.0	K W IH K L IY
+quite	1.0	K W AY T
+race	1.0	R EY S
+rain	1.0	R EY N
+ram	1.0	R AA M
+ram	1.0	R AE M
+ram's	1.0	R AA M S
+ramesh	1.0	R AH M EY SH
+ran	1.0	R AE N
+rank	1.0	R AE N K
+rat	1.0	R AE T
+rats	1.0	R AE T S
+ray	1.0	R EY
+reach	1.0	R IY CH
+reached	1.0	R IY CH D
+reaction	1.0	R IY AE K SH AH N
+realize	1.0	R IY AH L AY Z
+realized	1.0	R IY AH L AY Z D
+really	1.0	R IY AH L IY
+reason	1.0	R IY Z AH N
+receipt	1.0	R IH S IH T
+receive	1.0	R IH S IY V
+receive	1.0	R IH S IY W
+received	1.0	R IH S IY V D
+received	1.0	R IH S IY W D
+recipe	1.0	R EH S IH P IY
+recovered	1.0	R IH K AH V AH R D
+recovered	1.0	R IH K AH W AH R D
+reduce	1.0	R IH D Y UW S
+reduced	1.0	R IH D Y UW S D
+reducing	1.0	R IH D Y UW S IH NG
+reflection	1.0	R IH F L EY K SH AH N
+refrigerator	1.0	R EH F R IH JH AH R EY T AH R
+refused	1.0	R IH F Y UW S D
+regularly	1.0	R EH G Y UH L AH R
+relatives	1.0	R IH L EY T IH V Z
+relatives	1.0	R IH L EY T IH W Z
+release	1.0	R IH L IY Z
+released	1.0	R IH L IY Z D
+relieve	1.0	R IH L IY V
+relieve	1.0	R IH L IY W
+relieved	1.0	R IH L IY V D
+relieved	1.0	R IH L IY W D
+remain	1.0	R IH M EY N
+remains	1.0	R IH M EY N S
+remains	1.0	R IH M EY N Z
+remember	1.0	R IH M EH M B AH R
+remove	1.0	R IH M UW V
+remove	1.0	R IH M UW W
+removed	1.0	R IH M UW V D
+removed	1.0	R IH M UW W D
+removing	1.0	R IH M UW V IH NG
+removing	1.0	R IH M UW W IH NG
+repainting	1.0	R IH P EY N T IH NG
+replaced	1.0	R IH P L EY S D
+replacement	1.0	R IH P L EY S M EH N T
+replay	1.0	R IH P L EY
+replayed	1.0	R IH P L EY D
+replied	1.0	R IH P L AY D
+reply	1.0	R IH P L AY
+rescue	1.0	R EH S K Y UW
+research	1.0	R IH S AH R CH
+resource	1.0	R IH S OW R S
+resources	1.0	R IH S OW R S EH S
+respect	1.0	R IH S P EY K T
+respective	1.0	R IH S P EY K T IH V
+respective	1.0	R IH S P EY K T IH W
+respond	1.0	R IH S P AO N D
+response	1.0	R IH S P AO N S
+restaurant	1.0	R EH S T AO R AE N T
+restaurant	1.0	R EH S T R AO N
+restoring	1.0	R IH S T OW R IH NG
+result	1.0	R IH Z AH L T
+retired	1.0	R IH T AY R D
+return	1.0	R IH T AH R N
+returned	1.0	R IH T AH R N D
+returning	1.0	R IH T AH R N IH NG
+returns	1.0	R IH T AH R N S
+rewarded	1.0	R IH W AO R D EH D
+rice	1.0	R AY S
+rich	1.0	R IH CH
+ricky	1.0	R IH K IY
+ricky's	1.0	R IH K IY Z
+riding	1.0	R AY D IH NG
+right	1.0	R AY T
+rising	1.0	R AY Z IH NG
+rita	1.0	R IY T AA
+river	1.0	R IH V AH R
+river	1.0	R IH W AH R
+riverside	1.0	R IH V AH R S AY D
+riverside	1.0	R IH W AH R S AY D
+road	1.0	R OW D
+roaming	1.0	R OW M IH NG
+rode	1.0	R OW D
+room	1.0	R UW M
+root	1.0	R UW T
+roots	1.0	R UW T S
+rope	1.0	R OW P
+route	1.0	R UW T
+row	1.0	R OW
+rubbing	1.0	R AH B IH NG
+ruin	1.0	R UW IH N
+ruled	1.0	R UW L D
+run	1.0	R AH N
+running	1.0	R AH N IH NG
+rupees	1.0	R UH P IY Z
+rushing	1.0	R AH SH IH NG
+sad	1.0	S AE D
+said	1.0	S EH D
+saint	1.0	S EY N T
+salt	1.0	S AO L T
+same	1.0	S EY M
+sand	1.0	S AE N D
+sat	1.0	S AE T
+satisfaction	1.0	S AE T IH S F AE K SH AH N
+satisfy	1.0	S AE T IH S F AY
+save	1.0	S EY V
+save	1.0	S EY W
+saved	1.0	S EY V D
+saved	1.0	S EY W D
+saving	1.0	S EY V IH NG
+saving	1.0	S EY W IH NG
+saw	1.0	S AO
+say	1.0	S EY
+saying	1.0	S EY IH NG
+scales	1.0	S K EY L S
+scales	1.0	S K EY L Z
+scan	1.0	S K AE N
+scar	1.0	S K AA R
+scarcely	1.0	S K AA R S L IY
+scare	1.0	S K AE R
+scared	1.0	S K AE R D
+scatter	1.0	S K AE T AH R
+scattered	1.0	S K AE T AH R D
+school	1.0	S K UW L
+science	1.0	S AA Y AH N S
+scientist	1.0	S AY N T IH S T
+scornfully	1.0	S K AO R N F UH L IY
+scratching	1.0	S K R AE CH IH NG
+screamed	1.0	S K R IY M D
+screaming	1.0	S K R IY M IH NG
+sea	1.0	S IY
+seals	1.0	S IY L S
+search	1.0	S AH R CH
+searching	1.0	S AH R CH IH NG
+second	1.0	S EH K EH N D
+see	1.0	S IY
+seed	1.0	S IY D
+seeing	1.0	S IY IH NG
+seem	1.0	S IY M
+seemed	1.0	S IY M D
+seen	1.0	S IY N
+self	1.0	S EH L F
+sell	1.0	S EH L
+selves	1.0	S EH L V Z
+selves	1.0	S EH L W Z
+send	1.0	S EH N D
+sense	1.0	S EH N S
+sentence	1.0	S EH N T EH N S
+separate	1.0	S EH P R EY T
+separated	1.0	S EH P AH R EY T EH D
+seriously	1.0	S IY R IY AH S L IY
+servant	1.0	S AH R V AH N T
+servant	1.0	S AH R W AH N T
+servants	1.0	S AH R V AH N T S
+servants	1.0	S AH R W AH N T S
+served	1.0	S AH R V D
+served	1.0	S AH R W D
+set	1.0	S EH T
+settlement	1.0	S EH T AH L M EH N T
+shade	1.0	SH EY D
+sharp	1.0	SH AA R P
+sharpshooter	1.0	SH AA R P SH UW T AH R
+she	1.0	SH IY
+sheep	1.0	SH IY P
+sheepishly	1.0	SH IY P IH SH L IY
+shepherd	1.0	SH EY P AH R D
+shine	1.0	SH AY N
+ship	1.0	SH IH P
+ships	1.0	SH IH P S
+shocked	1.0	SH AO K D
+shoe	1.0	SH UW
+shoot	1.0	SH UW T
+shooting	1.0	SH UW T IH NG
+shop	1.0	SH AO P
+shopkeeper	1.0	SH AO P K IY P AH R
+shore	1.0	SH OW R
+short	1.0	SH AO R T
+shorting	1.0	SH AO R T IH NG
+shot	1.0	SH AO T
+should	1.0	SH UH D
+shout	1.0	SH AW T
+shouted	1.0	SH AW T EH D
+shouting	1.0	SH AW T IH NG
+show	1.0	SH OW
+showed	1.0	SH OW D
+showing	1.0	SH OW IH NG
+showroom	1.0	SH OW R UW M
+shy	1.0	SH AY
+side	1.0	S AY D
+sigh	1.0	S AY
+sight	1.0	S AY T
+sign	1.0	S AY N
+silence	1.0	S AY L EY N S
+silliness	1.0	S IH L IY N EH S
+silly	1.0	S IH L IY
+simple	1.0	S IH M P AH L
+since	1.0	S IH N S
+single	1.0	S IH NG G AH L
+sir	1.0	S AH R
+sister	1.0	S IH S T AH R
+sisters	1.0	S IH S T AH R S
+sit	1.0	S IH T
+site	1.0	S AY T
+sitting	1.0	S IH T IH NG
+situation	1.0	S IH CH Y UH EY SH AH N
+skid	1.0	S K IH D
+skidded	1.0	S K IH D EH D
+skirt	1.0	S K AH R T
+sky	1.0	S K AY
+slap	1.0	S L AE P
+slapped	1.0	S L AE P D
+sleep	1.0	S L IY P
+sleeping	1.0	S L IY P IH NG
+sleeve	1.0	S L IY V
+sleeve	1.0	S L IY W
+slept	1.0	S L EH P T
+slipped	1.0	S L IH P D
+slowly	1.0	S L OW L IY
+small	1.0	S M AO L
+smaller	1.0	S M AO L AH R
+smart	1.0	S M AA R T
+smartness	1.0	S M AA R T N EH S
+smashed	1.0	S M AE SH D
+smell	1.0	S M EH L
+smiled	1.0	S M AY L D
+smoke	1.0	S M OW K
+snatched	1.0	S N AE CH D
+sniff	1.0	S N IH F
+sniffed	1.0	S N IH F D
+so	1.0	S OW
+soft	1.0	S OW F T
+soil	1.0	S OY L
+sold	1.0	S OW L D
+solution	1.0	S OW L Y UH SH AH N
+some	1.0	S AH M
+somehow	1.0	S AH M HH AW
+someone	1.0	S AH M W AH N
+something	1.0	S AH M TH IH NG
+somethings	1.0	S AH M TH IH NG Z
+son	1.0	S AH N
+soon	1.0	S UW N
+sort	1.0	S AO R T
+sorting	1.0	S AO R T IH NG
+soup	1.0	S UW P
+source	1.0	S OW R S
+space	1.0	S P EY S
+spare	1.0	S P EY R
+speak	1.0	S P IY K
+speechless	1.0	S P IY CH L EH S
+spindly	1.0	S P IH N D L IY
+splashed	1.0	S P L AE SH D
+spoke	1.0	S P OW K
+spoken	1.0	S P OW K AH N
+spot	1.0	S P AO T
+sprang	1.0	S P R AE NG
+stain	1.0	S T EY N
+stains	1.0	S T EY N S
+stand	1.0	S T AE N D
+standing	1.0	S T AE N D IH NG
+starfish	1.0	S T AA R F IH SH
+start	1.0	S T AA R T
+started	1.0	S T AA R T EH D
+startled	1.0	S T AA R T AH L D
+state	1.0	S T EY T
+stationery	1.0	S T EY SH N AH R IY
+stay	1.0	S T EY
+steal	1.0	S T IY L
+stealing	1.0	S T IY L IH NG
+stem	1.0	S T EH M
+step	1.0	S T EH P
+stepped	1.0	S T EH P D
+stew	1.0	S T Y UW
+stick	1.0	S T IH K
+sticks	1.0	S T IH K S
+stiff	1.0	S T IH F
+still	1.0	S T IH L
+stole	1.0	S T OW L
+stomach	1.0	S T AH M AH K
+stone	1.0	S T OW N
+stones	1.0	S T OW N S
+stood	1.0	S T UH D
+stop	1.0	S T AO P
+stopped	1.0	S T AO P D
+store	1.0	S T OW R
+storm	1.0	S T AO R M
+story	1.0	S T OW R IY
+stout	1.0	S T AW T
+straight	1.0	S T R EY T
+strain	1.0	S T R EY N
+strange	1.0	S T R EY N JH
+stranger	1.0	S T R EY N JH AH R
+stretching	1.0	S T R EH CH IH NG
+striking	1.0	S T R AY K IH NG
+strong	1.0	S T R AO NG
+stronger	1.0	S T R AO NG G AH R
+struck	1.0	S T R AH K
+struggle	1.0	S T R AH G AH L
+struggled	1.0	S T R AH G AH L D
+stuck	1.0	S T AH K
+student	1.0	S T UH DH AH N T
+students	1.0	S T UH DH AH N T S
+studied	1.0	S T AH D IY D
+subject	1.0	S AH B JH EH K T
+succeed	1.0	S AH K S IY D
+such	1.0	S AH CH
+suck	1.0	S AH K
+suddenly	1.0	S AH D AH N L IY
+sufficient	1.0	S AH F IH SH IY AH N T
+suicide	1.0	S UW IH S AY D
+sum	1.0	S AH M
+summer	1.0	S AH M AH R
+sun	1.0	S AH N
+sunny	1.0	S AH N IY
+sunshine	1.0	S AH N SH AY N
+sure	1.0	SH AO R
+surely	1.0	SH AO R L IY
+suresh	1.0	S UH R EY SH
+surprise	1.0	S AH R P R AY Z
+surprised	1.0	S AH R P R AY Z D
+surprisingly	1.0	S AH R P R AY Z IH NG L IY
+survive	1.0	S AH R V AY V
+survive	1.0	S AH R W AY W
+swam	1.0	S W AE M
+swim	1.0	S W IH M
+switch	1.0	S W IH CH
+switched	1.0	S W IH CH D
+swooped	1.0	S W UW P D
+tackle	1.0	T AE K AH L
+taffy	1.0	T AE F IY
+tail	1.0	T EY L
+tails	1.0	T EY L S
+take	1.0	T EY K
+takes	1.0	T EY K S
+taking	1.0	T EY K IH NG
+talk	1.0	T AO K
+talking	1.0	T AO K IH NG
+tall	1.0	T AO L
+target	1.0	T AA R G EH T
+targeted	1.0	T AA R G EH T EH D
+targets	1.0	T AA R G EH T S
+taught	1.0	T AO T
+tea	1.0	T IY
+teacher	1.0	T IY CH AH R
+teacher's	1.0	T IY CH AH R S
+team	1.0	T IY M
+tear	1.0	T EY R
+tear	1.0	T IH AH R
+teases	1.0	T IY Z EH S
+teasing	1.0	T IY Z IH NG
+tell	1.0	T EH L
+telling	1.0	T EH L IH NG
+temper	1.0	T EH M P AH R
+ten	1.0	T EH N
+tense	1.0	T EH N S
+terrace	1.0	T AE R EH S
+terror	1.0	T EH R AH R
+test	1.0	T EH S T
+tested	1.0	T EH S T EH D
+testing	1.0	T EH S T IH NG
+tests	1.0	T EH S T S
+tetanus	1.0	T EH T AE N AH S
+tetanus	1.0	T EH T N AH S
+than	1.0	TH AE N
+thank	1.0	TH AE N K
+thanked	1.0	TH AE N K D
+thanks	1.0	TH AE N K S
+that	1.0	DH AE T
+that's	1.0	DH AE T S
+the	1.0	DH AH
+their	1.0	DH EY AH R
+their	1.0	DH EY R
+them	1.0	DH EH M
+themself	1.0	DH EH M S EH L F
+themselves	1.0	DH EH M S EH L V Z
+themselves	1.0	DH EH M S EH L W Z
+then	1.0	DH EH N
+there	1.0	DH AE R
+these	1.0	DH IY Z
+they	1.0	DH EY
+they've	1.0	DH EY HH AE V
+they've	1.0	DH EY HH AE W
+they've	1.0	DH EY V
+they've	1.0	DH EY W
+thick	1.0	TH IH K
+thief	1.0	TH IY F
+thieves	1.0	TH IY V Z
+thieves	1.0	TH IY W Z
+thing	1.0	TH IH NG
+things	1.0	TH IH NG Z
+think	1.0	TH IH NG K
+thinking	1.0	TH IH NG K IH NG
+third	1.0	TH AH R D
+thirst	1.0	TH AH R S T
+thirsty	1.0	TH AH R S T IY
+this	1.0	DH IH S
+thorns	1.0	TH AO R N S
+those	1.0	DH OW Z
+though	1.0	DH OW
+thought	1.0	TH AO T
+thoughts	1.0	TH AO T S
+thousand	1.0	TH AW Z AH N D
+thousands	1.0	TH AW Z AH N D S
+three	1.0	TH R IY
+threw	1.0	TH R Y UW
+throat	1.0	TH R OW T
+thrones	1.0	TH R OW N S
+thrones	1.0	TH R OW N Z
+through	1.0	TH R UW
+throw	1.0	TH R OW
+throwing	1.0	TH R OW IH NG
+thrown	1.0	TH R OW N
+thus	1.0	DH AH S
+tie	1.0	T AY
+tied	1.0	T AY D
+tiff	1.0	T IH F
+till	1.0	T IH L
+time	1.0	T AY M
+timed	1.0	T AY M D
+timid	1.0	T IH M IH D
+tiny	1.0	T AY N IY
+tip	1.0	T IH P
+tire	1.0	T AY R
+tired	1.0	T AY R D
+to	1.0	T UW
+today	1.0	T UH D EY
+toe	1.0	T OW
+together	1.0	T UH G EH DH AH R
+told	1.0	T OW L D
+tolerate	1.0	T AO L AH R EY T
+toll	1.0	T OW L
+tom	1.0	T AO M
+tomb-stones	1.0	T UW M B S T OW N S
+tombs	1.0	T UW M B Z
+tombstones	1.0	T UW M B S T OW N S
+toms	1.0	T AO M S
+toms	1.0	T AO M Z
+tones	1.0	T OW N S
+tones	1.0	T OW N Z
+tongue	1.0	T AH NG
+too	1.0	T UW
+took	1.0	T UH K
+tools	1.0	T UW L S
+tortoise	1.0	T AO R T OY Z
+tortoises	1.0	T AO R T OY Z EH S
+touch	1.0	T AH CH
+toward	1.0	T UH W AH R D
+towards	1.0	T UH W AH R D S
+town	1.0	T AW N
+track	1.0	T R AE K
+transparent	1.0	T R AA N S P EH R EH N T
+transparent	1.0	T R AA N S P R AH N T
+trap	1.0	T R AE P
+trapped	1.0	T R AE P D
+tree	1.0	T R IY
+tree-cutter	1.0	T R IY K AH T AH R
+treecutter	1.0	T R IY K AH T AH R
+trees	1.0	T R IY Z
+tribe	1.0	T R AY B
+tribes	1.0	T R AY B Z
+trick	1.0	T R IH K
+tricks	1.0	T R IH K S
+tried	1.0	T R AY D
+tries	1.0	T R AY Z
+trip	1.0	T R IH P
+trouble	1.0	T R AH B AH L
+troubles	1.0	T R AH B AH L S
+truck	1.0	T R AH K
+trudged	1.0	T R AH JH D
+true	1.0	T R UW
+trunk	1.0	T R AH N K
+trust	1.0	T R AH S T
+truth	1.0	T R UH TH
+try	1.0	T R AY
+trying	1.0	T R AA IH NG
+trying	1.0	T R AY IH NG
+tugged	1.0	T AH G D
+turn	1.0	T AH R N
+turned	1.0	T AH R N D
+turning	1.0	T AH R N IH NG
+turtle	1.0	T AH R T AH L
+twelve	1.0	T W EH L V
+twelve	1.0	T W EH L W
+two	1.0	T UW
+types	1.0	T AY P S
+un	1.0	AH N
+unaware	1.0	AH N AH W EY R
+under	1.0	AH N D AH R
+understand	1.0	AH N D AH R S T AE N D
+until	1.0	AH N T IH L
+unusually	1.0	AH N Y UH JH UH AH L IY
+up	1.0	AH P
+upon	1.0	AH P AO N
+upstream	1.0	AH P S T R IY M
+us	1.0	AH S
+use	1.0	Y UW Z
+used	1.0	Y UW Z D
+useful	1.0	Y UW Z F UH L
+using	1.0	Y UW Z IH NG
+usually	1.0	Y UH JH UH AH L IY
+vain	1.0	V EY N
+vain	1.0	W EY N
+valuable	1.0	V AE L UH EY B AH L
+valuable	1.0	W AE L UH EY B AH L
+varieties	1.0	V AH R AY T IY Z
+varieties	1.0	W AH R AY T IY Z
+variety	1.0	V AH R AY T IY
+variety	1.0	W AH R AY T IY
+vegetables	1.0	V EH JH IH T EY B AH L S
+vegetables	1.0	W EH JH IH T EY B AH L S
+verdict	1.0	V AH R D IH K T
+verdict	1.0	W AH R D IH K T
+very	1.0	V EH R IY
+very	1.0	W EH R IY
+vessel	1.0	V EH S AH L
+vessel	1.0	W EH S AH L
+vessels	1.0	V EH S AH L S
+vessels	1.0	W EH S AH L S
+veterinary	1.0	V EH T R IH N AH R IY
+veterinary	1.0	W EH T R IH N AH R IY
+village	1.0	V IH L EY JH
+village	1.0	W IH L EY JH
+villager	1.0	V IH L EY JH AH R
+villager	1.0	W IH L EY JH AH R
+villagers	1.0	V IH L EY JH AH R S
+villagers	1.0	V IH L EY JH AH R Z
+villagers	1.0	W IH L EY JH AH R S
+villagers	1.0	W IH L EY JH AH R Z
+vines	1.0	V AY N S
+vines	1.0	W AY N S
+visible	1.0	V IH Z IH B AH L
+visible	1.0	W IH Z IH B AH L
+voice	1.0	V OY S
+voice	1.0	W OY S
+vote	1.0	V OW T
+vote	1.0	W OW T
+voted	1.0	V OW T EH D
+voted	1.0	W OW T EH D
+wait	1.0	W EY T
+waited	1.0	W EY T EH D
+walk	1.0	W AO K
+walked	1.0	W AO K D
+walking	1.0	W AO K IH NG
+wall	1.0	W AO L
+walnut	1.0	W AO L N AH T
+walnuts	1.0	W AO L N AH T S
+want	1.0	W AO N T
+wanted	1.0	W AO N T EH D
+wanting	1.0	W AO N T IH NG
+war	1.0	W AO R
+ware	1.0	W EY R
+warned	1.0	W AO R N D
+was	1.0	W AO Z
+wash	1.0	W AO SH
+washed	1.0	W AO SH D
+washington	1.0	W AO SH IH NG T AH N
+wasn't	1.0	W AO Z AH N T
+watch	1.0	W AO CH
+watching	1.0	W AO CH IH NG
+water	1.0	W AO T AH R
+watered	1.0	W AO T AH R D
+waters	1.0	W AO T AH R S
+wave	1.0	W EY V
+wave	1.0	W EY W
+way	1.0	W EY
+ways	1.0	W EY Z
+we	1.0	W IY
+weak	1.0	W IY K
+weaker	1.0	W IY K AH R
+wear	1.0	W EY R
+wearing	1.0	W EY R IH NG
+weeks	1.0	W IY K S
+weight	1.0	W EY T
+well	1.0	W EH L
+well-off	1.0	W EH L AO F
+went	1.0	W EH N T
+werdick	1.0	W EH R D IH K
+were	1.0	W AH R
+weren't	1.0	W AH R N T
+what	1.0	W AO T
+what	1.0	W HH AO T
+what's	1.0	W AO T S
+what's	1.0	W HH AO T S
+whatever	1.0	W AO T EH V AH R
+whatever	1.0	W AO T EH W AH R
+whatever	1.0	W HH AO T EH V AH R
+whatever	1.0	W HH AO T EH W AH R
+whats	1.0	W HH AA T S
+when	1.0	W EH N
+when	1.0	W HH EH N
+where	1.0	W EY R
+where	1.0	W HH EY R
+whether	1.0	W EH DH AH R
+whether	1.0	W HH EH DH AH R
+which	1.0	W IH CH
+while	1.0	W AY L
+while	1.0	W HH AY L
+whip	1.0	W HH IH P
+whispered	1.0	W HH IH S P AH R D
+who	1.0	HH UW
+whole	1.0	HH OW L
+whose	1.0	HH UW Z
+why	1.0	W HH AA Y
+why	1.0	W HH AY
+wife	1.0	W AY F
+wife's	1.0	W AY F S
+wild	1.0	W AY L D
+will	1.0	W IH L
+wind	1.0	W AY N D
+wind	1.0	W IH N D
+wing	1.0	W IH NG
+wings	1.0	W IH NG Z
+winning	1.0	W IH N IH NG
+wiped	1.0	W AY P D
+wisdom	1.0	W IH Z D AH M
+wise	1.0	W AY Z
+wish	1.0	W IH SH
+wit	1.0	W IH T
+with	1.0	W IH DH
+with	1.0	W IH TH
+without	1.0	W IH DH AW T
+witnesses	1.0	W IH T N EH S EH S
+woke	1.0	W OW K
+wolf	1.0	W UW L F
+wolve	1.0	W UW L V
+wolve	1.0	W UW L W
+wolves	1.0	W UW L V Z
+wolves	1.0	W UW L W Z
+won't	1.0	W OW N T
+wondered	1.0	W AH N D AH R D
+wood	1.0	W UH D
+wood-cutter	1.0	W UH D K AH T AH R
+woodcutter	1.0	W UH D K AH T AH R
+woodman	1.0	W UH D M AE N
+woodman	1.0	W UH D M AH N
+woods	1.0	W UH D S
+woodsman	1.0	W UH D S M AE N
+woodsman	1.0	W UH D S M AH N
+wool	1.0	W UH L
+word	1.0	W AH R D
+words	1.0	W AH R D S
+wore	1.0	W OW R
+work	1.0	W AH R K
+worker	1.0	W AH R K AH R
+working	1.0	W AH R K IH NG
+world	1.0	W AH R L D
+worried	1.0	W AH R IY D
+worry	1.0	W AH R IY
+worth	1.0	W AH R TH
+would	1.0	W UH D
+wouldn't	1.0	W UH D AH N T
+wounded	1.0	W AW N D EH D
+wounded	1.0	W UH N D EH D
+write	1.0	R AY T
+wrote	1.0	R OW T
+yard	1.0	Y AA R D
+year	1.0	Y AH R
+yes	1.0	Y EH S
+you	1.0	Y UW
+young	1.0	Y AH NG
+your	1.0	Y AO R
+yours	1.0	Y AO R S
+youth	1.0	Y UW TH
+youths	1.0	Y UW TH S
+zoo	1.0	Z UW
+zoos	1.0	Z UW S
+अ	1.0	AH
+अंटर	1.0	AH N T AH R
+अक्स	1.0	AH K S
+अट्याटिंग	1.0	AH T Y AA T IH NG
+अणि	1.0	AH N N IH
+अन	1.0	AH N AH
+अनि	1.0	AH N IH
+अनी	1.0	AH N IY
+अपोर्चड	1.0	AH P OW R CH AH D
+अप्र	1.0	AH P R AH
+अफ	1.0	AH F
+अफेड	1.0	AH F EY D
+अर	1.0	AH R AH
+अस	1.0	AH S
+अस्क	1.0	AH S K
+अस्ट	1.0	AH S T
+अ‍ॅ	1.0	AE
+अ‍ॅत	1.0	AE TH
+अ‍ॅनाय	1.0	AE N AA Y
+अ‍ॅब्स	1.0	AE B S
+अ‍ॅम्ब्रेस्टेट	1.0	AE M B R EH S T EY T
+आ	1.0	AA
+आक्स	1.0	AA K S
+आक्सड	1.0	AA K S AH D
+आशिआ	1.0	AA SH IH AA
+आस	1.0	AA S
+आसकेड	1.0	AA S AH K EY D
+आस्कड	1.0	AA S K AH D
+आस्केड	1.0	AA S K EY D
+आस्ट	1.0	AA S T
+इ	1.0	IH
+इंग	1.0	IH NG
+इड	1.0	IH D AH
+इत	1.0	IH TH AH
+इम	1.0	IH M
+इर	1.0	IH R AH
+ई	1.0	IY
+ए	1.0	EY
+एंस	1.0	EH N S
+एक्स	1.0	EH K S
+एक्सपेट	1.0	EH K S P EY T
+एथर	1.0	EY TH AH R
+एमब्रॅसेस्ड	1.0	EH M B R AE S EY S D
+एम्बरेस	1.0	EH M B AH R EY S
+एम्ब्रॅस्ड	1.0	EH M B R AE S D
+एल	1.0	EY L
+एस	1.0	EY S
+एसिडन्स	1.0	EY S IH D AH N S
+ऑ	1.0	AO
+ऑप	1.0	AO P
+ऑब	1.0	AO B
+ऑर्थ	1.0	AO R TH
+ओ	1.0	OW
+ओल	1.0	OW L
+ओवस	1.0	OW W AH S
+क	1.0	K AH
+कंडि	1.0	K AH N D IH
+कन्स्टन्ट	1.0	K AH N S T AH N T
+कान	1.0	K AA N
+किन्ड	1.0	K IH N D
+किप्ट	1.0	K IH P T
+कुलप्रित	1.0	K UH L P R IH TH
+कुल्ड	1.0	K UH L D
+कॅ	1.0	K AE
+कॅम	1.0	K AE M
+कॅरि	1.0	K AE R IH
+के	1.0	K EY
+केट	1.0	K EY T
+केन	1.0	K EY N
+केम्स	1.0	K EY M S
+कॉच	1.0	K AO CH
+कॉन	1.0	K AO N
+कॉन्स	1.0	K AO N S
+को	1.0	K OW
+कोमिट	1.0	K OW M IH T
+क्रिएचर	1.0	K R IH EY CH AH R
+क्रिएचर्स	1.0	K R IH EY CH AH R S
+क्लॅ	1.0	K L AE
+क्ल्या	1.0	K L Y AA
+ग	1.0	G AH
+गिट	1.0	G IH T
+गुल्ड	1.0	G UH L D
+गॉट्स	1.0	G AO T S
+गोड	1.0	G OW D
+गोस्ट	1.0	G OW S T
+ग्रा	1.0	G R AA
+ग्रेम्स	1.0	G R EY M S
+ज	1.0	JH AH
+जनी	1.0	JH AH N IY
+जम्मि	1.0	JH AH M M IH
+जे	1.0	JH EY
+ट	1.0	T AH
+टि	1.0	T IH
+टिसिंग	1.0	T IH S IH NG
+टीस	1.0	T IY S
+टुम	1.0	T UH M
+टुवेल	1.0	T UH W EY L
+टे	1.0	T EY
+टेड	1.0	T EY D
+टो	1.0	T OW
+टोक	1.0	T OW K
+टोम्ब	1.0	T OW M B
+टोम्बस्टोंस	1.0	T OW M B S T OW N S
+टोम्स	1.0	T OW M S
+टोर्न्स	1.0	T OW R N S
+ट्म	1.0	T AH M
+ट्रग	1.0	T R AH G
+ट्राइज	1.0	T R AA IH JH
+ट्रिब	1.0	T R IH B
+ट्रिब्स	1.0	T R IH B S
+ट्रॅ	1.0	T R AE
+ट्रॅकल	1.0	T R AE K AH L
+ट्रे	1.0	T R EY
+ट्रो	1.0	T R OW
+ट्रोंस	1.0	T R OW N S
+ड	1.0	D AH
+डा	1.0	D AA
+डानज़िल	1.0	D AA N AH Z IH L
+डि	1.0	D IH
+डिफ	1.0	D IH F
+डिफिक	1.0	D IH P HH IH K
+डी	1.0	D IY
+डेजिल	1.0	D EY JH IH L
+डेन	1.0	D EY N
+डॉन	1.0	D AO N
+ड्रीन्ट	1.0	D R IY N T
+ड्रोइंग	1.0	D R OW IH NG
+तफ	1.0	TH AH P HH
+तु	1.0	TH UH
+तू	1.0	TH UW
+त्रुत	1.0	TH R UH TH
+त्रुथ	1.0	TH R UH TH
+थ	1.0	TH AH
+थो	1.0	TH OW
+थोट	1.0	TH OW T
+थ्रोन्स	1.0	TH R OW N S
+द	1.0	DH AH
+दट	1.0	DH AH T
+दम	1.0	DH AH M
+दर	1.0	DH AH R
+दिद	1.0	DH IH DH
+दिस	1.0	DH IH S
+दी	1.0	DH IY
+दॅ	1.0	DH AE
+दॅत	1.0	DH AE TH
+देनि	1.0	DH EY N IH
+देम्स	1.0	DH EY M S
+देलि	1.0	DH EY L IH
+देव	1.0	DH EY W
+द्या	1.0	DH Y AA
+द्यानी	1.0	DH Y AA N IY
+ध	1.0	DH HH AH
+न	1.0	N AH
+ना	1.0	N AA
+नाय	1.0	N AA Y
+नि	1.0	N IH
+निनटी	1.0	N IH N T IY
+नीट	1.0	N IY T
+ने	1.0	N EY
+नेदर	1.0	N EY DH AH R
+नेमेड	1.0	N EY M EY D
+नेव	1.0	N EY W
+नेस	1.0	N EY S
+नॉ	1.0	N AO
+नोटीसेड	1.0	N OW T IY S EY D
+नोन	1.0	N OW N
+प	1.0	P AH
+पा	1.0	P AA
+पाइड	1.0	P AY D
+पाओस	1.0	P AA OW S
+पाठ	1.0	P AA T HH
+पि	1.0	P IH
+पिपड	1.0	P IH P AH D
+पिपे	1.0	P IH P EY
+पिसिस	1.0	P IH S IH S
+पिसेस	1.0	P IH S EY S
+पु	1.0	P UH
+पॅ	1.0	P AE
+पॅटर्स	1.0	P AE T AH R S
+पेटर	1.0	P EY T AH R
+पेटस	1.0	P EY T AH S
+पेनेटली	1.0	P EY N EY T L IY
+पेस्टि	1.0	P EY S T IH
+पेस्टिकाइड्स	1.0	P EY S T IH K AA IH D S
+पै	1.0	P EY
+पो	1.0	P OW
+पोल	1.0	P OW L
+प्रि	1.0	P R IH
+प्रेटेटिंग	1.0	P R EY T EY T IH NG
+प्रो	1.0	P R OW
+प्लकेट	1.0	P L AH K EY T
+प्लिस	1.0	P L IH S
+फ	1.0	P HH AH
+फंट	1.0	P HH AH N T
+फा	1.0	P HH AA
+फि	1.0	P HH IH
+फिम	1.0	P HH IH M
+फीडी	1.0	P HH IY D IY
+फील्ट	1.0	P HH IY L T
+फु	1.0	P HH UH
+फुर	1.0	P HH UH R
+फॅ	1.0	P HH AE
+फे	1.0	P HH EY
+फेट	1.0	P HH EY T
+फेडी	1.0	P HH EY D IY
+फो	1.0	P HH OW
+फ्रिडि	1.0	P HH R IH D IH
+फ्रीडी	1.0	P HH R IY D IY
+फ्रेड	1.0	P HH R EY D
+फ्रॉट	1.0	P HH R AO T
+ब	1.0	B AH
+बबलु	1.0	B AH B L UH
+बश	1.0	B AH SH
+बा	1.0	B AA
+बायसायकल	1.0	B AA Y S AA Y K AH L
+बिसकुट्स	1.0	B IH S K UH T S
+बु	1.0	B UH
+बुस्टिंग	1.0	B UH S T IH NG
+बॅ	1.0	B AE
+बेट्रे	1.0	B EY T R EY
+बॉ	1.0	B AO
+बॉत	1.0	B AO TH
+बो	1.0	B OW
+ब्रिलाइंट	1.0	B R IH L AA IH N T
+ब्रॅन्गिंग	1.0	B R AE NG G IH NG
+ब्रॉ	1.0	B R AO
+म	1.0	M AH
+मध	1.0	M AH DH HH
+मश	1.0	M AH SH
+मस	1.0	M AH S
+मा	1.0	M AA
+मॅ	1.0	M AE
+मेटर	1.0	M EY T AH R
+मै	1.0	M EY
+मो	1.0	M OW
+य	1.0	Y AH
+यड	1.0	Y AH D
+यानी	1.0	Y AA N IY
+ये	1.0	Y EY
+योथ	1.0	Y OW TH
+योथ्स	1.0	Y OW TH S
+यौच	1.0	Y AO CH
+र	1.0	R AH
+रि	1.0	R IH
+रिचेट	1.0	R IH CH EY T
+रिन	1.0	R IH N
+रिपि	1.0	R IH P IH
+रिप्लायड	1.0	R IH P L AY D
+रिली	1.0	R IH L IY
+रिस	1.0	R IH S
+री	1.0	R IY
+रु	1.0	R UH
+रॅन	1.0	R AE N
+रे	1.0	R EY
+रेष्टुरंट	1.0	R EY SH T UH R AH N T
+ल	1.0	L AH
+ला	1.0	L AA
+लाउज	1.0	L AW JH
+लाफ्टेड	1.0	L AA F T EY D
+लि	1.0	L IH
+लिजार्ड	1.0	L IH JH AA R D
+लिटिल	1.0	L IH T IH L
+लिट्ल	1.0	L IH T AH L
+लिफ्स	1.0	L IH P HH S
+ली	1.0	L IY
+लु	1.0	L UH
+लॉयन	1.0	L AO Y AH N
+लो	1.0	L OW
+लोयन	1.0	L OW Y AH N
+व	1.0	W AH
+वंड	1.0	W AH N D
+वर	1.0	W AH R
+वरेन्ट	1.0	W AH R EY N T
+वल	1.0	W AH L
+वा	1.0	W AA
+वि	1.0	W IH
+विज	1.0	W IH JH
+विव	1.0	W IH W
+वु	1.0	W UH
+वुज	1.0	W UH JH
+वुल्ट	1.0	W UH L T
+वुल्ड	1.0	W UH L D
+वे	1.0	W EY
+वेंथ	1.0	W EY N TH
+वेन	1.0	W EY N
+वेन्थ	1.0	W EY N TH
+वॉ	1.0	W AO
+वॉलकेड	1.0	W AO L K EY D
+वो	1.0	W OW
+व्रु	1.0	W R UH
+व्रोट	1.0	W R OW T
+श	1.0	SH AH
+शाव्ड	1.0	SH AA W D
+शु	1.0	SH UH
+शुल	1.0	SH UH L
+शॉ	1.0	SH AO
+शोट	1.0	SH OW T
+शोन्स	1.0	SH OW N S
+श्री	1.0	SH R IY
+स	1.0	S AH
+सदन्ली	1.0	S AH DH AH N L IY
+सर्क्युम	1.0	S AH R K Y UH M
+सा	1.0	S AA
+साल्ट	1.0	S AA L T
+सिंघ	1.0	S IH N G HH
+सिग	1.0	S IH G
+सुटेशन	1.0	S UH T EY SH AH N
+सुरज	1.0	S UH R AH JH
+सॅ	1.0	S AE
+सेन	1.0	S EY N
+सेर	1.0	S EY R
+सोट	1.0	S OW T
+सोरिंग	1.0	S OW R IH NG
+सौ	1.0	S AO
+स्के	1.0	S K EY
+स्क्रेड	1.0	S K R EY D
+स्ट	1.0	S T AH
+स्टि	1.0	S T IH
+स्टिप	1.0	S T IH P
+स्टोम	1.0	S T OW M
+स्ट्र्क	1.0	S T R AH K
+स्पिस	1.0	S P IH S
+स्मोट	1.0	S M OW T
+स्मोर्ट	1.0	S M OW R T
+स्लॅपेड	1.0	S L AE P EY D
+ह	1.0	HH AH
+हन	1.0	HH AH N
+हय	1.0	HH AH Y
+हा	1.0	HH AA
+हायबरेटिंग	1.0	HH AA Y B AH R EY T IH N G
+हिज	1.0	HH IH JH
+हिडिंग	1.0	HH IH D IH NG
+हिबरनेट	1.0	HH IH B AH R N EY T
+हिबरनेटिंग	1.0	HH IH B AH R N EY T IH N G
+हॅ	1.0	HH AE
+हे	1.0	HH EY
+हेरिंग	1.0	HH EY R IH NG
+हेल्पेड	1.0	HH EY L P EY D
+हो	1.0	HH OW

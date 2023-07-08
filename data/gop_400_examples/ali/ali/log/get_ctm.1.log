@@ -1,0 +1,22 @@
+# set -o pipefail && linear-to-nbest "ark:gunzip -c data/gop_400_examples//ali/ali.1.gz|" "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt < data/gop_400_examples//split4/1/text |" "" "" ark:- | lattice-align-words data/lang_gop_400_ex_one_sil//phones/word_boundary.int data/gop_400_examples//ali/final.mdl ark:- ark:- | nbest-to-ctm --frame-shift=0.03 --print-silence=false ark:- - | utils/int2sym.pl -f 5 data/lang_gop_400_ex_one_sil//words.txt | gzip -c > data/gop_400_examples//ali/ali/ctm.1.gz 
+# Started at Wed Mar  1 04:18:16 IST 2023
+#
+nbest-to-ctm --frame-shift=0.03 --print-silence=false ark:- - 
+lattice-align-words data/lang_gop_400_ex_one_sil//phones/word_boundary.int data/gop_400_examples//ali/final.mdl ark:- ark:- 
+linear-to-nbest 'ark:gunzip -c data/gop_400_examples//ali/ali.1.gz|' 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt < data/gop_400_examples//split4/1/text |' '' '' ark:- 
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing लेस्ट with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing HS with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+** Replaced 10 instances of OOVs with 1
+LOG (linear-to-nbest[5.5.1058~1-dfd6c]:main():linear-to-nbest.cc:130) Done 101 n-best entries ,0 had errors.
+LOG (lattice-align-words[5.5.1058~1-dfd6c]:main():lattice-align-words.cc:126) Successfully aligned 101 lattices; 0 had errors.
+LOG (nbest-to-ctm[5.5.1058~1-dfd6c]:main():nbest-to-ctm.cc:119) Converted 101 linear lattices to ctm format; 0 had errors.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Wed Mar  1 04:18:17 IST 2023, elapsed time 1 seconds

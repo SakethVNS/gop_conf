@@ -1,0 +1,161 @@
+# set -o pipefail && lattice-push "ark:gunzip -c exp_jan_2_wpp/chain/tdnn/decode_gop_572//lat.1.gz|" ark:- | lattice-add-penalty --word-ins-penalty=-2.0 ark:- ark:- | lattice-prune --inv-acoustic-scale=11 --beam=5 ark:- ark:- | lattice-align-words /media/run/kaldi/egs/gop_speechocean762/s5/data/lang_gop_400_ex_one_sil_lm//phones/word_boundary.int exp_jan_2_wpp/chain/tdnn/decode_gop_572//../final.mdl ark:- ark:- | lattice-mbr-decode --acoustic-scale=0.021276596 ark:- "ark,t:|utils/int2sym.pl -f 2- /media/run/kaldi/egs/gop_speechocean762/s5/data/lang_gop_400_ex_one_sil_lm//words.txt > /media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/decode_ctm/1.tra" ark:/dev/null "ark,t:|tr '[' '\n' | tr ']' '\n' | utils/int2sym_changed.pl -f 1 /media/run/kaldi/egs/gop_speechocean762/s5/data/lang_gop_400_ex_one_sil_lm//words.txt > /media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/decode_ctm/1.sau" 
+# Started at Sat Apr 22 14:59:30 IST 2023
+#
+lattice-add-penalty --word-ins-penalty=-2.0 ark:- ark:- 
+lattice-align-words /media/run/kaldi/egs/gop_speechocean762/s5/data/lang_gop_400_ex_one_sil_lm//phones/word_boundary.int exp_jan_2_wpp/chain/tdnn/decode_gop_572//../final.mdl ark:- ark:- 
+lattice-push 'ark:gunzip -c exp_jan_2_wpp/chain/tdnn/decode_gop_572//lat.1.gz|' ark:- 
+lattice-prune --inv-acoustic-scale=11 --beam=5 ark:- ark:- 
+lattice-mbr-decode --acoustic-scale=0.021276596 ark:- 'ark,t:|utils/int2sym.pl -f 2- /media/run/kaldi/egs/gop_speechocean762/s5/data/lang_gop_400_ex_one_sil_lm//words.txt > /media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/decode_ctm/1.tra' ark:/dev/null 'ark,t:|tr '\''['\'' '\''\n'\'' | tr '\'']'\'' '\''\n'\'' | utils/int2sym_changed.pl -f 1 /media/run/kaldi/egs/gop_speechocean762/s5/data/lang_gop_400_ex_one_sil_lm//words.txt > /media/run/kaldi/egs/gop_speechocean762/s5/data/gop_572_data_hires/decode_ctm/1.sau' 
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aa_3-b-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 426 to 223 and #arcs from 1314 to 365
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aa_4-a-6_kv_bhandupshift1_01092022-000000-3_EN-OL-RC-426_1, pruned #states from 867 to 84 and #arcs from 1311 to 84
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_3-c-26_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 628 to 133 and #arcs from 1453 to 155
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_3-d-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 1818 to 81 and #arcs from 3010 to 83
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_3-d-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 741 to 65 and #arcs from 1399 to 64
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_4-a-2_kv_dhule_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 2773 to 91 and #arcs from 4783 to 93
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_4-b-15_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 2100 to 105 and #arcs from 3790 to 113
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-1_kv_dhule_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 578 to 72 and #arcs from 992 to 71
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-25_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 849 to 87 and #arcs from 1471 to 87
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-30_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1222 to 86 and #arcs from 2738 to 92
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-30_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1322 to 95 and #arcs from 2368 to 100
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-48_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 2031 to 107 and #arcs from 3605 to 116
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-48_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 2195 to 126 and #arcs from 3726 to 138
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-4_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 782 to 80 and #arcs from 1498 to 83
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-a-4_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 730 to 83 and #arcs from 1201 to 82
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-b-31_kv_solapur_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 867 to 88 and #arcs from 1684 to 89
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-c-22_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 2486 to 119 and #arcs from 3753 to 125
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-c-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1130 to 75 and #arcs from 1739 to 74
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ab_5-c-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1693 to 89 and #arcs from 2463 to 89
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_3-b-1_kv_colaba3_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 600 to 67 and #arcs from 1179 to 66
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_4-b-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1443 to 81 and #arcs from 2613 to 81
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_4-b-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_2, pruned #states from 592 to 68 and #arcs from 1309 to 68
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_5-a-28_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 712 to 87 and #arcs from 1464 to 93
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_5-a-28_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1215 to 124 and #arcs from 2184 to 136
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_5-b-24_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 760 to 73 and #arcs from 1279 to 72
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ac_5-b-24_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 772 to 87 and #arcs from 1463 to 87
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_4-b-22_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1111 to 105 and #arcs from 1925 to 112
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_4-c-9_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 488 to 229 and #arcs from 1762 to 374
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_4-d-44_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1113 to 82 and #arcs from 2256 to 82
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_5-a-1_kv_solapur_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 679 to 72 and #arcs from 1200 to 71
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_5-a-3_kv_solapur_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1156 to 80 and #arcs from 1848 to 81
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_5-a-3_kv_solapur_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 915 to 90 and #arcs from 1634 to 92
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ad_5-b-10_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 643 to 73 and #arcs from 1188 to 73
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_3-a-1_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 282 to 160 and #arcs from 1527 to 288
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_3-b-24_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 330 to 164 and #arcs from 1556 to 280
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_3-c-11_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 705 to 114 and #arcs from 958 to 125
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_4-a-38_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1132 to 83 and #arcs from 1921 to 83
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_4-a-38_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_2, pruned #states from 892 to 76 and #arcs from 1672 to 78
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_4-b-21_kv_solapur_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 3622 to 127 and #arcs from 5327 to 133
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_5-a-4_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1339 to 294 and #arcs from 2887 to 364
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_5-a-8_kv_jalgaon_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1481 to 495 and #arcs from 7170 to 859
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_5-b-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 779 to 73 and #arcs from 1260 to 72
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_5-b-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1095 to 103 and #arcs from 2336 to 111
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_5-c-26_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1499 to 169 and #arcs from 2314 to 205
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ag_5-c-26_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1208 to 102 and #arcs from 1985 to 106
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ah_4-a-52_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 560 to 123 and #arcs from 880 to 155
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ah_4-b-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1498 to 172 and #arcs from 2009 to 177
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ah_5-a-23_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 831 to 75 and #arcs from 1587 to 75
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ah_5-a-23_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 613 to 86 and #arcs from 1151 to 86
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aj_4-a-31_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1812 to 77 and #arcs from 3463 to 76
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aj_4-a-31_kv_solapur_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1987 to 105 and #arcs from 3067 to 113
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aj_4-b-1_kv_dhule_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 589 to 119 and #arcs from 1025 to 135
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aj_5-a-7_kv_jalgaon_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1236 to 104 and #arcs from 2427 to 115
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-a-12_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 1377 to 71 and #arcs from 2663 to 70
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-a-22_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 1409 to 365 and #arcs from 8090 to 621
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-a-23_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 926 to 64 and #arcs from 1586 to 63
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-a-23_kv_bhandupshift1_01092022-000000-2_EN-OL-RC-234_1, pruned #states from 1458 to 95 and #arcs from 2417 to 101
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-b-10_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 1123 to 206 and #arcs from 1765 to 249
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-b-4_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 398 to 177 and #arcs from 570 to 208
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-b-4_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 2248 to 65 and #arcs from 3934 to 64
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-b-6_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 1726 to 103 and #arcs from 2497 to 111
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-c-14_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 1754 to 94 and #arcs from 3270 to 100
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-c-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 1836 to 78 and #arcs from 3225 to 81
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-c-3_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 1581 to 69 and #arcs from 3226 to 68
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_3-c-3_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 2567 to 114 and #arcs from 4285 to 127
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_4-a-11_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1094 to 91 and #arcs from 2099 to 94
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_4-a-22_kv_dhule_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 833 to 80 and #arcs from 1504 to 80
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_4-a-4_kv_dhule_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1212 to 261 and #arcs from 1899 to 323
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_4-d-4_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1357 to 81 and #arcs from 2601 to 81
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_5-a-11_kv_solapur_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 697 to 253 and #arcs from 1801 to 362
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_5-b-6_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 2730 to 122 and #arcs from 6502 to 138
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_5-b-6_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1800 to 126 and #arcs from 4291 to 143
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_5-c-23_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1027 to 82 and #arcs from 2062 to 84
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ak_5-d-26_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 424 to 228 and #arcs from 1523 to 361
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_3-a-48_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 2735 to 113 and #arcs from 4233 to 121
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_3-c-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 1236 to 73 and #arcs from 2092 to 73
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_3-c-36_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 1191 to 129 and #arcs from 1830 to 141
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_4-a-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_2, pruned #states from 1265 to 103 and #arcs from 2086 to 117
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_4-b-3_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_2, pruned #states from 868 to 102 and #arcs from 1762 to 121
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_4-d-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1270 to 78 and #arcs from 2430 to 77
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-a-26_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 769 to 80 and #arcs from 1494 to 81
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-a-26_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1316 to 107 and #arcs from 3329 to 124
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-a-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1873 to 152 and #arcs from 3555 to 182
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-a-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1586 to 89 and #arcs from 2358 to 89
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-a-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 870 to 77 and #arcs from 1645 to 78
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-a-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 883 to 88 and #arcs from 1562 to 88
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-b-1_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 983 to 95 and #arcs from 2100 to 104
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-b-1_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1254 to 91 and #arcs from 2362 to 92
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-b-34_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 833 to 73 and #arcs from 1307 to 72
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-b-34_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 800 to 87 and #arcs from 1804 to 88
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-b-43_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1203 to 78 and #arcs from 1904 to 78
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance am_5-b-43_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1796 to 222 and #arcs from 2677 to 261
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance an_3-a-18_kv_dhule_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 736 to 65 and #arcs from 1195 to 64
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance an_3-a-39_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 2658 to 134 and #arcs from 5541 to 163
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance an_5-a-41_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1221 to 95 and #arcs from 2578 to 101
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance an_5-c-24_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 538 to 225 and #arcs from 1881 to 378
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_3-b-10_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 635 to 262 and #arcs from 818 to 321
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_3-c-28_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 1152 to 208 and #arcs from 1844 to 253
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_4-a-1_kv_dhule_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 619 to 167 and #arcs from 3008 to 241
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-a-1_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1860 to 88 and #arcs from 3915 to 94
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-a-1_kv_aurangabadshift1_01092022-000000-2_EN-OL-RC-538_2, pruned #states from 2619 to 155 and #arcs from 4547 to 173
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-a-22_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1362 to 94 and #arcs from 2451 to 99
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-a-2_kv_jalgaon_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 2834 to 102 and #arcs from 5132 to 110
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-a-51_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 2996 to 380 and #arcs from 4990 to 517
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-a-51_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 2129 to 157 and #arcs from 4266 to 178
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-b-8_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 708 to 72 and #arcs from 1304 to 71
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-c-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1617 to 122 and #arcs from 2599 to 137
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-c-2_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1563 to 118 and #arcs from 2354 to 127
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ap_5-d-29_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 884 to 77 and #arcs from 1605 to 77
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ar_5-a-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1521 to 98 and #arcs from 2747 to 107
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance ar_5-a-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1805 to 165 and #arcs from 2845 to 192
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_3-a-25_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 707 to 64 and #arcs from 1270 to 63
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_3-d-30_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 1157 to 132 and #arcs from 2502 to 143
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_4-a-1_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 673 to 378 and #arcs from 835 to 452
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_4-a-25_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1706 to 102 and #arcs from 3586 to 111
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_4-a-5_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 2968 to 86 and #arcs from 5268 to 87
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_4-b-1_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-426_2, pruned #states from 802 to 73 and #arcs from 1728 to 74
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_4-d-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 2401 to 126 and #arcs from 4024 to 140
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-24_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 757 to 78 and #arcs from 1538 to 80
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-24_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 1319 to 118 and #arcs from 3144 to 136
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-31_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 583 to 121 and #arcs from 2068 to 178
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-4_kv_jalgaon_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 344 to 218 and #arcs from 1231 to 441
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-5_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 610 to 74 and #arcs from 1146 to 74
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-5_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 756 to 83 and #arcs from 1337 to 82
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-5_kv_solapur_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 758 to 72 and #arcs from 1339 to 71
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-a-5_kv_solapur_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 2148 to 115 and #arcs from 3786 to 126
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-b-14_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1356 to 89 and #arcs from 2323 to 94
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-b-22_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1596 to 219 and #arcs from 2458 to 276
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-b-40_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 3064 to 131 and #arcs from 5108 to 145
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-b-48_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 961 to 92 and #arcs from 2479 to 104
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-b-48_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 3331 to 152 and #arcs from 5619 to 169
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-c-51_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_2, pruned #states from 532 to 207 and #arcs from 2504 to 385
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance as_5-d-6_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 439 to 295 and #arcs from 1927 to 636
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance at_3-c-23_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 458 to 110 and #arcs from 1281 to 139
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance at_4-a-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1059 to 92 and #arcs from 1872 to 95
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance at_4-a-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_2, pruned #states from 1285 to 105 and #arcs from 2484 to 124
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance at_4-b-4_kv_dhule_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 2165 to 89 and #arcs from 4607 to 91
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance at_4-d-5_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 1191 to 83 and #arcs from 1994 to 83
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance at_5-d-24_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1, pruned #states from 1341 to 99 and #arcs from 2300 to 105
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance au_3-b-2_kv_solapur_01092022-000000-1_EN-OL-RC-234_1, pruned #states from 121 to 84 and #arcs from 567 to 117
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance av_3-d-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 575 to 187 and #arcs from 1783 to 260
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance av_4-b-25_kv_bhandupshift1_01092022-000000-2_EN-OL-RC-426_1, pruned #states from 1597 to 163 and #arcs from 6085 to 189
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance av_4-b-7_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_1, pruned #states from 2210 to 91 and #arcs from 3751 to 95
+LOG (lattice-push[5.5.1058~1-dfd6c]:main():lattice-push.cc:98) Pushed 144 lattices, errors on 0
+LOG (lattice-add-penalty[5.5.1058~1-dfd6c]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 144 lattices.
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:95) For utterance aw_3-b-5_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2, pruned #states from 953 to 160 and #arcs from 2919 to 197
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:104) Overall, pruned from on average 1282.05 to 123.347 states, and from 2492.69 to 150.75 arcs, over 144 utterances.
+LOG (lattice-prune[5.5.1058~1-dfd6c]:main():lattice-prune.cc:108) Done 144 lattices.
+LOG (lattice-align-words[5.5.1058~1-dfd6c]:main():lattice-align-words.cc:126) Successfully aligned 144 lattices; 0 had errors.
+LOG (lattice-mbr-decode[5.5.1058~1-dfd6c]:main():lattice-mbr-decode.cc:120) Done 144 lattices.
+LOG (lattice-mbr-decode[5.5.1058~1-dfd6c]:main():lattice-mbr-decode.cc:121) Average Bayes Risk per sentence is 0.420096 and per word, 0.00589493
+# Accounting: time=3 threads=1
+# Ended (code 0) at Sat Apr 22 14:59:33 IST 2023, elapsed time 3 seconds

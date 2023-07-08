@@ -1,0 +1,4 @@
+data/local/lmDir/3gram.gt011.gz  file  data/local/lmDir/dev.txt:  400  sentences,  36209  words,  0  OOVs  0  zeroprobs,  logprob=  -87446.31  ppl=  244.7125  ppl1=  260.0421
+data/local/lmDir/3gram.gt012.gz  file  data/local/lmDir/dev.txt:  400  sentences,  36209  words,  0  OOVs  0  zeroprobs,  logprob=  -100972.2  ppl=  572.9614  ppl1=  614.6025
+data/local/lmDir/3gram.gt022.gz  file  data/local/lmDir/dev.txt:  400  sentences,  36209  words,  0  OOVs  0  zeroprobs,  logprob=  -111882.9  ppl=  1138.044  ppl1=  1230.043
+data/local/lmDir/3gram.gt023.gz  file  data/local/lmDir/dev.txt:  400  sentences,  36209  words,  0  OOVs  0  zeroprobs,  logprob=  -112133    ppl=  1156.083  ppl1=  1249.758

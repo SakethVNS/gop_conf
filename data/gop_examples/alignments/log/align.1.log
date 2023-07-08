@@ -1,0 +1,27 @@
+# compile-train-graphs --read-disambig-syms=data/lang_no_gm//phones/disambig.int data/gop_examples/alignments/tree exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl data/lang_no_gm//L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_no_gm//words.txt data/gop_examples/split2/1/text|" ark:- | nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_examples/alignments/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=10 --retry-beam=60 exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl ark:- "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_examples/split2/1/utt2spk scp:data/gop_examples/split2/1/cmvn.scp scp:data/gop_examples/split2/1/feats.scp ark:- |" "ark:|gzip -c >data/gop_examples/alignments/ali.1.gz" 
+# Started at Fri Jan 27 13:27:09 IST 2023
+#
+compile-train-graphs --read-disambig-syms=data/lang_no_gm//phones/disambig.int data/gop_examples/alignments/tree exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl data/lang_no_gm//L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_no_gm//words.txt data/gop_examples/split2/1/text|' ark:- 
+nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_examples/alignments/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=10 --retry-beam=60 exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl ark:- 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_examples/split2/1/utt2spk scp:data/gop_examples/split2/1/cmvn.scp scp:data/gop_examples/split2/1/feats.scp ark:- |' 'ark:|gzip -c >data/gop_examples/alignments/ali.1.gz' 
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:229) Waited 0 seconds before creating CUDA context
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:243) Not in compute-exclusive mode.  Suggestion: use 'nvidia-smi -c 3' to set compute exclusive mode
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:438) Selecting from 2 GPUs
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(0): GeForce RTX 2080 Ti	free:10730M, used:288M, total:11019M, free/total:0.973796
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(1): GeForce RTX 2080 Ti	free:10570M, used:445M, total:11016M, free/total:0.959543
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:501) Device: 0, mem_ratio: 0.973796
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:382) Trying to select device: 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:511) Success selecting device 0 free mem ratio: 0.973796
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:FinalizeActiveGpu():cu-device.cc:338) The active GPU is [0]: GeForce RTX 2080 Ti	free:4958M, used:6060M, total:11019M, free/total:0.449995 version 7.5
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_examples/split2/1/utt2spk scp:data/gop_examples/split2/1/cmvn.scp scp:data/gop_examples/split2/1/feats.scp ark:- 
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:CheckAndFixConfigs():nnet-am-decodable-simple.cc:294) Increasing --frames-per-chunk from 70 to 72 to make it a multiple of --frame-subsampling-factor=3
+LOG (compile-train-graphs[5.5.1058~1-dfd6c]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 6 graphs, failed for 0
+LOG (apply-cmvn[5.5.1058~1-dfd6c]:main():apply-cmvn.cc:81) Copied 6 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:198) Overall log-likelihood per frame is 0.995436 over 8421 frames.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:201) Retried 0 out of 6 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:203) Done 6, errors on 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.106 seconds taken in nnet3 compilation total (breakdown: 0.0746 compilation, 0.0194 optimization, 0 shortcut expansion, 0.00366 checking, 0.000967 computing indexes, 0.00692 misc.) + 0 I/O.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Fri Jan 27 13:27:12 IST 2023, elapsed time 3 seconds

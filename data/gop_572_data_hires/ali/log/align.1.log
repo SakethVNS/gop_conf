@@ -1,0 +1,56 @@
+# compile-train-graphs --read-disambig-syms=data/lang_phone_bg//phones/disambig.int data/gop_572_data_hires//ali/tree exp_jan_2_wpp//chain/tdnn/final.mdl data/lang_phone_bg//L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_phone_bg//words.txt data/gop_572_data_hires//split4/1/text|" ark:- | nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_572_data_hires//ali/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=20 --retry-beam=60 --careful=true exp_jan_2_wpp//chain/tdnn/final.mdl ark:- "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data_hires//split4/1/utt2spk scp:data/gop_572_data_hires//split4/1/cmvn.scp scp:data/gop_572_data_hires//split4/1/feats.scp ark:- |" "ark:|gzip -c >data/gop_572_data_hires//ali/ali.1.gz" 
+# Started at Fri May 19 17:33:32 IST 2023
+#
+compile-train-graphs --read-disambig-syms=data/lang_phone_bg//phones/disambig.int data/gop_572_data_hires//ali/tree exp_jan_2_wpp//chain/tdnn/final.mdl data/lang_phone_bg//L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_phone_bg//words.txt data/gop_572_data_hires//split4/1/text|' ark:- 
+nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_572_data_hires//ali/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=20 --retry-beam=60 --careful=true exp_jan_2_wpp//chain/tdnn/final.mdl ark:- 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data_hires//split4/1/utt2spk scp:data/gop_572_data_hires//split4/1/cmvn.scp scp:data/gop_572_data_hires//split4/1/feats.scp ark:- |' 'ark:|gzip -c >data/gop_572_data_hires//ali/ali.1.gz' 
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:229) Waited 0 seconds before creating CUDA context
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:243) Not in compute-exclusive mode.  Suggestion: use 'nvidia-smi -c 3' to set compute exclusive mode
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:438) Selecting from 2 GPUs
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(0): GeForce RTX 2080 Ti	free:1653M, used:9366M, total:11019M, free/total:0.150008
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(1): GeForce RTX 2080 Ti	free:10238M, used:777M, total:11016M, free/total:0.929389
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:501) Device: 1, mem_ratio: 0.929389
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:382) Trying to select device: 1
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:511) Success selecting device 1 free mem ratio: 0.929389
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:FinalizeActiveGpu():cu-device.cc:338) The active GPU is [1]: GeForce RTX 2080 Ti	free:4722M, used:6293M, total:11016M, free/total:0.428677 version 7.5
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data_hires//split4/1/utt2spk scp:data/gop_572_data_hires//split4/1/cmvn.scp scp:data/gop_572_data_hires//split4/1/feats.scp ark:- 
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:CheckAndFixConfigs():nnet-am-decodable-simple.cc:294) Increasing --frames-per-chunk from 70 to 72 to make it a multiple of --frame-subsampling-factor=3
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ad_4-b-22_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ad_4-c-9_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ag_3-a-1_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ag_3-b-24_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ag_3-c-11_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ah_4-a-52_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance aj_5-a-7_kv_jalgaon_01092022-000000-1_EN-OL-RC-538_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ak_3-a-23_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ak_3-a-23_kv_bhandupshift1_01092022-000000-2_EN-OL-RC-234_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ak_3-c-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance am_4-b-3_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance an_3-a-39_kv_iitpowai_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance an_5-c-24_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-538_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ap_4-a-1_kv_dhule_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance as_5-a-31_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance as_5-a-4_kv_jalgaon_01092022-000000-1_EN-OL-RC-538_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance as_5-a-5_kv_solapur_01092022-000000-1_EN-OL-RC-538_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance as_5-b-48_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-538_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance as_5-d-6_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file as_5-d-6_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_1, len = 2000
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance at_3-c-23_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance at_4-a-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance at_4-a-13_kv_iitpowai_01092022-000000-1_EN-OL-RC-426_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance at_4-b-4_kv_dhule_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+LOG (compile-train-graphs[5.5.1058~1-dfd6c]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 144 graphs, failed for 0
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance au_3-b-2_kv_solapur_01092022-000000-1_EN-OL-RC-234_1 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance av_3-d-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file av_3-d-3_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-234_2, len = 1903
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance av_4-b-7_kv_aurangabadshift2_01092022-000000-1_EN-OL-RC-426_1 with beam 60
+LOG (apply-cmvn[5.5.1058~1-dfd6c]:main():apply-cmvn.cc:81) Copied 144 utterances.
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance aw_3-b-5_kv_aurangabadshift1_01092022-000000-1_EN-OL-RC-234_2 with beam 60
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:198) Overall log-likelihood per frame is 0.828464 over 183385 frames.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:201) Retried 27 out of 144 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:203) Done 142, errors on 2
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.494 seconds taken in nnet3 compilation total (breakdown: 0.334 compilation, 0.0882 optimization, 0 shortcut expansion, 0.0165 checking, 0.0087 computing indexes, 0.0462 misc.) + 0 I/O.
+# Accounting: time=19 threads=1
+# Ended (code 0) at Fri May 19 17:33:51 IST 2023, elapsed time 19 seconds

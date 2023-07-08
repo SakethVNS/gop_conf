@@ -1,0 +1,27 @@
+# ivector-extract-online2 --config=data/gop_dev_172/alignments/ivectors/conf/ivector_extractor.conf ark:data/gop_dev_172/split8/8/spk2utt scp:data/gop_dev_172/split8/8/feats.scp ark:- | copy-feats --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.8.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.8.scp 
+# Started at Thu Apr  6 02:45:13 IST 2023
+#
+copy-feats --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.8.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_dev_172/alignments/ivectors/ivector_online.8.scp 
+ivector-extract-online2 --config=data/gop_dev_172/alignments/ivectors/conf/ivector_extractor.conf ark:data/gop_dev_172/split8/8/spk2utt scp:data/gop_dev_172/split8/8/feats.scp ark:- 
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 11.3888 > 7.9124.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 23.6283 > 11.1663.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 10.1455 > 9.22346.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 50.7882 > 27.8106.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.5337 > 15.5174.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 13.967 > 9.75372.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 14.9144 > 9.89314.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 19.4396 > 16.6375.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 36.1377 > 17.6392.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 31.3289 > 14.6381.  Will do an exact optimization.
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 16.7797 > 11.3285.  Will do an exact optimization.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:SolveQuadraticProblem<double>():sp-matrix.cc:686) Solving quadratic problem for called-from-linearCGD: floored 2 eigenvalues. 
+WARNING (ivector-extract-online2[5.5.1058~1-dfd6c]:LinearCgd():optimization.cc:549) Doing linear CGD in dimension 100, after 15 iterations the squared residual has got worse, 21.6658 > 12.6819.  Will do an exact optimization.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:SolveQuadraticProblem<double>():sp-matrix.cc:686) Solving quadratic problem for called-from-linearCGD: floored 2 eigenvalues. 
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:189) Estimated iVectors for 20 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:191) Average objective-function improvement was 55.4493 per frame, over 107770 frames (weighted).
+LOG (ivector-extract-online2[5.5.1058~1-dfd6c]:main():ivector-extract-online2.cc:194) Average iVector length was 9.60253 and at utterance-end was 10.584, over 107770 frames (weighted);  expected length is 10
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 20 feature matrices.
+# Accounting: time=2 threads=1
+# Ended (code 0) at Thu Apr  6 02:45:15 IST 2023, elapsed time 2 seconds

@@ -1,0 +1,16 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:data/gop_examples_gt/log/utt2dur.1 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/gop_examples_gt/log/wav_gop_examples_gt.1.scp ark:- | copy-feats --write-num-frames=ark,t:data/gop_examples_gt/log/utt2num_frames.1 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples_gt/data/raw_mfcc_gop_examples_gt.1.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples_gt/data/raw_mfcc_gop_examples_gt.1.scp 
+# Started at Tue Feb 21 15:50:29 IST 2023
+#
+copy-feats --write-num-frames=ark,t:data/gop_examples_gt/log/utt2num_frames.1 --compress=true ark:- ark,scp:/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples_gt/data/raw_mfcc_gop_examples_gt.1.ark,/media/run/kaldi/egs/gop_speechocean762/s5/data/gop_examples_gt/data/raw_mfcc_gop_examples_gt.1.scp 
+compute-mfcc-feats --write-utt2dur=ark,t:data/gop_examples_gt/log/utt2dur.1 --verbose=2 --config=conf/mfcc_hires.conf scp,p:data/gop_examples_gt/log/wav_gop_examples_gt.1.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU14B27_1662003022529_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key AURNAGKVAU24B19_1661765297518_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key DHUOSWKVDH4B11_1661577945069_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key JALUMAKVJA4A5_1662438304757_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key MUMBHAKVBH14A38_1662002902923_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key MUMBHAKVBH14D29_1661828468662_Para2-Take1
+VLOG[2] (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:182) Processed features for key MUMBHAKVBH14D32_1662000457510_Para2-Take1
+LOG (compute-mfcc-feats[5.5.1058~1-dfd6c]:main():compute-mfcc-feats.cc:185)  Done 7 out of 7 utterances.
+LOG (copy-feats[5.5.1058~1-dfd6c]:main():copy-feats.cc:143) Copied 7 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Tue Feb 21 15:50:29 IST 2023, elapsed time 0 seconds

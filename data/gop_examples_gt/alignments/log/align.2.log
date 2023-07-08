@@ -1,0 +1,49 @@
+# compile-train-graphs --read-disambig-syms=/media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop//phones/disambig.int data/gop_examples_gt/alignments/tree exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl /media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop//L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- /media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop//words.txt data/gop_examples_gt/split2/2/text|" ark:- | nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_examples_gt/alignments/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=10 --retry-beam=60 exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl ark:- "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_examples_gt/split2/2/utt2spk scp:data/gop_examples_gt/split2/2/cmvn.scp scp:data/gop_examples_gt/split2/2/feats.scp ark:- |" "ark:|gzip -c >data/gop_examples_gt/alignments/ali.2.gz" 
+# Started at Wed Feb 22 14:18:23 IST 2023
+#
+compile-train-graphs --read-disambig-syms=/media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop//phones/disambig.int data/gop_examples_gt/alignments/tree exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl /media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop//L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- /media/run/kaldi/egs/iitm_baseline/English_ASR_Challenge/asr/data/lang_free_phone_loop//words.txt data/gop_examples_gt/split2/2/text|' ark:- 
+sym2int.pl: replacing ON with 1
+sym2int.pl: replacing bears with 1
+sym2int.pl: replacing are with 1
+sym2int.pl: replacing fond with 1
+sym2int.pl: replacing in with 1
+sym2int.pl: replacing europe with 1
+sym2int.pl: replacing ON with 1
+sym2int.pl: replacing अशिआ with 1
+sym2int.pl: replacing africa with 1
+sym2int.pl: replacing and with 1
+sym2int.pl: replacing america with 1
+sym2int.pl: replacing they with 1
+sym2int.pl: replacing ON with 1
+sym2int.pl: replacing have with 1
+sym2int.pl: replacing big with 1
+sym2int.pl: replacing bodies with 1
+sym2int.pl: replacing with with 1
+sym2int.pl: replacing short with 1
+sym2int.pl: replacing tails with 1
+sym2int.pl: replacing and with 1
+sym2int.pl: not warning for OOVs any more times
+** Replaced 519 instances of OOVs with 1
+LOG (compile-train-graphs[5.5.1058~1-dfd6c]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 6 graphs, failed for 0
+nnet3-align-compiled --acoustic-scale=1.0 --transition-scale=1.0 --self-loop-scale=1.0 --online-ivectors=scp:data/gop_examples_gt/alignments/ivectors/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=wait --beam=10 --retry-beam=60 exp_jan_2_wpp/chain/tdnn/../..//chain/tdnn/final.mdl ark:- 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_examples_gt/split2/2/utt2spk scp:data/gop_examples_gt/split2/2/cmvn.scp scp:data/gop_examples_gt/split2/2/feats.scp ark:- |' 'ark:|gzip -c >data/gop_examples_gt/alignments/ali.2.gz' 
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:229) Waited 0 seconds before creating CUDA context
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:243) Not in compute-exclusive mode.  Suggestion: use 'nvidia-smi -c 3' to set compute exclusive mode
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:438) Selecting from 2 GPUs
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(0): GeForce RTX 2080 Ti	free:10738M, used:280M, total:11019M, free/total:0.974522
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:453) cudaSetDevice(1): GeForce RTX 2080 Ti	free:10612M, used:403M, total:11016M, free/total:0.963355
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:501) Device: 0, mem_ratio: 0.974522
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:382) Trying to select device: 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuIdAuto():cu-device.cc:511) Success selecting device 0 free mem ratio: 0.974522
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:FinalizeActiveGpu():cu-device.cc:338) The active GPU is [0]: GeForce RTX 2080 Ti	free:4970M, used:6048M, total:11019M, free/total:0.451084 version 7.5
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_examples_gt/split2/2/utt2spk scp:data/gop_examples_gt/split2/2/cmvn.scp scp:data/gop_examples_gt/split2/2/feats.scp ark:- 
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:CheckAndFixConfigs():nnet-am-decodable-simple.cc:294) Increasing --frames-per-chunk from 70 to 72 to make it a multiple of --frame-subsampling-factor=3
+LOG (apply-cmvn[5.5.1058~1-dfd6c]:main():apply-cmvn.cc:81) Copied 6 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:198) Overall log-likelihood per frame is 0.330472 over 7714 frames.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:201) Retried 0 out of 6 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:203) Done 6, errors on 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0827 seconds taken in nnet3 compilation total (breakdown: 0.0603 compilation, 0.0136 optimization, 0 shortcut expansion, 0.00229 checking, 0.00332 computing indexes, 0.00325 misc.) + 0 I/O.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Wed Feb 22 14:18:26 IST 2023, elapsed time 3 seconds

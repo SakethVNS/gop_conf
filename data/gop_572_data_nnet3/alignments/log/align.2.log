@@ -1,0 +1,46 @@
+# compile-train-graphs --read-disambig-syms=data/lang_gop_400_ex_one_sil//phones/disambig.int data/gop_572_data_nnet3/alignments/tree exp_nnet3//nnet3_cleaned/tdnn_sp/final.mdl data/lang_gop_400_ex_one_sil//L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt data/gop_572_data_nnet3//split4/2/text|" ark:- | nnet3-align-compiled --acoustic-scale=0.1 --transition-scale=1.0 --self-loop-scale=0.1 --online-ivectors=scp:data/gop_572_data_nnet3/alignments/ivectors/ivector_online.scp --online-ivector-period=10 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=no --beam=20 --retry-beam=200 --careful=false exp_nnet3//nnet3_cleaned/tdnn_sp/final.mdl ark:- "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data_nnet3//split4/2/utt2spk scp:data/gop_572_data_nnet3//split4/2/cmvn.scp scp:data/gop_572_data_nnet3//split4/2/feats.scp ark:- |" "ark:|gzip -c >data/gop_572_data_nnet3/alignments/ali.2.gz" 
+# Started at Sun Jun 25 18:53:30 IST 2023
+#
+compile-train-graphs --read-disambig-syms=data/lang_gop_400_ex_one_sil//phones/disambig.int data/gop_572_data_nnet3/alignments/tree exp_nnet3//nnet3_cleaned/tdnn_sp/final.mdl data/lang_gop_400_ex_one_sil//L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt data/gop_572_data_nnet3//split4/2/text|' ark:- 
+nnet3-align-compiled --acoustic-scale=0.1 --transition-scale=1.0 --self-loop-scale=0.1 --online-ivectors=scp:data/gop_572_data_nnet3/alignments/ivectors/ivector_online.scp --online-ivector-period=10 --frames-per-chunk=70 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --use-gpu=no --beam=20 --retry-beam=200 --careful=false exp_nnet3//nnet3_cleaned/tdnn_sp/final.mdl ark:- 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data_nnet3//split4/2/utt2spk scp:data/gop_572_data_nnet3//split4/2/cmvn.scp scp:data/gop_572_data_nnet3//split4/2/feats.scp ark:- |' 'ark:|gzip -c >data/gop_572_data_nnet3/alignments/ali.2.gz' 
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:SelectGpuId():cu-device.cc:168) Manually selected to compute on CPU.
+sym2int.pl: replacing शिइपी with 1
+sym2int.pl: replacing थ्रॉन with 1
+sym2int.pl: replacing शेअरली with 1
+sym2int.pl: replacing कवट with 1
+sym2int.pl: replacing पॅरेन with 1
+sym2int.pl: replacing क्रीटर with 1
+sym2int.pl: replacing आम्स with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing लार्जेस with 1
+sym2int.pl: replacing इस्केल्प with 1
+sym2int.pl: replacing इकलेप with 1
+sym2int.pl: replacing इंनिमेय with 1
+sym2int.pl: replacing इनेमाईस with 1
+sym2int.pl: replacing मॅग with 1
+sym2int.pl: replacing स्क्यास with 1
+sym2int.pl: replacing lace with 1
+sym2int.pl: replacing bark with 1
+sym2int.pl: replacing हॅबिनेट with 1
+sym2int.pl: replacing हॅवरनेटिंग with 1
+sym2int.pl: replacing फॅड with 1
+sym2int.pl: not warning for OOVs any more times
+** Replaced 101 instances of OOVs with 1
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/gop_572_data_nnet3//split4/2/utt2spk scp:data/gop_572_data_nnet3//split4/2/cmvn.scp scp:data/gop_572_data_nnet3//split4/2/feats.scp ark:- 
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance ds_5-c-18_kv_iitpowai_01092022-000000-1_EN-OL-RC-538_2 with beam 200
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance gs_4-d-9_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1 with beam 200
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance hp_4-d-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1 with beam 200
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file hp_4-d-29_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, len = 4258
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance mk_4-d-32_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1 with beam 200
+WARNING (nnet3-align-compiled[5.5.1058~1-dfd6c]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file mk_4-d-32_kv_bhandupshift1_01092022-000000-1_EN-OL-RC-426_1, len = 3638
+LOG (apply-cmvn[5.5.1058~1-dfd6c]:main():apply-cmvn.cc:81) Copied 144 utterances.
+LOG (compile-train-graphs[5.5.1058~1-dfd6c]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 144 graphs, failed for 0
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:198) Overall log-likelihood per frame is 3.39863 over 556536 frames.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:201) Retried 4 out of 144 utterances.
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:main():nnet3-align-compiled.cc:203) Done 142, errors on 2
+LOG (nnet3-align-compiled[5.5.1058~1-dfd6c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0527 seconds taken in nnet3 compilation total (breakdown: 0.0159 compilation, 0.00417 optimization, 0 shortcut expansion, 0.000832 checking, 1.98e-05 computing indexes, 0.0317 misc.) + 0 I/O.
+# Accounting: time=272 threads=1
+# Ended (code 0) at Sun Jun 25 18:58:02 IST 2023, elapsed time 272 seconds

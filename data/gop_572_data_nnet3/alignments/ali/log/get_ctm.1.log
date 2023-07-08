@@ -1,0 +1,37 @@
+# set -o pipefail && linear-to-nbest "ark:gunzip -c data/gop_572_data_nnet3/alignments/ali.1.gz|" "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt < data/gop_572_data_nnet3//split4/1/text |" "" "" ark:- | lattice-align-phones --replace-output-symbols=true data/gop_572_data_nnet3/alignments/final.mdl ark:- ark:- | lattice-to-phone-lattice data/gop_572_data_nnet3/alignments/final.mdl ark:- ark:- | lattice-1best ark:- ark:- | nbest-to-ctm --frame-shift=0.01 --print-silence=false ark:- - | utils/int2sym.pl -f 5 data/lang_gop_400_ex_one_sil//phones.txt | gzip -c > data/gop_572_data_nnet3/alignments/ali/phone_ctm.1.gz 
+# Started at Sun Jun 25 18:58:12 IST 2023
+#
+linear-to-nbest 'ark:gunzip -c data/gop_572_data_nnet3/alignments/ali.1.gz|' 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_gop_400_ex_one_sil//words.txt < data/gop_572_data_nnet3//split4/1/text |' '' '' ark:- 
+lattice-to-phone-lattice data/gop_572_data_nnet3/alignments/final.mdl ark:- ark:- 
+lattice-align-phones --replace-output-symbols=true data/gop_572_data_nnet3/alignments/final.mdl ark:- ark:- 
+nbest-to-ctm --frame-shift=0.01 --print-silence=false ark:- - 
+lattice-1best ark:- ark:- 
+sym2int.pl: replacing बिसफूल with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing क्रेव with 1
+sym2int.pl: replacing लिज़ार्ड with 1
+sym2int.pl: replacing लुकीड with 1
+sym2int.pl: replacing false with 1
+sym2int.pl: replacing विन्ट with 1
+sym2int.pl: replacing लुंक with 1
+sym2int.pl: replacing lotus with 1
+sym2int.pl: replacing वेन्डी with 1
+sym2int.pl: replacing रम्स with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing लेस्ट with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing IR with 1
+sym2int.pl: replacing पाश with 1
+sym2int.pl: replacing पॉस with 1
+sym2int.pl: not warning for OOVs any more times
+** Replaced 89 instances of OOVs with 1
+LOG (linear-to-nbest[5.5.1058~1-dfd6c]:main():linear-to-nbest.cc:130) Done 143 n-best entries ,0 had errors.
+LOG (lattice-align-phones[5.5.1058~1-dfd6c]:main():lattice-align-phones.cc:105) Successfully aligned 143 lattices; 0 had errors.
+LOG (lattice-to-phone-lattice[5.5.1058~1-dfd6c]:main():lattice-to-phone-lattice.cc:94) Done converting 143 lattices.
+LOG (lattice-1best[5.5.1058~1-dfd6c]:main():lattice-1best.cc:103) Done converting 143 to best path, 0 had errors.
+LOG (nbest-to-ctm[5.5.1058~1-dfd6c]:main():nbest-to-ctm.cc:119) Converted 143 linear lattices to ctm format; 0 had errors.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Sun Jun 25 18:58:13 IST 2023, elapsed time 1 seconds

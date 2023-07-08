@@ -1,0 +1,1004 @@
+
+\data\
+ngram  1=       204
+ngram  2=       379
+ngram  3=       409
+
+
+\1-grams:
+-2.61648	<s>	-0.359022
+-2.44038	if	-0.477121
+-2.13935	you	-0.425969
+-2.31545	look	-0.39794
+-2.21854	at	-0.30103
+-2.61648	pictures	-0.30103
+-1.80356	of	-0.433656
+-2.44038	butterflies	-0.30103
+-2.31545	will	-0.30103
+-2.61648	find	-0.30103
+-2.31545	that	-0.30103
+-2.61648	many	-0.30103
+-2.31545	them	-0.30103
+-2.13935	have	-0.30103
+-2.61648	large	-0.30103
+-2.44038	black	-0.477121
+-2.44038	circles	-0.30103
+-2.44038	on	-0.30103
+-2.21854	their	-0.367977
+-2.13935	wings	-0.30103
+-2.13935	these	-0.352183
+-2.31545	like	-0.30103
+-2.31545	eyes	-0.30103
+-1.96326	are	-0.330993
+-2.07241	very	-0.30103
+-2.61648	useful	-0.30103
+-1.87611	to	-0.352183
+-1.42614	the	-0.385351
+-2.44038	butterfly	-0.30103
+-1.91751	they	-0.359022
+-2.61648	help	-0.30103
+-2.13935	it	-0.30103
+-2.61648	escape	-0.30103
+-2.31545	from	-0.30103
+-2.61648	its	-0.30103
+-2.61648	enemies	-0.30103
+-1.77138	a	-0.318759
+-2.61648	bird	-0.30103
+-2.31545	or	-0.30103
+-2.61648	lizard	-0.30103
+-2.31545	which	-0.30103
+-2.31545	is	-0.30103
+-2.61648	trying	-0.30103
+-2.61648	catch	-0.30103
+-2.61648	mistakes	-0.30103
+-2.21854	for	-0.477121
+-2.61648	creature's	-0.30103
+-2.61648	aims	-0.30103
+-2.61648	tries	-0.30103
+-2.61648	hit	-0.30103
+-2.61648	eye	-0.30103
+-2.61648	but	-0.30103
+-2.31545	all	-0.30103
+-2.61648	gets	-0.30103
+-2.61648	bit	-0.30103
+-2.61648	wing	-0.30103
+-2.07241	</s>	-0.845098
+-2.61648	surely	-0.30103
+-2.61648	some	-0.30103
+-2.44038	most	-0.30103
+-2.44038	beautiful	-0.30103
+-2.61648	creatures	-0.30103
+-1.87611	in	-0.477121
+-2.31545	world	-0.30103
+-2.61648	because	-0.30103
+-2.61648	brilliant	-0.30103
+-2.44038	colours	-0.30103
+-2.61648	butterfly's	-0.30103
+-2.61648	through	-0.30103
+-2.61648	magnifying	-0.30103
+-2.61648	glass	-0.30103
+-2.61648	see	-0.30103
+-2.61648	covered	-0.30103
+-2.44038	with	-0.30103
+-2.61648	small	-0.30103
+-2.31545	scales	-0.30103
+-2.61648	colour	-0.30103
+-2.61648	without	-0.30103
+-2.61648	would	-0.30103
+-2.61648	be	-0.30103
+-2.61648	transparent	-0.30103
+-2.61648	make	-0.30103
+-2.61648	fine	-0.30103
+-2.61648	patterns	-0.30103
+-2.61648	once	-0.30103
+-2.21854	there	-0.30103
+-2.61648	lived	-0.30103
+-2.31545	shepherd	-0.30103
+-2.61648	village	-0.30103
+-1.87611	he	-0.324511
+-2.07241	was	-0.342423
+-2.61648	kind	-0.30103
+-1.83832	and	-0.30103
+-2.61648	good	-0.30103
+-2.61648	man	-0.30103
+-2.61648	had	-0.30103
+-2.61648	hundred	-0.30103
+-1.91751	sheep	-0.359022
+-2.44038	one	-0.30103
+-2.61648	day	-0.30103
+-2.44038	took	-0.30103
+-2.61648	riverside	-0.30103
+-2.44038	lot	-0.477121
+-2.61648	grass	-0.30103
+-2.61648	evening	-0.30103
+-2.44038	back	-0.30103
+-2.44038	home	-0.477121
+-2.61648	counted	-0.30103
+-2.44038	were	-0.30103
+-2.61648	only	-0.30103
+-2.61648	ninety-nine	-0.30103
+-2.44038	lost	-0.30103
+-2.61648	sad	-0.30103
+-2.61648	colder	-0.30103
+-2.61648	parts	-0.30103
+-2.07241	bears	-0.342423
+-2.61648	hibernate	-0.30103
+-2.61648	october	-0.30103
+-2.61648	april	-0.30103
+-2.61648	before	-0.30103
+-2.61648	hibernating	-0.30103
+-2.31545	eat	-0.30103
+-2.61648	food	-0.30103
+-2.61648	become	-0.30103
+-2.61648	fat	-0.30103
+-2.61648	although	-0.30103
+-2.61648	poor	-0.30103
+-2.61648	eyesight	-0.30103
+-2.61648	hearing	-0.30103
+-2.61648	can	-0.30103
+-2.61648	smell	-0.30103
+-2.61648	well	-0.30103
+-2.61648	clever	-0.30103
+-2.61648	zoo	-0.30103
+-2.61648	may	-0.30103
+-2.61648	noticed	-0.30103
+-2.61648	how	-0.30103
+-2.61648	cleverly	-0.30103
+-2.61648	beg	-0.30103
+-2.61648	biscuits	-0.30103
+-2.61648	nuts	-0.30103
+-2.61648	by	-0.30103
+-2.61648	sitting	-0.30103
+-2.61648	up	-0.30103
+-2.61648	holding	-0.30103
+-2.31545	out	-0.30103
+-2.61648	paws	-0.30103
+-2.44038	found	-0.30103
+-2.61648	europe	-0.30103
+-2.61648	asia	-0.30103
+-2.61648	africa	-0.30103
+-2.61648	america	-0.30103
+-2.61648	big	-0.30103
+-2.61648	bodies	-0.30103
+-2.61648	short	-0.30103
+-2.61648	tails	-0.30103
+-2.61648	thick	-0.30103
+-2.61648	legs	-0.30103
+-2.61648	polar	-0.30103
+-2.61648	live	-0.30103
+-2.61648	coldest	-0.30103
+-2.61648	part	-0.30103
+-2.61648	usually	-0.30103
+-2.61648	fish	-0.30103
+-2.61648	seals	-0.30103
+-2.61648	when	-0.30103
+-2.61648	kept	-0.30103
+-2.61648	cages	-0.30103
+-2.61648	zoos	-0.30103
+-2.61648	meat	-0.30103
+-2.61648	vegetables	-0.30103
+-2.61648	milk	-0.30103
+-2.61648	rice	-0.30103
+-2.61648	not	-0.30103
+-2.61648	quite	-0.30103
+-2.44038	as	-0.30103
+-2.61648	dangerous	-0.30103
+-2.61648	we	-0.30103
+-2.61648	think	-0.30103
+-2.61648	animals	-0.30103
+-2.61648	do	-0.30103
+-2.61648	best	-0.30103
+-2.61648	keep	-0.30103
+-2.61648	away	-0.30103
+-2.61648	us	-0.30103
+-2.61648	went	-0.30103
+-2.61648	looking	-0.30103
+-2.61648	walked	-0.30103
+-2.61648	way	-0.30103
+-2.61648	river	-0.30103
+-2.61648	last	-0.30103
+-2.61648	late	-0.30103
+-2.61648	night	-0.30103
+-2.44038	bush	-0.30103
+-2.61648	full	-0.30103
+-2.61648	thorns	-0.30103
+-2.61648	got	-0.30103
+-2.61648	carried	-0.30103
+-2.44038	happy	-0.30103
+-2.61648	showed	-0.30103
+-2.61648	his	-0.30103
+-2.61648	friends	-0.30103
+-2.61648	too	-0.30103
+
+\2-grams:
+-0.724555	<s> <s>	-0.39794
+-1.19323	<s> if	-0.30103
+-1.19323	<s> butterflies	-0.30103
+-1.16546	<s> in	-0.30103
+-1.19683	<s> once	-0.30103
+-1.16546	<s> he	-0.30103
+-1.17912	<s> bears	-0.30103
+-0.174518	if you	-0.477121
+-0.598921	you look	-0.477121
+-0.598921	you will	-0.30103
+-0.899951	you may	-0.30103
+-0.395322	look at	-0.30103
+-0.694789	look like	-0.30103
+-0.898909	at pictures	-0.30103
+-0.842415	at the	-0.30103
+-0.874635	at a	-0.30103
+-0.898909	at last	-0.30103
+-0.294256	pictures of	-0.30103
+-1.26786	of butterflies	-0.30103
+-0.970434	of them	-0.30103
+-1.26075	of their	-0.30103
+-0.557571	of the	-0.352183
+-1.27146	of grass	-0.30103
+-1.27146	of food	-0.30103
+-1.27146	of thorns	-0.30103
+-0.595804	butterflies you	-0.30103
+-0.592709	butterflies are	-0.30103
+-0.775011	will find	-0.30103
+-0.775011	will see	-0.30103
+-0.775011	will do	-0.30103
+-0.298934	find that	-0.30103
+-0.775011	that many	-0.30103
+-0.762676	that they	-0.30103
+-0.7688	that it	-0.30103
+-0.294256	many of	-0.30103
+-0.7688	them have	-0.30103
+-0.77345	them back	-0.30103
+-0.77345	them were	-0.30103
+-0.99478	have large	-0.30103
+-0.981998	have very	-0.30103
+-0.99478	have colour	-0.30103
+-0.99478	have noticed	-0.30103
+-0.99478	have big	-0.30103
+-0.299457	large black	-0.30103
+-0.175304	black circles	-0.30103
+-0.598921	circles on	-0.30103
+-0.59684	circles for	-0.30103
+-0.59684	on their	-0.30103
+-0.570664	on the	-0.30103
+-0.539367	their wings	-0.30103
+-0.841959	their paws	-0.30103
+-0.841959	their best	-0.30103
+-0.992193	wings if	-0.30103
+-0.984525	wings these	-0.30103
+-0.99478	wings through	-0.30103
+-0.99478	wings would	-0.30103
+-0.99478	wings make	-0.30103
+-0.945921	these look	-0.30103
+-0.947987	these black	-0.30103
+-0.945921	these eyes	-0.30103
+-0.649032	these scales	-0.30103
+-0.771895	like eyes	-0.30103
+-0.761158	like to	-0.30103
+-0.77345	like most	-0.30103
+-0.7688	eyes these	-0.30103
+-0.764199	eyes are	-0.30103
+-0.7688	eyes it	-0.30103
+-1.16163	are like	-0.30103
+-0.862382	are very	-0.30103
+-1.1688	are surely	-0.30103
+-1.1652	are beautiful	-0.30103
+-1.1688	are covered	-0.30103
+-1.1652	are found	-0.30103
+-1.1688	are not	-0.30103
+-1.07292	very useful	-0.30103
+-1.07292	very small	-0.30103
+-1.07292	very fine	-0.30103
+-1.07292	very poor	-0.30103
+-1.07292	very well	-0.30103
+-1.07292	very clever	-0.30103
+-0.295292	useful to	-0.30103
+-0.736774	to the	-0.30103
+-1.24695	to escape	-0.30103
+-1.24695	to catch	-0.30103
+-1.24695	to hit	-0.30103
+-1.24695	to april	-0.30103
+-1.23879	to eat	-0.30103
+-1.24695	to keep	-0.30103
+-1.24695	to his	-0.30103
+-1.37466	the wings	-0.30103
+-1.67569	the butterfly	-0.30103
+-1.68606	the creature's	-0.30103
+-1.68606	the eye	-0.30103
+-1.68606	the wing	-0.30103
+-1.67569	the most	-0.30103
+-1.21599	the world	-0.30103
+-1.68606	the brilliant	-0.30103
+-1.67569	the colours	-0.30103
+-1.38503	the shepherd	-0.30103
+-0.911417	the sheep	-0.39794
+-1.68606	the riverside	-0.30103
+-1.68606	the evening	-0.30103
+-1.67569	the lost	-0.30103
+-1.68606	the colder	-0.30103
+-1.68606	the zoo	-0.30103
+-1.68606	the coldest	-0.30103
+-1.68606	the way	-0.30103
+-1.68606	the river	-0.30103
+-1.68606	the night	-0.30103
+-1.67569	the bush	-0.30103
+-0.591682	butterfly they	-0.30103
+-0.599964	butterfly mistakes	-0.30103
+-1.18966	they will	-0.30103
+-1.18261	they have	-0.30103
+-0.716109	they are	-0.30103
+-1.19683	they help	-0.30103
+-1.18966	they eat	-0.30103
+-1.19683	they can	-0.30103
+-1.19683	they beg	-0.30103
+-0.297891	help it	-0.30103
+-0.972037	it to	-0.30103
+-0.989622	it is	-0.30103
+-0.99478	it aims	-0.30103
+-0.99478	it gets	-0.30103
+-0.992193	it home	-0.30103
+-0.298934	escape from	-0.30103
+-0.775011	from its	-0.30103
+-0.775011	from october	-0.30103
+-0.775011	from us	-0.30103
+-0.299981	its enemies	-0.30103
+-0.29374	enemies a	-0.30103
+-1.37943	a butterfly	-0.30103
+-1.38552	a bird	-0.30103
+-1.38552	a lizard	-0.30103
+-1.38552	a bit	-0.30103
+-1.38552	a butterfly's	-0.30103
+-1.38552	a magnifying	-0.30103
+-1.37344	a shepherd	-0.30103
+-1.38552	a village	-0.30103
+-1.38552	a kind	-0.30103
+-1.38552	a hundred	-0.30103
+-1.08756	a lot	-0.477121
+-1.37943	a bush	-0.30103
+-0.298934	bird or	-0.30103
+-0.756637	or a	-0.30103
+-0.775011	or tries	-0.30103
+-0.761158	or in	-0.30103
+-0.298934	lizard which	-0.30103
+-0.7688	which have	-0.30103
+-0.771895	which is	-0.30103
+-0.775011	which live	-0.30103
+-0.7688	is these	-0.30103
+-0.756637	is a	-0.30103
+-0.775011	is trying	-0.30103
+-0.295292	trying to	-0.30103
+-0.29374	catch a	-0.30103
+-0.297891	mistakes these	-0.30103
+-0.29031	for the	-0.30103
+-0.776055	for biscuits	-0.30103
+-0.298934	creature's eyes	-0.30103
+-0.298934	aims or	-0.30103
+-0.295292	tries to	-0.30103
+-0.285048	hit the	-0.30103
+-0.299981	eye but	-0.30103
+-0.298934	but all	-0.30103
+-0.758139	all of	-0.30103
+-0.771895	all that	-0.30103
+-0.731869	all the	-0.30103
+-0.298934	gets is	-0.30103
+-0.294256	bit of	-0.30103
+-0.297369	wing </s>	-0.30103
+-0.299981	surely some	-0.30103
+-0.294256	some of	-0.30103
+-0.598921	most beautiful	-0.30103
+-0.599964	most animals	-0.30103
+-0.599964	beautiful creatures	-0.30103
+-0.599964	beautiful because	-0.30103
+-0.295292	creatures in	-0.30103
+-0.461139	in the	-0.30103
+-0.857059	in a	-0.30103
+-1.17087	in europe	-0.30103
+-1.17087	in cages	-0.30103
+-1.17087	in zoos	-0.30103
+-0.762676	world they	-0.30103
+-0.767261	world bears	-0.30103
+-0.775011	world usually	-0.30103
+-0.294256	because of	-0.30103
+-0.299457	brilliant colours	-0.30103
+-0.588616	colours of	-0.30103
+-0.598921	colours on	-0.30103
+-0.297891	butterfly's wings	-0.30103
+-0.29374	through a	-0.30103
+-0.299981	magnifying glass	-0.30103
+-0.297891	glass you	-0.30103
+-0.298934	see that	-0.30103
+-0.299457	covered with	-0.30103
+-0.59477	with very	-0.30103
+-0.599964	with short	-0.30103
+-0.298934	small scales	-0.30103
+-0.731869	scales the	-0.30103
+-0.7688	scales it	-0.30103
+-0.771895	scales which	-0.30103
+-0.299981	colour without	-0.30103
+-0.297891	without these	-0.30103
+-0.299981	would be	-0.30103
+-0.299981	be transparent	-0.30103
+-0.285048	transparent the	-0.30103
+-0.297369	make very	-0.30103
+-0.299981	fine patterns	-0.30103
+-0.297369	patterns </s>	-0.30103
+-0.298412	once there	-0.30103
+-0.892712	there for	-0.30103
+-0.898909	there lived	-0.30103
+-0.888629	there was	-0.30103
+-0.896834	there were	-0.30103
+-0.29374	lived a	-0.30103
+-0.761158	shepherd in	-0.30103
+-0.767261	shepherd was	-0.30103
+-0.77345	shepherd took	-0.30103
+-0.295292	village he	-0.30103
+-0.961489	he was	-0.30103
+-1.2694	he had	-0.30103
+-1.2648	he took	-0.30103
+-1.2694	he counted	-0.30103
+-1.2648	he found	-0.30103
+-1.2694	he went	-0.30103
+-1.2694	he walked	-0.30103
+-1.2694	he got	-0.30103
+-1.2694	he showed	-0.30103
+-0.722361	was a	-0.30103
+-1.03359	was lost	-0.30103
+-1.03617	was sad	-0.30103
+-1.03617	was full	-0.30103
+-1.03359	was happy	-0.30103
+-0.294774	kind and	-0.30103
+-1.29332	and are	-0.30103
+-1.33102	and good	-0.30103
+-1.33102	and become	-0.30103
+-1.33102	and hearing	-0.30103
+-1.33102	and nuts	-0.30103
+-1.33102	and holding	-0.30103
+-1.33102	and america	-0.30103
+-1.33102	and thick	-0.30103
+-1.33102	and seals	-0.30103
+-1.33102	and rice	-0.30103
+-1.33102	and carried	-0.30103
+-0.299981	good man	-0.30103
+-0.295292	man he	-0.30103
+-0.29374	had a	-0.30103
+-0.29581	hundred sheep	-0.30103
+-0.883328	sheep to	-0.30103
+-0.883328	sheep in	-0.30103
+-1.18612	sheep there	-0.30103
+-1.16546	sheep he	-0.30103
+-1.17912	sheep was	-0.30103
+-1.19323	sheep one	-0.30103
+-1.18966	sheep out	-0.30103
+-0.591682	one sheep	-0.30103
+-0.599964	one day	-0.30103
+-0.295292	day he	-0.30103
+-0.597879	took them	-0.30103
+-0.570664	took the	-0.30103
+-0.298412	riverside there	-0.30103
+-0.172691	lot of	-0.30103
+-0.298412	grass there	-0.30103
+-0.285048	evening the	-0.30103
+-0.590658	back to	-0.30103
+-0.598921	back home	-0.30103
+-0.173212	home he	-0.30103
+-0.285048	counted the	-0.30103
+-0.599964	were only	-0.30103
+-0.598921	were happy	-0.30103
+-0.299981	only ninety-nine	-0.30103
+-0.299457	ninety-nine one	-0.30103
+-0.570664	lost the	-0.30103
+-0.591682	lost sheep	-0.30103
+-0.297369	sad </s>	-0.30103
+-0.299981	colder parts	-0.30103
+-0.294256	parts of	-0.30103
+-1.02592	bears have	-0.30103
+-1.03102	bears like	-0.30103
+-0.728705	bears are	-0.30103
+-1.03102	bears which	-0.30103
+-1.03617	bears hibernate	-0.30103
+-0.298934	hibernate from	-0.30103
+-0.295292	october to	-0.30103
+-0.299981	april before	-0.30103
+-0.299981	before hibernating	-0.30103
+-0.29581	hibernating they	-0.30103
+-0.756637	eat a	-0.30103
+-0.775011	eat fish	-0.30103
+-0.775011	eat meat	-0.30103
+-0.294774	food and	-0.30103
+-0.299981	become fat	-0.30103
+-0.299981	fat although	-0.30103
+-0.297369	although bears	-0.30103
+-0.299981	poor eyesight	-0.30103
+-0.294774	eyesight and	-0.30103
+-0.29581	hearing they	-0.30103
+-0.299981	can smell	-0.30103
+-0.297369	smell very	-0.30103
+-0.294774	well and	-0.30103
+-0.298412	clever at	-0.30103
+-0.297891	zoo you	-0.30103
+-0.297891	may have	-0.30103
+-0.299981	noticed how	-0.30103
+-0.299981	how cleverly	-0.30103
+-0.29581	cleverly they	-0.30103
+-0.298412	beg for	-0.30103
+-0.294774	biscuits and	-0.30103
+-0.299981	nuts by	-0.30103
+-0.299981	by sitting	-0.30103
+-0.299981	sitting up	-0.30103
+-0.294774	up and	-0.30103
+-0.298934	holding out	-0.30103
+-0.770344	out their	-0.30103
+-0.759646	out and	-0.30103
+-0.775011	out looking	-0.30103
+-0.297369	paws </s>	-0.30103
+-0.570664	found the	-0.30103
+-0.590658	found in	-0.30103
+-0.299981	europe asia	-0.30103
+-0.299981	asia africa	-0.30103
+-0.294774	africa and	-0.30103
+-0.29581	america they	-0.30103
+-0.299981	big bodies	-0.30103
+-0.299457	bodies with	-0.30103
+-0.299981	short tails	-0.30103
+-0.294774	tails and	-0.30103
+-0.299981	thick legs	-0.30103
+-0.299981	legs polar	-0.30103
+-0.297369	polar bears	-0.30103
+-0.295292	live in	-0.30103
+-0.299981	coldest part	-0.30103
+-0.294256	part of	-0.30103
+-0.298934	usually eat	-0.30103
+-0.294774	fish and	-0.30103
+-0.299981	seals when	-0.30103
+-0.299981	when kept	-0.30103
+-0.295292	kept in	-0.30103
+-0.298934	cages or	-0.30103
+-0.297369	zoos bears	-0.30103
+-0.299981	meat vegetables	-0.30103
+-0.299981	vegetables milk	-0.30103
+-0.294774	milk and	-0.30103
+-0.297369	rice bears	-0.30103
+-0.299981	not quite	-0.30103
+-0.299457	quite as	-0.30103
+-0.599964	as dangerous	-0.30103
+-0.599964	as we	-0.30103
+-0.299457	dangerous as	-0.30103
+-0.299981	we think	-0.30103
+-0.29581	think they	-0.30103
+-0.29581	animals they	-0.30103
+-0.298412	do their	-0.30103
+-0.295292	best to	-0.30103
+-0.299981	keep away	-0.30103
+-0.298934	away from	-0.30103
+-0.297369	us </s>	-0.30103
+-0.298934	went out	-0.30103
+-0.298412	looking for	-0.30103
+-0.298934	walked all	-0.30103
+-0.299457	way back	-0.30103
+-0.298412	river at	-0.30103
+-0.299981	last late	-0.30103
+-0.295292	late in	-0.30103
+-0.295292	night he	-0.30103
+-0.570664	bush the	-0.30103
+-0.59477	bush was	-0.30103
+-0.294256	full of	-0.30103
+-0.295292	thorns he	-0.30103
+-0.285048	got the	-0.30103
+-0.297891	carried it	-0.30103
+-0.590658	happy he	-0.30103
+-0.599964	happy too	-0.30103
+-0.285048	showed the	-0.30103
+-0.299981	his friends	-0.30103
+-0.298934	friends all	-0.30103
+-0.297369	too </s>	-0.30103
+
+\3-grams:
+-0.32292	<s> <s> <s>
+-0.646594	<s> <s> if
+-0.0785514	<s> if you
+-0.202234	<s> butterflies are
+-0.17204	<s> in the
+-0.124064	<s> once there
+-0.278281	<s> he went
+-0.226665	<s> bears are
+-0.124589	if you look
+-0.0964724	you look at
+-0.476334	you will find
+-0.476334	you will see
+-0.12389	you may have
+-0.504311	look at pictures
+-0.499308	look at a
+-0.233184	look like eyes
+-0.122669	at pictures of
+-0.292173	at the zoo
+-0.283512	at a butterfly's
+-0.124589	at last late
+-0.278203	pictures of butterflies
+-0.202861	of butterflies you
+-0.474764	of them have
+-0.475941	of them were
+-0.190837	of their wings
+-0.919849	of the wing
+-0.919051	of the most
+-0.603363	of the world
+-0.919849	of the brilliant
+-0.124064	of grass there
+-0.122843	of food and
+-0.123017	of thorns he
+-0.20349	butterflies you will
+-0.272542	butterflies are surely
+-0.124239	will find that
+-0.124239	will see that
+-0.124064	will do their
+-0.233633	find that many
+-0.122669	that many of
+-0.224659	that they are
+-0.25916	that it gets
+-0.256865	many of them
+-0.25916	them have large
+-0.20349	them back home
+-0.20349	them were happy
+-0.124414	have large black
+-0.265783	have very poor
+-0.124589	have colour without
+-0.124589	have noticed how
+-0.124589	have big bodies
+-0.0788662	large black circles
+-0.42492	black circles on
+-0.424222	black circles for
+-0.203071	circles on their
+-0.121336	circles for the
+-0.190837	on their wings
+-0.283078	on the wings
+-0.521568	their wings if
+-0.520261	their wings these
+-0.123715	their paws </s>
+-0.123017	their best to
+-0.0785514	wings if you
+-0.254433	wings these look
+-0.122495	wings through a
+-0.124589	wings would be
+-0.123715	wings make very
+-0.221149	these look like
+-0.0788662	these black circles
+-0.232062	these eyes are
+-0.46508	these scales the
+-0.475549	these scales which
+-0.232735	like eyes these
+-0.276665	like to eat
+-0.2037	like most animals
+-0.254433	eyes these eyes
+-0.245161	eyes are very
+-0.25916	eyes it aims
+-0.233409	are like most
+-0.534214	are very useful
+-0.534214	are very clever
+-0.124589	are surely some
+-0.2037	are beautiful because
+-0.124414	are covered with
+-0.201815	are found in
+-0.124589	are not quite
+-0.123017	very useful to
+-0.124239	very small scales
+-0.124589	very fine patterns
+-0.124589	very poor eyesight
+-0.122843	very well and
+-0.124064	very clever at
+-0.227925	useful to the
+-0.751493	to the butterfly
+-0.752104	to the riverside
+-0.752104	to the river
+-0.124239	to escape from
+-0.122495	to catch a
+-0.119546	to hit the
+-0.124589	to april before
+-0.233633	to eat meat
+-0.124589	to keep away
+-0.124589	to his friends
+-0.522004	the wings would
+-0.522004	the wings make
+-0.202024	the butterfly they
+-0.124239	the creature's eyes
+-0.124589	the eye but
+-0.123715	the wing </s>
+-0.20349	the most beautiful
+-0.59684	the world they
+-0.598399	the world bears
+-0.601011	the world usually
+-0.124414	the brilliant colours
+-0.20349	the colours on
+-0.474373	the shepherd was
+-0.475941	the shepherd took
+-0.598035	the sheep to
+-0.598035	the sheep in
+-0.899429	the sheep there
+-0.900159	the sheep out
+-0.124064	the riverside there
+-0.119546	the evening the
+-0.202024	the lost sheep
+-0.124589	the colder parts
+-0.12389	the zoo you
+-0.124589	the coldest part
+-0.124414	the way back
+-0.124064	the river at
+-0.123017	the night he
+-0.202652	the bush was
+-0.274269	butterfly they help
+-0.12389	butterfly mistakes these
+-0.233633	they will do
+-0.25916	they have big
+-0.696526	they are like
+-0.697136	they are beautiful
+-0.697746	they are covered
+-0.12389	they help it
+-0.230944	they eat a
+-0.124589	they can smell
+-0.124064	they beg for
+-0.25702	help it to
+-0.277107	it to escape
+-0.232735	it is these
+-0.124239	it aims or
+-0.124239	it gets is
+-0.0780274	it home he
+-0.233633	escape from its
+-0.124589	from its enemies
+-0.123017	from october to
+-0.123715	from us </s>
+-0.122495	its enemies a
+-0.283512	enemies a bird
+-0.2037	a butterfly mistakes
+-0.124239	a bird or
+-0.124239	a lizard which
+-0.122669	a bit of
+-0.12389	a butterfly's wings
+-0.124589	a magnifying glass
+-0.231615	a shepherd in
+-0.123017	a village he
+-0.122843	a kind and
+-0.123192	a hundred sheep
+-0.0502997	a lot of
+-0.197657	a bush the
+-0.230944	bird or a
+-0.283512	or a lizard
+-0.123017	or tries to
+-0.272673	or in zoos
+-0.233184	lizard which is
+-0.25916	which have colour
+-0.233633	which is trying
+-0.123017	which live in
+-0.213117	is these scales
+-0.283512	is a bit
+-0.123017	is trying to
+-0.277107	trying to catch
+-0.28327	catch a butterfly
+-0.254643	mistakes these black
+-0.752104	for the creature's
+-0.642104	for the sheep
+-0.751493	for the lost
+-0.122843	for biscuits and
+-0.232735	creature's eyes it
+-0.233633	aims or tries
+-0.277107	tries to hit
+-0.292173	hit the eye
+-0.124239	eye but all
+-0.233184	but all that
+-0.256865	all of them
+-0.232735	all that it
+-0.292173	all the way
+-0.230944	gets is a
+-0.19485	bit of the
+-0.122669	surely some of
+-0.19485	some of the
+-0.2037	most beautiful creatures
+-0.123192	most animals they
+-0.123017	beautiful creatures in
+-0.122669	beautiful because of
+-0.17204	creatures in the
+-0.884697	in the world
+-0.957417	in the evening
+-0.957417	in the colder
+-0.957417	in the coldest
+-0.957417	in the night
+-0.567704	in a village
+-0.567238	in a bush
+-0.124589	in europe asia
+-0.124239	in cages or
+-0.123715	in zoos bears
+-0.224659	world they are
+-0.262804	world bears hibernate
+-0.124239	world usually eat
+-0.19485	because of the
+-0.201398	brilliant colours of
+-0.277836	colours of their
+-0.197657	colours on the
+-0.25916	butterfly's wings through
+-0.283512	through a magnifying
+-0.12389	magnifying glass you
+-0.20349	glass you will
+-0.231838	see that they
+-0.202652	covered with very
+-0.265783	with very small
+-0.124589	with short tails
+-0.232735	small scales it
+-0.283078	scales the wings
+-0.258684	scales it is
+-0.232735	scales which have
+-0.12389	colour without these
+-0.213117	without these scales
+-0.124589	would be transparent
+-0.119546	be transparent the
+-0.291961	transparent the colours
+-0.265783	make very fine
+-0.123715	fine patterns </s>
+-0.249411	once there lived
+-0.121336	there for the
+-0.122495	there lived a
+-0.225661	there was a
+-0.2037	there were only
+-0.283028	lived a shepherd
+-0.244515	shepherd in a
+-0.262804	shepherd was sad
+-0.203281	shepherd took them
+-0.255992	village he was
+-0.462488	he was a
+-0.528299	he was happy
+-0.122495	he had a
+-0.197657	he took the
+-0.119546	he counted the
+-0.197657	he found the
+-0.124239	he went out
+-0.124239	he walked all
+-0.119546	he got the
+-0.119546	he showed the
+-0.567704	was a kind
+-0.5363	was a lot
+-0.197657	was lost the
+-0.123715	was sad </s>
+-0.122669	was full of
+-0.201815	was happy he
+-0.281223	kind and good
+-0.245161	and are very
+-0.124589	and good man
+-0.124589	and become fat
+-0.123192	and hearing they
+-0.124589	and nuts by
+-0.124239	and holding out
+-0.123192	and america they
+-0.124589	and thick legs
+-0.124589	and seals when
+-0.123715	and rice bears
+-0.12389	and carried it
+-0.123017	good man he
+-0.278281	man he had
+-0.283512	had a hundred
+-0.274053	hundred sheep one
+-0.466402	sheep to the
+-0.555463	sheep to his
+-0.373748	sheep in the
+-0.495545	sheep in a
+-0.249178	sheep there were
+-0.278281	sheep he walked
+-0.262586	sheep was lost
+-0.2037	sheep one day
+-0.231391	sheep out and
+-0.27319	one sheep was
+-0.123017	one day he
+-0.278045	day he took
+-0.233409	took them back
+-0.250795	took the sheep
+-0.248247	riverside there was
+-0.557895	lot of grass
+-0.557895	lot of food
+-0.248712	grass there for
+-0.283493	evening the shepherd
+-0.227925	back to the
+-0.0780274	back home he
+-0.516218	home he was
+-0.557695	home he counted
+-0.250795	counted the sheep
+-0.124589	were only ninety-nine
+-0.2037	were happy too
+-0.124414	only ninety-nine one
+-0.202024	ninety-nine one sheep
+-0.283493	lost the shepherd
+-0.272329	lost sheep he
+-0.122669	colder parts of
+-0.19485	parts of the
+-0.25797	bears have very
+-0.231615	bears like to
+-0.546407	bears are found
+-0.546838	bears are not
+-0.233633	bears which live
+-0.124239	bears hibernate from
+-0.233633	hibernate from october
+-0.277107	october to april
+-0.124589	april before hibernating
+-0.123192	before hibernating they
+-0.273837	hibernating they eat
+-0.266907	eat a lot
+-0.122843	eat fish and
+-0.124589	eat meat vegetables
+-0.281223	food and become
+-0.124589	become fat although
+-0.123715	fat although bears
+-0.261931	although bears have
+-0.122843	poor eyesight and
+-0.281223	eyesight and hearing
+-0.274269	hearing they can
+-0.123715	can smell very
+-0.265783	smell very well
+-0.27947	well and are
+-0.242702	clever at the
+-0.249528	zoo you may
+-0.25916	may have noticed
+-0.124589	noticed how cleverly
+-0.123192	how cleverly they
+-0.274269	cleverly they beg
+-0.233783	beg for biscuits
+-0.281223	biscuits and nuts
+-0.124589	nuts by sitting
+-0.124589	by sitting up
+-0.122843	sitting up and
+-0.281223	up and holding
+-0.232959	holding out their
+-0.242644	out their paws
+-0.281223	out and carried
+-0.124064	out looking for
+-0.250795	found the sheep
+-0.272673	found in europe
+-0.124589	europe asia africa
+-0.122843	asia africa and
+-0.281223	africa and america
+-0.273406	america they have
+-0.124414	big bodies with
+-0.2037	bodies with short
+-0.122843	short tails and
+-0.281223	tails and thick
+-0.124589	thick legs polar
+-0.123715	legs polar bears
+-0.262367	polar bears which
+-0.17204	live in the
+-0.122669	coldest part of
+-0.19485	part of the
+-0.233633	usually eat fish
+-0.281223	fish and seals
+-0.124589	seals when kept
+-0.123017	when kept in
+-0.272673	kept in cages
+-0.231615	cages or in
+-0.262367	zoos bears like
+-0.124589	meat vegetables milk
+-0.122843	vegetables milk and
+-0.281223	milk and rice
+-0.226665	rice bears are
+-0.124414	not quite as
+-0.2037	quite as dangerous
+-0.124414	as dangerous as
+-0.124589	as we think
+-0.2037	dangerous as we
+-0.123192	we think they
+-0.224659	think they are
+-0.273837	animals they will
+-0.242644	do their best
+-0.277107	best to keep
+-0.124239	keep away from
+-0.233633	away from us
+-0.233633	went out looking
+-0.121336	looking for the
+-0.227162	walked all the
+-0.201815	way back to
+-0.249411	river at last
+-0.123017	last late in
+-0.17204	late in the
+-0.278045	night he found
+-0.291961	bush the bush
+-0.262804	bush was full
+-0.278386	full of thorns
+-0.278281	thorns he got
+-0.250795	got the sheep
+-0.258922	carried it home
+-0.278281	happy he showed
+-0.123715	happy too </s>
+-0.250795	showed the sheep
+-0.124239	his friends all
+-0.231167	friends all of
+\end\
