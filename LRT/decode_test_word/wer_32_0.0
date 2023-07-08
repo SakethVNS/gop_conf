@@ -1,0 +1,4 @@
+compute-wer --text --mode=present ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/test_filt.txt ark,p:- 
+%WER 64.41 [ 143 / 222, 29 ins, 37 del, 77 sub ]
+%SER 48.66 [ 91 / 187 ]
+Scored 187 sentences, 0 not present in hyp.

@@ -1,0 +1,193 @@
+# nnet3-latgen-faster-parallel --num-threads=4 --online-ivectors=scp:hindi_exp_word_letter_test/nnet3/ivectors_test_word_hires/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=140 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --minimize=false --max-active=7000 --min-active=200 --beam=15.0 --lattice-beam=15.0 --acoustic-scale=1.0 --allow-partial=true --word-symbol-table=hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/words.txt hindi_exp_word_letter_test/chain/tdnn/final.mdl hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/HCLG.fst "ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/test_word_hires/split8/7/utt2spk scp:data/test_word_hires/split8/7/cmvn.scp scp:data/test_word_hires/split8/7/feats.scp ark:- |" "ark:|lattice-scale --acoustic-scale=10.0 ark:- ark:- | gzip -c >hindi_exp_word_letter_test/chain/tdnn/decode_test_word/lat.7.gz" 
+# Started at Mon Sep  5 02:46:08 IST 2022
+#
+nnet3-latgen-faster-parallel --num-threads=4 --online-ivectors=scp:hindi_exp_word_letter_test/nnet3/ivectors_test_word_hires/ivector_online.scp --online-ivector-period=10 --frame-subsampling-factor=3 --frames-per-chunk=140 --extra-left-context=0 --extra-right-context=0 --extra-left-context-initial=0 --extra-right-context-final=0 --minimize=false --max-active=7000 --min-active=200 --beam=15.0 --lattice-beam=15.0 --acoustic-scale=1.0 --allow-partial=true --word-symbol-table=hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/words.txt hindi_exp_word_letter_test/chain/tdnn/final.mdl hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/HCLG.fst 'ark,s,cs:apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/test_word_hires/split8/7/utt2spk scp:data/test_word_hires/split8/7/cmvn.scp scp:data/test_word_hires/split8/7/feats.scp ark:- |' 'ark:|lattice-scale --acoustic-scale=10.0 ark:- ark:- | gzip -c >hindi_exp_word_letter_test/chain/tdnn/decode_test_word/lat.7.gz' 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+apply-cmvn --norm-means=false --norm-vars=false --utt2spk=ark:data/test_word_hires/split8/7/utt2spk scp:data/test_word_hires/split8/7/cmvn.scp scp:data/test_word_hires/split8/7/feats.scp ark:- 
+lattice-scale --acoustic-scale=10.0 ark:- ark:- 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckAndFixConfigs():nnet-am-decodable-simple.cc:294) Increasing --frames-per-chunk from 140 to 141 to make it a multiple of --frame-subsampling-factor=3
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+3114_HI_S1_WD_5 SIL कमल SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3114_HI_S1_WD_5 is 1.51539 over 138 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.151 seconds taken in nnet3 compilation total (breakdown: 0.137 compilation, 0.0075 optimization, 0 shortcut expansion, 0.00145 checking, 7.15e-06 computing indexes, 0.00482 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (29746368,447488,19837944), after rebuilding, repo size was 21648800, effective beam was 11.3618 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3130_HI_S1_WD_5
+3130_HI_S1_WD_5 SIL काम SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3130_HI_S1_WD_5 is 1.46749 over 80 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0842 seconds taken in nnet3 compilation total (breakdown: 0.0708 compilation, 0.00792 optimization, 0 shortcut expansion, 0.00164 checking, 5.96e-06 computing indexes, 0.00378 misc.) + 0 I/O.
+3136_HI_S3_WD_6 SIL रोटी SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3136_HI_S3_WD_6 is 1.811 over 68 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.157 seconds taken in nnet3 compilation total (breakdown: 0.124 compilation, 0.00884 optimization, 0 shortcut expansion, 0.00177 checking, 7.15e-06 computing indexes, 0.0223 misc.) + 0 I/O.
+3144_HI_S4_WD_8 SIL पास SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3144_HI_S4_WD_8 is 1.34381 over 192 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.101 seconds taken in nnet3 compilation total (breakdown: 0.0901 compilation, 0.00681 optimization, 0 shortcut expansion, 0.00132 checking, 5.01e-06 computing indexes, 0.00283 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+3145_HI_S1_WD_0 SIL हर SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3145_HI_S1_WD_0 is 1.61844 over 67 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.105 seconds taken in nnet3 compilation total (breakdown: 0.0739 compilation, 0.00635 optimization, 0 shortcut expansion, 0.00122 checking, 6.91e-06 computing indexes, 0.0239 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (27042144,702048,22297464), after rebuilding, repo size was 18834880, effective beam was 11.901 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3162_HI_S1_WD_7
+3162_HI_S1_WD_7 SIL फूल SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3162_HI_S1_WD_7 is 1.36046 over 72 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.103 seconds taken in nnet3 compilation total (breakdown: 0.0763 compilation, 0.0226 optimization, 0 shortcut expansion, 0.00121 checking, 6.91e-06 computing indexes, 0.00328 misc.) + 0 I/O.
+3173_HI_S3_WD_6 SIL रोटी SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3173_HI_S3_WD_6 is 1.74997 over 63 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.102 seconds taken in nnet3 compilation total (breakdown: 0.074 compilation, 0.0236 optimization, 0 shortcut expansion, 0.00122 checking, 6.2e-06 computing indexes, 0.00323 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (40718784,103616,9298152), after rebuilding, repo size was 32381856, effective beam was 7.90023 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3182_HI_S2_WD_1
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (26524992,621408,22910304), after rebuilding, repo size was 17391424, effective beam was 13.6634 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3175_HI_S1_WD_5
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+3175_HI_S1_WD_5 SIL काम SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3175_HI_S1_WD_5 is 1.38855 over 96 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0976 seconds taken in nnet3 compilation total (breakdown: 0.0862 compilation, 0.00704 optimization, 0 shortcut expansion, 0.00138 checking, 5.96e-06 computing indexes, 0.00298 misc.) + 0 I/O.
+3182_HI_S2_WD_1 SIL हरा SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3182_HI_S2_WD_1 is 1.11682 over 119 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.106 seconds taken in nnet3 compilation total (breakdown: 0.0784 compilation, 0.0231 optimization, 0 shortcut expansion, 0.00119 checking, 5.96e-06 computing indexes, 0.00305 misc.) + 0 I/O.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (36079072,321856,13601016), after rebuilding, repo size was 28944800, effective beam was 9.557 vs. requested beam 15
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (45119744,53856,5341488), after rebuilding, repo size was 43998464, effective beam was 3.81914 vs. requested beam 15
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:DeterminizeLatticePruned():determinize-lattice-pruned.cc:1280) Effective beam 3.81914 was less than beam 15 * cutoff 0.5, pruning raw lattice with new beam 7.56882 and retrying.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3186_HI_S4_WD_8
+3186_HI_S4_WD_8 SIL तुष् SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3186_HI_S4_WD_8 is 1.23102 over 448 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.105 seconds taken in nnet3 compilation total (breakdown: 0.0779 compilation, 0.00653 optimization, 0 shortcut expansion, 0.00121 checking, 7.15e-06 computing indexes, 0.0198 misc.) + 0 I/O.
+3200_HI_S3_WD_6 SIL रोटी SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3200_HI_S3_WD_6 is 2.06146 over 66 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.119 seconds taken in nnet3 compilation total (breakdown: 0.0916 compilation, 0.023 optimization, 0 shortcut expansion, 0.0012 checking, 7.15e-06 computing indexes, 0.00305 misc.) + 0 I/O.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (41922816,303840,7871448), after rebuilding, repo size was 35036448, effective beam was 6.0753 vs. requested beam 15
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:DeterminizeLatticePruned():determinize-lattice-pruned.cc:1280) Effective beam 6.0753 was less than beam 15 * cutoff 0.5, pruning raw lattice with new beam 9.54618 and retrying.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (apply-cmvn[5.5.1038-9af2c]:main():apply-cmvn.cc:81) Copied 20 utterances.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (29777888,214496,20049144), after rebuilding, repo size was 22520384, effective beam was 9.3652 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3213_HI_S4_WD_8
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (26837888,2126720,21036216), after rebuilding, repo size was 21465312, effective beam was 8.19146 vs. requested beam 9.54618
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (44852640,52288,5323560), after rebuilding, repo size was 43251648, effective beam was 5.73165 vs. requested beam 15
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:DeterminizeLatticePruned():determinize-lattice-pruned.cc:1280) Effective beam 5.73165 was less than beam 15 * cutoff 0.5, pruning raw lattice with new beam 9.27226 and retrying.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3206_HI_S2_WD_0
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+3206_HI_S2_WD_0 SIL खेल जान SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3206_HI_S2_WD_0 is 1.29377 over 241 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0944 seconds taken in nnet3 compilation total (breakdown: 0.0513 compilation, 0.0225 optimization, 0 shortcut expansion, 0.00115 checking, 6.2e-06 computing indexes, 0.0194 misc.) + 0 I/O.
+3213_HI_S4_WD_5 SIL का SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3213_HI_S4_WD_5 is 1.13207 over 125 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.13 seconds taken in nnet3 compilation total (breakdown: 0.101 compilation, 0.0235 optimization, 0 shortcut expansion, 0.00136 checking, 6.91e-06 computing indexes, 0.00404 misc.) + 0 I/O.
+3213_HI_S4_WD_8 SIL SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3213_HI_S4_WD_8 is 1.13916 over 98 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0801 seconds taken in nnet3 compilation total (breakdown: 0.0535 compilation, 0.00632 optimization, 0 shortcut expansion, 0.00112 checking, 4.29e-06 computing indexes, 0.0192 misc.) + 0 I/O.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (25007040,715424,24307032), after rebuilding, repo size was 15831168, effective beam was 13.2787 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3214_HI_S1_WD_0
+3214_HI_S1_WD_0 SIL हीरा SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3214_HI_S1_WD_0 is 1.63385 over 76 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0847 seconds taken in nnet3 compilation total (breakdown: 0.0748 compilation, 0.00599 optimization, 0 shortcut expansion, 0.00112 checking, 5.01e-06 computing indexes, 0.00276 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (24430304,546624,25031160), after rebuilding, repo size was 16393312, effective beam was 13.0047 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3214_HI_S1_WD_1
+3214_HI_S1_WD_1 SIL कास SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3214_HI_S1_WD_1 is 1.43371 over 99 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0821 seconds taken in nnet3 compilation total (breakdown: 0.0555 compilation, 0.0226 optimization, 0 shortcut expansion, 0.00124 checking, 7.15e-06 computing indexes, 0.0027 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (23524992,341248,26133912), after rebuilding, repo size was 16110272, effective beam was 12.47 vs. requested beam 15
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3299_HI_S3_WD_5
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (26972384,1111200,21923640), after rebuilding, repo size was 17996928, effective beam was 9.24489 vs. requested beam 9.27226
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (26645600,682432,22761960), after rebuilding, repo size was 17328000, effective beam was 14.3211 vs. requested beam 15
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:CheckMemoryUsage():determinize-lattice-pruned.cc:316) Did not reach requested beam in determinize-lattice: size exceeds maximum 50000000 bytes; (repo,arcs,elems) = (42407040,102528,7755840), after rebuilding, repo size was 35350016, effective beam was 7.26202 vs. requested beam 15
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:DeterminizeLatticePruned():determinize-lattice-pruned.cc:1280) Effective beam 7.26202 was less than beam 15 * cutoff 0.5, pruning raw lattice with new beam 10.437 and retrying.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3238_HI_S3_WD_5
+3238_HI_S3_WD_5 SIL देर गगनी सच SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3238_HI_S3_WD_5 is 1.23744 over 162 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.1 seconds taken in nnet3 compilation total (breakdown: 0.057 compilation, 0.0387 optimization, 0 shortcut expansion, 0.00119 checking, 6.2e-06 computing indexes, 0.00323 misc.) + 0 I/O.
+WARNING (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:operator()():decoder-wrappers.cc:102) Determinization finished earlier than the beam for utterance 3274_HI_S1_WD_0
+3274_HI_S1_WD_0 SIL हरा SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3274_HI_S1_WD_0 is 1.34532 over 144 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0618 seconds taken in nnet3 compilation total (breakdown: 0.0502 compilation, 0.00776 optimization, 0 shortcut expansion, 0.00137 checking, 5.96e-06 computing indexes, 0.00249 misc.) + 0 I/O.
+3299_HI_S3_WD_5 SIL SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3299_HI_S3_WD_5 is 1.24121 over 130 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0909 seconds taken in nnet3 compilation total (breakdown: 0.0799 compilation, 0.00629 optimization, 0 shortcut expansion, 0.00118 checking, 5.01e-06 computing indexes, 0.00347 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:RebuildRepository():determinize-lattice-pruned.cc:283) Rebuilding repository.
+3305_HI_S1_WD_5 SIL खु हिल कमल SIL 
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~DecodeUtteranceLatticeFasterClass():decoder-wrappers.cc:180) Log-like per frame for utterance 3305_HI_S1_WD_5 is 1.4862 over 154 frames.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:~CachingOptimizingCompiler():nnet-optimize.cc:710) 0.0803 seconds taken in nnet3 compilation total (breakdown: 0.0536 compilation, 0.00638 optimization, 0 shortcut expansion, 0.00115 checking, 5.25e-06 computing indexes, 0.0191 misc.) + 0 I/O.
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:main():nnet3-latgen-faster-parallel.cc:264) Time taken 89.4484s: real-time factor assuming 100 feature frames/sec is 4.52102
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:main():nnet3-latgen-faster-parallel.cc:268) Done 20 utterances, failed for 0
+LOG (nnet3-latgen-faster-parallel[5.5.1038-9af2c]:main():nnet3-latgen-faster-parallel.cc:270) Overall log-likelihood per frame is 1.36223 over 2638 frames.
+LOG (lattice-scale[5.5.1038-9af2c]:main():lattice-scale.cc:107) Done 20 lattices.
+# Accounting: time=90 threads=1
+# Ended (code 0) at Mon Sep  5 02:47:38 IST 2022, elapsed time 90 seconds

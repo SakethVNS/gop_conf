@@ -1,0 +1,10 @@
+# cat hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/penalty_0.0/32.txt | align-text --special-symbol='***' ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/test_filt.txt ark:- ark,t:- | utils/scoring/wer_per_utt_details.pl --special-symbol '***' | tee hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/wer_details/per_utt | utils/scoring/wer_per_spk_details.pl data/test_word_hires/utt2spk > hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/wer_details/per_spk 
+# Started at Mon Sep  5 02:47:59 IST 2022
+#
+align-text '--special-symbol=***' ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/test_filt.txt ark:- ark,t:- 
+LOG (align-text[5.5.1038-9af2c]:main():align-text.cc:135) Done 187 sentences, failed for 0
+utils/scoring/wer_per_utt_details.pl: Note: handling as utf-8 text
+utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
+utils/scoring/wer_per_spk_details.pl: Note: handling as utf-8 text
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Sep  5 02:47:59 IST 2022, elapsed time 0 seconds

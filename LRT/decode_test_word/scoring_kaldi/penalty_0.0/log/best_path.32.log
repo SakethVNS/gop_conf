@@ -1,0 +1,386 @@
+# lattice-scale --inv-acoustic-scale=32 "ark:gunzip -c hindi_exp_word_letter_test/chain/tdnn/decode_test_word/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=0.0 ark:- ark:- | lattice-best-path --word-symbol-table=hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/words.txt | local/wer_hyp_filter > hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/penalty_0.0/32.txt 
+# Started at Mon Sep  5 02:47:55 IST 2022
+#
+lattice-add-penalty --word-ins-penalty=0.0 ark:- ark:- 
+lattice-scale --inv-acoustic-scale=32 'ark:gunzip -c hindi_exp_word_letter_test/chain/tdnn/decode_test_word/lat.*.gz|' ark:- 
+lattice-best-path --word-symbol-table=hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh/words.txt ark:- ark,t:- 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2824_HI_S1_WD_0, best cost 137.185 + -129.001 = 8.18411 over 186 frames.
+2824_HI_S1_WD_0 SIL गाल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2824_HI_S1_WD_4, best cost 99.3509 + -79.3197 = 20.0312 over 132 frames.
+2824_HI_S1_WD_4 SIL मिली SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2824_HI_S1_WD_8, best cost 102.144 + -92.291 = 9.85305 over 131 frames.
+2824_HI_S1_WD_8 SIL आग नाक आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2825_HI_S4_WD_0, best cost 115.443 + -97.8359 = 17.6073 over 157 frames.
+2825_HI_S4_WD_0 SIL तोता SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2826_HI_S1_WD_1, best cost 488.753 + -394.459 = 94.2936 over 691 frames.
+2826_HI_S1_WD_1 SIL बूढ़ा पैसा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2826_HI_S1_WD_3, best cost 57.2179 + -64.3272 = -7.10931 over 73 frames.
+2826_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2826_HI_S1_WD_5, best cost 65.94 + -59.2768 = 6.6632 over 85 frames.
+2826_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2826_HI_S1_WD_7, best cost 86.5844 + -71.6854 = 14.899 over 113 frames.
+2826_HI_S1_WD_7 SIL झोल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2826_HI_S1_WD_8, best cost 48.208 + -49.2373 = -1.02929 over 60 frames.
+2826_HI_S1_WD_8 SIL दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2830_HI_S3_WD_0, best cost 96.9826 + -86.0371 = 10.9455 over 128 frames.
+2830_HI_S3_WD_0 SIL का SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2830_HI_S3_WD_2, best cost 83.6894 + -77.2415 = 6.44789 over 106 frames.
+2830_HI_S3_WD_2 SIL चूहा हा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2830_HI_S3_WD_3, best cost 126.516 + -111.712 = 14.8031 over 166 frames.
+2830_HI_S3_WD_3 SIL झूला न SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2830_HI_S3_WD_4, best cost 87.6993 + -77.46 = 10.2393 over 110 frames.
+2830_HI_S3_WD_4 SIL मेन ना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2833_HI_S1_WD_1, best cost 63.8625 + -58.7962 = 5.06624 over 82 frames.
+2833_HI_S1_WD_1 SIL कैसा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2833_HI_S1_WD_4, best cost 66.6341 + -68.6284 = -1.99431 over 86 frames.
+2833_HI_S1_WD_4 SIL भालू SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2833_HI_S1_WD_5, best cost 63.8605 + -65.4157 = -1.5552 over 82 frames.
+2833_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2833_HI_S1_WD_6, best cost 54.1555 + -63.9081 = -9.75256 over 68 frames.
+2833_HI_S1_WD_6 SIL पीला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2833_HI_S1_WD_9, best cost 55.8316 + -45.2057 = 10.626 over 71 frames.
+2833_HI_S1_WD_9 SIL मोर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2836_HI_S4_WD_0, best cost 157.979 + -139.805 = 18.1732 over 216 frames.
+2836_HI_S4_WD_0 SIL आगर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2836_HI_S4_WD_1, best cost 86.1801 + -70.9786 = 15.2015 over 113 frames.
+2836_HI_S4_WD_1 SIL सची SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2836_HI_S4_WD_2, best cost 83.8128 + -80.8985 = 2.91426 over 109 frames.
+2836_HI_S4_WD_2 SIL ताल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2836_HI_S4_WD_4, best cost 68.3083 + -70.1452 = -1.83697 over 89 frames.
+2836_HI_S4_WD_4 SIL पानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2836_HI_S4_WD_8, best cost 246.007 + -214.111 = 31.8963 over 343 frames.
+2836_HI_S4_WD_8 SIL पैसे SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2846_HI_S3_WD_0, best cost 72.7215 + -61.8218 = 10.8997 over 93 frames.
+2846_HI_S3_WD_0 SIL ना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2846_HI_S3_WD_1, best cost 43.355 + -51.1203 = -7.76534 over 53 frames.
+2846_HI_S3_WD_1 SIL तोता SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2846_HI_S3_WD_2, best cost 41.2755 + -37.4394 = 3.83615 over 50 frames.
+2846_HI_S3_WD_2 SIL चूहा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2846_HI_S3_WD_3, best cost 66.921 + -54.1309 = 12.7901 over 87 frames.
+2846_HI_S3_WD_3 SIL धुन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2846_HI_S3_WD_4, best cost 66.773 + -55.0609 = 11.7121 over 85 frames.
+2846_HI_S3_WD_4 SIL मीन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2850_HI_S4_WD_0, best cost 60.6827 + -52.624 = 8.05873 over 78 frames.
+2850_HI_S4_WD_0 SIL आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2863_HI_S4_WD_0, best cost 48.206 + -51.6118 = -3.40574 over 60 frames.
+2863_HI_S4_WD_0 SIL आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2863_HI_S4_WD_1, best cost 38.0977 + -34.1366 = 3.96103 over 46 frames.
+2863_HI_S4_WD_1 SIL सोच SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2863_HI_S4_WD_2, best cost 55.1375 + -53.1894 = 1.94809 over 70 frames.
+2863_HI_S4_WD_2 SIL ताला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2863_HI_S4_WD_4, best cost 45.1456 + -41.7961 = 3.34945 over 55 frames.
+2863_HI_S4_WD_4 SIL पानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2863_HI_S4_WD_7, best cost 39.2011 + -31.2151 = 7.98605 over 51 frames.
+2863_HI_S4_WD_7 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2866_HI_S4_WD_1, best cost 116.429 + -96.282 = 20.1471 over 163 frames.
+2866_HI_S4_WD_1 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2866_HI_S4_WD_4, best cost 71.6221 + -64.1918 = 7.43024 over 92 frames.
+2866_HI_S4_WD_4 SIL पा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2866_HI_S4_WD_8, best cost 133.025 + -115.568 = 17.4569 over 180 frames.
+2866_HI_S4_WD_8 SIL पासा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2867_HI_S3_WD_1, best cost 45.1516 + -34.2521 = 10.8994 over 59 frames.
+2867_HI_S3_WD_1 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2867_HI_S3_WD_2, best cost 34.7543 + -26.4144 = 8.33993 over 44 frames.
+2867_HI_S3_WD_2 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2881_HI_S1_WD_0, best cost 107.817 + -92.4382 = 15.3785 over 146 frames.
+2881_HI_S1_WD_0 SIL धुन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2881_HI_S1_WD_1, best cost 122.761 + -106.437 = 16.3235 over 160 frames.
+2881_HI_S1_WD_1 SIL खश सेर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2881_HI_S1_WD_2, best cost 81.7334 + -74.5751 = 7.15828 over 106 frames.
+2881_HI_S1_WD_2 SIL मेंने SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2881_HI_S1_WD_3, best cost 83.2677 + -71.5919 = 11.6758 over 110 frames.
+2881_HI_S1_WD_3 SIL पैर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2881_HI_S1_WD_4, best cost 119.445 + -101.545 = 17.9005 over 157 frames.
+2881_HI_S1_WD_4 SIL च दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2890_HI_S1_WD_1, best cost 184.474 + -153.74 = 30.7342 over 260 frames.
+2890_HI_S1_WD_1 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2890_HI_S1_WD_2, best cost 201.802 + -169.829 = 31.9733 over 285 frames.
+2890_HI_S1_WD_2 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2895_HI_S1_WD_0, best cost 64.6916 + -49.7088 = 14.9828 over 82 frames.
+2895_HI_S1_WD_0 SIL हाल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2895_HI_S1_WD_2, best cost 64.6926 + -60.2121 = 4.48045 over 82 frames.
+2895_HI_S1_WD_2 SIL सेर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2895_HI_S1_WD_5, best cost 78.7055 + -67.533 = 11.1725 over 104 frames.
+2895_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2895_HI_S1_WD_6, best cost 54.1555 + -63.8394 = -9.68393 over 68 frames.
+2895_HI_S1_WD_6 SIL पीला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2895_HI_S1_WD_8, best cost 56.5258 + -60.4413 = -3.91556 over 72 frames.
+2895_HI_S1_WD_8 SIL दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2915_HI_S1_WD_0, best cost 167.122 + -140.534 = 26.5881 over 224 frames.
+2915_HI_S1_WD_0 SIL हरा ना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2915_HI_S1_WD_3, best cost 72.7155 + -65.5558 = 7.15969 over 89 frames.
+2915_HI_S1_WD_3 SIL पा हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2915_HI_S1_WD_4, best cost 72.6974 + -74.9437 = -2.24628 over 82 frames.
+2915_HI_S1_WD_4 SIL खु पा हरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2915_HI_S1_WD_5, best cost 140.94 + -117.499 = 23.4403 over 192 frames.
+2915_HI_S1_WD_5 SIL नाम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2915_HI_S1_WD_8, best cost 127.225 + -107.613 = 19.6117 over 174 frames.
+2915_HI_S1_WD_8 SIL आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2916_HI_S1_WD_0, best cost 47.9191 + -56.8231 = -8.90394 over 59 frames.
+2916_HI_S1_WD_0 SIL गाना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2916_HI_S1_WD_1, best cost 104.883 + -88.6818 = 16.2013 over 132 frames.
+2916_HI_S1_WD_1 SIL खुश सों खुश SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2916_HI_S1_WD_2, best cost 216.204 + -177.414 = 38.7894 over 300 frames.
+2916_HI_S1_WD_2 SIL मीन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2916_HI_S1_WD_3, best cost 52.7692 + -52.1883 = 0.580906 over 66 frames.
+2916_HI_S1_WD_3 SIL पैर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2916_HI_S1_WD_4, best cost 270.557 + -229.281 = 41.2764 over 379 frames.
+2916_HI_S1_WD_4 SIL हाल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2921_HI_S3_WD_0, best cost 106.282 + -89.1708 = 17.1116 over 142 frames.
+2921_HI_S3_WD_0 SIL ताक SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2921_HI_S3_WD_1, best cost 54.1575 + -61.8041 = -7.64666 over 68 frames.
+2921_HI_S3_WD_1 SIL तोता SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2921_HI_S3_WD_7, best cost 106.141 + -105.958 = 0.183739 over 143 frames.
+2921_HI_S3_WD_7 SIL पीला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2921_HI_S3_WD_8, best cost 83.2696 + -83.3531 = -0.0835266 over 110 frames.
+2921_HI_S3_WD_8 SIL माला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2935_HI_S4_WD_0, best cost 257.942 + -217.455 = 40.4866 over 362 frames.
+2935_HI_S4_WD_0 SIL सोच SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2936_HI_S3_WD_0, best cost 135.798 + -112.394 = 23.4041 over 184 frames.
+2936_HI_S3_WD_0 SIL न SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2936_HI_S3_WD_1, best cost 79.1108 + -85.5586 = -6.44781 over 104 frames.
+2936_HI_S3_WD_1 SIL तोता SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2936_HI_S3_WD_2, best cost 65.2478 + -65.5937 = -0.345924 over 84 frames.
+2936_HI_S3_WD_2 SIL चूहा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2936_HI_S3_WD_5, best cost 72.1793 + -58.28 = 13.8993 over 94 frames.
+2936_HI_S3_WD_5 SIL देश SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2936_HI_S3_WD_8, best cost 59.5527 + -55.03 = 4.52264 over 74 frames.
+2936_HI_S3_WD_8 SIL माल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2939_HI_S1_WD_0, best cost 116.541 + -107.253 = 9.28784 over 158 frames.
+2939_HI_S1_WD_0 SIL हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2939_HI_S1_WD_3, best cost 104.063 + -115.884 = -11.8209 over 140 frames.
+2939_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2939_HI_S1_WD_5, best cost 81.1892 + -80.3926 = 0.796593 over 107 frames.
+2939_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2939_HI_S1_WD_6, best cost 64.5527 + -73.3075 = -8.75481 over 83 frames.
+2939_HI_S1_WD_6 SIL पीला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2944_HI_S1_WD_0, best cost 84.501 + -65 = 19.501 over 106 frames.
+2944_HI_S1_WD_0 SIL हीरा दा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2944_HI_S1_WD_5, best cost 98.2515 + -77.1185 = 21.133 over 131 frames.
+2944_HI_S1_WD_5 SIL किन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2944_HI_S1_WD_6, best cost 170.739 + -139.783 = 30.956 over 231 frames.
+2944_HI_S1_WD_6 SIL रोटी ला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2944_HI_S1_WD_8, best cost 62.0709 + -52.1204 = 9.9505 over 80 frames.
+2944_HI_S1_WD_8 SIL दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2944_HI_S1_WD_9, best cost 66.6341 + -59.3845 = 7.2496 over 86 frames.
+2944_HI_S1_WD_9 SIL मोर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2956_HI_S1_WD_0, best cost 49.1545 + -43.2838 = 5.87064 over 59 frames.
+2956_HI_S1_WD_0 SIL हर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2956_HI_S1_WD_2, best cost 39.7383 + -32.9271 = 6.81121 over 46 frames.
+2956_HI_S1_WD_2 SIL सोर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2956_HI_S1_WD_3, best cost 28.7979 + -28.8718 = -0.073885 over 32 frames.
+2956_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2956_HI_S1_WD_5, best cost 41.2745 + -34.4849 = 6.78961 over 50 frames.
+2956_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2956_HI_S1_WD_8, best cost 37.1166 + -32.4614 = 4.65527 over 44 frames.
+2956_HI_S1_WD_8 SIL दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2963_HI_S1_WD_0, best cost 74.1472 + -61.0744 = 13.0728 over 102 frames.
+2963_HI_S1_WD_0 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2963_HI_S1_WD_1, best cost 42.6678 + -34.1608 = 8.50703 over 56 frames.
+2963_HI_S1_WD_1 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2963_HI_S1_WD_2, best cost 34.1931 + -26.4397 = 7.75343 over 38 frames.
+2963_HI_S1_WD_2 SIL सेर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2963_HI_S1_WD_3, best cost 38.7908 + -32.9472 = 5.84366 over 47 frames.
+2963_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2963_HI_S1_WD_4, best cost 34.0612 + -22.3999 = 11.6613 over 43 frames.
+2963_HI_S1_WD_4 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2969_HI_S1_WD_2, best cost 39.8942 + -30.3396 = 9.55466 over 52 frames.
+2969_HI_S1_WD_2 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2969_HI_S1_WD_3, best cost 28.3996 + -22.036 = 6.36356 over 36 frames.
+2969_HI_S1_WD_3 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2995_HI_S3_WD_2, best cost 58.898 + -48.5841 = 10.3139 over 80 frames.
+2995_HI_S3_WD_2 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2995_HI_S3_WD_3, best cost 49.194 + -39.6269 = 9.56712 over 66 frames.
+2995_HI_S3_WD_3 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2998_HI_S3_WD_0, best cost 59.2914 + -50.8725 = 8.41889 over 72 frames.
+2998_HI_S3_WD_0 SIL आग नाक SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2998_HI_S3_WD_3, best cost 56.3688 + -55.6739 = 0.69487 over 66 frames.
+2998_HI_S3_WD_3 SIL धूप ना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2998_HI_S3_WD_7, best cost 88.9517 + -69.9077 = 19.044 over 117 frames.
+2998_HI_S3_WD_7 SIL ला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2998_HI_S3_WD_8, best cost 65.0919 + -60.3244 = 4.76749 over 78 frames.
+2998_HI_S3_WD_8 SIL मा झोला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 2998_HI_S3_WD_9, best cost 44.7413 + -37.6844 = 7.05689 over 55 frames.
+2998_HI_S3_WD_9 SIL दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3000_HI_S1_WD_0, best cost 108.072 + -94.8827 = 13.1893 over 144 frames.
+3000_HI_S1_WD_0 SIL गन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3000_HI_S1_WD_2, best cost 95.342 + -74.1976 = 21.1444 over 128 frames.
+3000_HI_S1_WD_2 SIL मोर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3000_HI_S1_WD_4, best cost 195.004 + -162.199 = 32.8053 over 270 frames.
+3000_HI_S1_WD_4 SIL ऐश SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3006_HI_S4_WD_0, best cost 40.8703 + -40.4567 = 0.413589 over 50 frames.
+3006_HI_S4_WD_0 SIL आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3006_HI_S4_WD_1, best cost 47.9181 + -42.8716 = 5.04656 over 59 frames.
+3006_HI_S4_WD_1 SIL सोच SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3006_HI_S4_WD_2, best cost 87.7164 + -77.1234 = 10.593 over 117 frames.
+3006_HI_S4_WD_2 SIL ताला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3006_HI_S4_WD_4, best cost 53.7522 + -47.2057 = 6.54652 over 68 frames.
+3006_HI_S4_WD_4 SIL पानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3006_HI_S4_WD_7, best cost 107.263 + -86.9454 = 20.318 over 144 frames.
+3006_HI_S4_WD_7 SIL दस SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3011_HI_S1_WD_0, best cost 127.479 + -100.451 = 27.0283 over 172 frames.
+3011_HI_S1_WD_0 SIL हा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3011_HI_S1_WD_2, best cost 72.1793 + -61.5136 = 10.6657 over 94 frames.
+3011_HI_S1_WD_2 SIL शेर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3011_HI_S1_WD_3, best cost 102.677 + -104.199 = -1.52186 over 138 frames.
+3011_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3011_HI_S1_WD_5, best cost 52.077 + -56.7695 = -4.69242 over 65 frames.
+3011_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3011_HI_S1_WD_7, best cost 68.4472 + -51.3611 = 17.0861 over 88 frames.
+3011_HI_S1_WD_7 SIL खुर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3013_HI_S1_WD_0, best cost 47.5139 + -57.9234 = -10.4096 over 59 frames.
+3013_HI_S1_WD_0 SIL हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3013_HI_S1_WD_2, best cost 38.501 + -31.7683 = 6.73268 over 46 frames.
+3013_HI_S1_WD_2 SIL पैर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3013_HI_S1_WD_3, best cost 53.7512 + -67.5724 = -13.8212 over 68 frames.
+3013_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3013_HI_S1_WD_5, best cost 43.354 + -42.2499 = 1.10404 over 53 frames.
+3013_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3013_HI_S1_WD_8, best cost 51.9616 + -40.0995 = 11.8621 over 66 frames.
+3013_HI_S1_WD_8 SIL दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3014_HI_S1_WD_0, best cost 37.1166 + -56.0521 = -18.9355 over 44 frames.
+3014_HI_S1_WD_0 SIL गाना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3014_HI_S1_WD_1, best cost 35.7303 + -51.0803 = -15.3499 over 42 frames.
+3014_HI_S1_WD_1 SIL खुश SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3014_HI_S1_WD_2, best cost 43.3559 + -56.8039 = -13.448 over 53 frames.
+3014_HI_S1_WD_2 SIL मोती SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3014_HI_S1_WD_3, best cost 32.9637 + -26.0462 = 6.91759 over 42 frames.
+3014_HI_S1_WD_3 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3014_HI_S1_WD_9, best cost 35.7313 + -37.211 = -1.47963 over 42 frames.
+3014_HI_S1_WD_9 SIL मोर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3021_HI_S1_WD_0, best cost 101.578 + -84.1206 = 17.4578 over 137 frames.
+3021_HI_S1_WD_0 SIL पैर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3021_HI_S1_WD_1, best cost 75.0857 + -66.1739 = 8.91187 over 93 frames.
+3021_HI_S1_WD_1 SIL कैसे कैसा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3021_HI_S1_WD_2, best cost 53.6012 + -53.3716 = 0.229675 over 66 frames.
+3021_HI_S1_WD_2 SIL सेर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3021_HI_S1_WD_3, best cost 66.922 + -66.8682 = 0.0537491 over 87 frames.
+3021_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3021_HI_S1_WD_4, best cost 100.441 + -76.3161 = 24.1253 over 129 frames.
+3021_HI_S1_WD_4 SIL लालू आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3034_HI_S3_WD_0, best cost 101.291 + -89.4548 = 11.8367 over 136 frames.
+3034_HI_S3_WD_0 SIL नाक SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3034_HI_S3_WD_1, best cost 112.924 + -104.304 = 8.61988 over 151 frames.
+3034_HI_S3_WD_1 SIL तेज SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3034_HI_S3_WD_3, best cost 95.34 + -89.298 = 6.04202 over 128 frames.
+3034_HI_S3_WD_3 SIL धुन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3034_HI_S3_WD_5, best cost 77.3182 + -68.5765 = 8.74171 over 102 frames.
+3034_HI_S3_WD_5 SIL पैर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3034_HI_S3_WD_7, best cost 106.835 + -101.494 = 5.34058 over 144 frames.
+3034_HI_S3_WD_7 SIL पीला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3036_HI_S3_WD_1, best cost 41.6808 + -36.4081 = 5.27271 over 50 frames.
+3036_HI_S3_WD_1 SIL तोता SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3036_HI_S3_WD_7, best cost 37.5269 + -27.1982 = 10.3288 over 48 frames.
+3036_HI_S3_WD_7 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3036_HI_S3_WD_8, best cost 43.7653 + -31.789 = 11.9762 over 57 frames.
+3036_HI_S3_WD_8 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3036_HI_S3_WD_9, best cost 48.8951 + -42.9668 = 5.92834 over 57 frames.
+3036_HI_S3_WD_9 SIL गाना दिन SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3042_HI_S1_WD_0, best cost 411.083 + -317.61 = 93.473 over 556 frames.
+3042_HI_S1_WD_0 SIL सोच आग ता कमल तोता गाना गाना SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3060_HI_S1_WD_0, best cost 145.248 + -120.04 = 25.2075 over 200 frames.
+3060_HI_S1_WD_0 SIL गिर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3060_HI_S1_WD_1, best cost 119.162 + -99.6925 = 19.4698 over 160 frames.
+3060_HI_S1_WD_1 SIL सी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3060_HI_S1_WD_2, best cost 100.736 + -92.8312 = 7.90504 over 134 frames.
+3060_HI_S1_WD_2 SIL सेर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3060_HI_S1_WD_3, best cost 63.4562 + -56.925 = 6.53124 over 82 frames.
+3060_HI_S1_WD_3 SIL नानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3060_HI_S1_WD_4, best cost 39.49 + -29.9084 = 9.58154 over 52 frames.
+3060_HI_S1_WD_4 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3061_HI_S4_WD_0, best cost 48.8992 + -41.7001 = 7.19904 over 61 frames.
+3061_HI_S4_WD_0 SIL आग SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3061_HI_S4_WD_1, best cost 46.5319 + -39.3086 = 7.2233 over 57 frames.
+3061_HI_S4_WD_1 SIL सोच SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3061_HI_S4_WD_2, best cost 42.9507 + -33.3712 = 9.57946 over 53 frames.
+3061_HI_S4_WD_2 SIL ताला SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3061_HI_S4_WD_3, best cost 41.5299 + -36.7072 = 4.82265 over 48 frames.
+3061_HI_S4_WD_3 SIL हीर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3061_HI_S4_WD_4, best cost 32.5525 + -38.1555 = -5.60299 over 38 frames.
+3061_HI_S4_WD_4 SIL पानी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3107_HI_S1_WD_7, best cost 53.059 + -47.2302 = 5.82884 over 67 frames.
+3107_HI_S1_WD_7 SIL खुश SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3114_HI_S1_WD_5, best cost 103.914 + -97.8245 = 6.08952 over 138 frames.
+3114_HI_S1_WD_5 SIL कमल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3130_HI_S1_WD_5, best cost 62.4743 + -56.2104 = 6.26381 over 80 frames.
+3130_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3136_HI_S3_WD_6, best cost 53.7532 + -55.2816 = -1.52843 over 68 frames.
+3136_HI_S3_WD_6 SIL रोटी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3144_HI_S4_WD_8, best cost 140.938 + -124.672 = 16.266 over 192 frames.
+3144_HI_S4_WD_8 SIL पास SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3145_HI_S1_WD_0, best cost 54.6997 + -50.9796 = 3.72002 over 67 frames.
+3145_HI_S1_WD_0 SIL हर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3162_HI_S1_WD_7, best cost 56.5248 + -48.2744 = 8.25042 over 72 frames.
+3162_HI_S1_WD_7 SIL फूल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3173_HI_S3_WD_6, best cost 50.2874 + -50.1674 = 0.120045 over 63 frames.
+3173_HI_S3_WD_6 SIL रोटी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3175_HI_S1_WD_5, best cost 73.5646 + -64.6454 = 8.91915 over 96 frames.
+3175_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3182_HI_S2_WD_1, best cost 89.1036 + -68.9795 = 20.1241 over 119 frames.
+3182_HI_S2_WD_1 SIL हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3186_HI_S4_WD_8, best cost 318.385 + -271.837 = 46.5477 over 448 frames.
+3186_HI_S4_WD_8 SIL तुष् SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3200_HI_S3_WD_6, best cost 51.9626 + -58.7559 = -6.79329 over 66 frames.
+3200_HI_S3_WD_6 SIL रोटी SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3206_HI_S2_WD_0, best cost 178.907 + -153.345 = 25.5617 over 241 frames.
+3206_HI_S2_WD_0 SIL खेल जान SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3213_HI_S4_WD_5, best cost 94.9032 + -73.8788 = 21.0244 over 125 frames.
+3213_HI_S4_WD_5 SIL का SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3213_HI_S4_WD_8, best cost 71.3747 + -57.1912 = 14.1835 over 98 frames.
+3213_HI_S4_WD_8 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3214_HI_S1_WD_0, best cost 59.7026 + -57.461 = 2.24166 over 76 frames.
+3214_HI_S1_WD_0 SIL हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3214_HI_S1_WD_1, best cost 76.4761 + -68.2542 = 8.22189 over 99 frames.
+3214_HI_S1_WD_1 SIL कास SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3238_HI_S3_WD_5, best cost 126.914 + -102.306 = 24.608 over 162 frames.
+3238_HI_S3_WD_5 SIL देर गगनी सच SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3274_HI_S1_WD_0, best cost 108.072 + -94.3118 = 13.7602 over 144 frames.
+3274_HI_S1_WD_0 SIL हरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3299_HI_S3_WD_5, best cost 93.5553 + -79.6602 = 13.8951 over 130 frames.
+3299_HI_S3_WD_5 SIL SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3305_HI_S1_WD_5, best cost 121.371 + -109.424 = 11.9469 over 154 frames.
+3305_HI_S1_WD_5 SIL खुश हिल कमल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3321_HI_S1_WD_1, best cost 91.5883 + -75.89 = 15.6984 over 122 frames.
+3321_HI_S1_WD_1 SIL कैसा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3321_HI_S1_WD_7, best cost 45.2844 + -38.6663 = 6.61812 over 54 frames.
+3321_HI_S1_WD_7 SIL खुर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3336_HI_S1_WD_0, best cost 89.1017 + -72.1179 = 16.9838 over 119 frames.
+3336_HI_S1_WD_0 SIL पैर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3336_HI_S1_WD_1, best cost 84.9267 + -71.4546 = 13.4721 over 106 frames.
+3336_HI_S1_WD_1 SIL खोस खोश SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3340_HI_S1_WD_0, best cost 35.7303 + -27.7278 = 8.00255 over 42 frames.
+3340_HI_S1_WD_0 SIL हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3340_HI_S1_WD_5, best cost 31.9758 + -34.9393 = -2.96353 over 36 frames.
+3340_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3342_HI_S1_WD_0, best cost 374.403 + -280.987 = 93.4153 over 477 frames.
+3342_HI_S1_WD_0 SIL राट सोच का हरा आइस काम रन नानी सी मीठी च SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3369_HI_S1_WD_5, best cost 84.655 + -76.1681 = 8.48684 over 112 frames.
+3369_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3369_HI_S1_WD_7, best cost 133.465 + -115.649 = 17.8161 over 183 frames.
+3369_HI_S1_WD_7 SIL फूल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3372_HI_S1_WD_0, best cost 143.398 + -113.207 = 30.1908 over 184 frames.
+3372_HI_S1_WD_0 SIL नही राहा हा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3372_HI_S1_WD_1, best cost 57.3548 + -48.5837 = 8.7711 over 72 frames.
+3372_HI_S1_WD_1 SIL सा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3389_HI_S1_WD_0, best cost 85.3491 + -77.4867 = 7.8624 over 113 frames.
+3389_HI_S1_WD_0 SIL हीरा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3389_HI_S1_WD_1, best cost 57.912 + -52.4521 = 5.45996 over 74 frames.
+3389_HI_S1_WD_1 SIL कैसा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3402_HI_S1_WD_0, best cost 50.5408 + -46.9407 = 3.60013 over 61 frames.
+3402_HI_S1_WD_0 SIL हर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3402_HI_S1_WD_7, best cost 46.3819 + -40.8574 = 5.52447 over 55 frames.
+3402_HI_S1_WD_7 SIL हल SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3404_HI_S1_WD_5, best cost 62.4743 + -57.5676 = 4.90664 over 80 frames.
+3404_HI_S1_WD_5 SIL काम SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3404_HI_S1_WD_7, best cost 68.1583 + -59.7038 = 8.45453 over 87 frames.
+3404_HI_S1_WD_7 SIL खुर SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3415_HI_S1_WD_0, best cost 81.7324 + -67.2063 = 14.5261 over 106 frames.
+3415_HI_S1_WD_0 SIL हर SIL 
+LOG (lattice-scale[5.5.1038-9af2c]:main():lattice-scale.cc:107) Done 187 lattices.
+LOG (lattice-add-penalty[5.5.1038-9af2c]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 187 lattices.
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:99) For utterance 3415_HI_S1_WD_1, best cost 109.898 + -92.4803 = 17.4178 over 149 frames.
+3415_HI_S1_WD_1 SIL कैसा SIL 
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:124) Overall cost per frame is 0.0918441 = 0.760549 [graph] + -0.668704 [acoustic] over 21433 frames.
+LOG (lattice-best-path[5.5.1038-9af2c]:main():lattice-best-path.cc:128) Done 187 lattices, failed for 0
+# Accounting: time=4 threads=1
+# Ended (code 0) at Mon Sep  5 02:47:59 IST 2022, elapsed time 4 seconds

@@ -1,0 +1,22 @@
+# set -o pipefail && lattice-add-penalty --word-ins-penalty=0.0 "ark:gunzip -c LRT/decode_test_word//lat.2.gz|" ark:- | lattice-prune --inv-acoustic-scale=32 --beam=5 ark:- ark:- | lattice-align-words-lexicon LRT/decode_test_word//../graph_hindi_let_wor_saketh//phones/align_lexicon.int LRT/decode_test_word//../final.mdl ark:- ark:- | lattice-mbr-decode --acoustic-scale=.03125000000000000000 --one-best-times=true ark:- ark:- ark:/dev/null ark,t:LRT/decode_test_word//ctm/2.sau 
+# Started at Wed Oct 12 15:31:59 IST 2022
+#
+lattice-prune --inv-acoustic-scale=32 --beam=5 ark:- ark:- 
+lattice-align-words-lexicon LRT/decode_test_word//../graph_hindi_let_wor_saketh//phones/align_lexicon.int LRT/decode_test_word//../final.mdl ark:- ark:- 
+lattice-add-penalty --word-ins-penalty=0.0 'ark:gunzip -c LRT/decode_test_word//lat.2.gz|' ark:- 
+ERROR (lattice-align-words-lexicon[5.5.1038~8-9af2c]:Input():kaldi-io.cc:756) Error opening input stream LRT/decode_test_word//../final.mdl
+
+[ Stack-Trace: ]
+/media/run/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0x6ed) [0x7efedb9939db]
+lattice-align-words-lexicon(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x11) [0x416a9d]
+/media/run/kaldi/src/lib/libkaldi-util.so(kaldi::Input::Input(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, bool*)+0x90) [0x7efedba5d7d0]
+lattice-align-words-lexicon(main+0x4b5) [0x414d7b]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7efe9fb500b3]
+lattice-align-words-lexicon(_start+0x2e) [0x41480e]
+
+kaldi::KaldiFatalErrorlattice-mbr-decode --acoustic-scale=.03125000000000000000 --one-best-times=true ark:- ark:- ark:/dev/null ark,t:LRT/decode_test_word//ctm/2.sau 
+LOG (lattice-mbr-decode[5.5.1038~8-9af2c]:main():lattice-mbr-decode.cc:120) Done 0 lattices.
+LOG (lattice-mbr-decode[5.5.1038~8-9af2c]:main():lattice-mbr-decode.cc:121) Average Bayes Risk per sentence is -nan and per word, -nan
+LOG (lattice-prune[5.5.1038~8-9af2c]:main():lattice-prune.cc:95) For utterance 2850_HI_S4_WD_0, pruned #states from 1595 to 152 and #arcs from 1661 to 151
+# Accounting: time=0 threads=1
+# Ended (code 1) at Wed Oct 12 15:31:59 IST 2022, elapsed time 0 seconds

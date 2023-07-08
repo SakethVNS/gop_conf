@@ -1,0 +1,17 @@
+# gunzip -c hindi_exp_word_letter_test/chain/tdnn/decode_test_word/depth_stats_tmp.*.gz | steps/diagnostic/analyze_lattice_depth_stats.py hindi_exp_word_letter_test/chain/tree_a_sp/graph_hindi_let_wor_saketh 
+# Started at Mon Sep  5 02:47:55 IST 2022
+#
+The total amount of data analyzed assuming 100 frames per second is 0.1 hours
+Overall, lattice depth (10,50,90-percentile)=(94,632,2874) and mean=1188.1
+Phone SIL_S accounts for 68.4% of frames, with lattice depth (10,50,90-percentile)=(81,437,1574) and mean=769.3
+Nonsilence phones as a group account for 17.9% of frames, with lattice depth (10,50,90-percentile)=(544,1271,4340) and mean=2017.0
+Phone SIL accounts for 13.7% of frames, with lattice depth (10,50,90-percentile)=(177,1063,5161) and mean=2195.0
+Phone aa_E accounts for 2.7% of frames, with lattice depth (10,50,90-percentile)=(525,1068,2656) and mean=1797.1
+Phone aa_I accounts for 1.7% of frames, with lattice depth (10,50,90-percentile)=(608,1315,4050) and mean=1709.6
+Phone ii_E accounts for 1.0% of frames, with lattice depth (10,50,90-percentile)=(358,883,1821) and mean=1111.1
+Phone ee_I accounts for 0.8% of frames, with lattice depth (10,50,90-percentile)=(477,1540,3930) and mean=2563.8
+Phone o_I accounts for 0.7% of frames, with lattice depth (10,50,90-percentile)=(616,1350,7626) and mean=2962.1
+Phone s_B accounts for 0.7% of frames, with lattice depth (10,50,90-percentile)=(656,1540,4989) and mean=2307.0
+Phone r_E accounts for 0.6% of frames, with lattice depth (10,50,90-percentile)=(656,1324,3205) and mean=1727.5
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Sep  5 02:47:55 IST 2022, elapsed time 0 seconds

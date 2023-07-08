@@ -1,0 +1,6 @@
+# compute-wer-bootci --mode=present ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/test_filt.txt ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/penalty_0.0/32.txt > hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/wer_details/wer_bootci 
+# Started at Mon Sep  5 02:48:00 IST 2022
+#
+compute-wer-bootci --mode=present ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/test_filt.txt ark:hindi_exp_word_letter_test/chain/tdnn/decode_test_word/scoring_kaldi/penalty_0.0/32.txt 
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Sep  5 02:48:00 IST 2022, elapsed time 0 seconds
